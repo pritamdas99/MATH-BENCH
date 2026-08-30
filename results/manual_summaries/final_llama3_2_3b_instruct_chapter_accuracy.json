@@ -1,0 +1,128 @@
+[
+  {
+    "ChapterName": "ফাংশন",
+    "total": 10,
+    "correct": 2,
+    "incorrect": 8,
+    "accuracy": 0.2
+  },
+  {
+    "ChapterName": "সম্ভাবনা",
+    "total": 33,
+    "correct": 4,
+    "incorrect": 29,
+    "accuracy": 0.12121212121212122
+  },
+  {
+    "ChapterName": "বাস্তব সংখ্যা ও অসমতা",
+    "total": 9,
+    "correct": 1,
+    "incorrect": 8,
+    "accuracy": 0.1111111111111111
+  },
+  {
+    "ChapterName": "জটিল সংখ্যা",
+    "total": 19,
+    "correct": 2,
+    "incorrect": 17,
+    "accuracy": 0.10526315789473684
+  },
+  {
+    "ChapterName": "ত্রিকোণমিতি",
+    "total": 41,
+    "correct": 4,
+    "incorrect": 37,
+    "accuracy": 0.0975609756097561
+  },
+  {
+    "ChapterName": "অন্তরীকরণ",
+    "total": 74,
+    "correct": 7,
+    "incorrect": 67,
+    "accuracy": 0.0945945945945946
+  },
+  {
+    "ChapterName": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "total": 12,
+    "correct": 1,
+    "incorrect": 11,
+    "accuracy": 0.08333333333333333
+  },
+  {
+    "ChapterName": "গতিবিদ্যা",
+    "total": 38,
+    "correct": 2,
+    "incorrect": 36,
+    "accuracy": 0.05263157894736842
+  },
+  {
+    "ChapterName": "বিন্যাস ও সমাবেশ",
+    "total": 20,
+    "correct": 1,
+    "incorrect": 19,
+    "accuracy": 0.05
+  },
+  {
+    "ChapterName": "সরলরেখা",
+    "total": 35,
+    "correct": 1,
+    "incorrect": 34,
+    "accuracy": 0.02857142857142857
+  },
+  {
+    "ChapterName": "ভেক্টর",
+    "total": 18,
+    "correct": 0,
+    "incorrect": 18,
+    "accuracy": 0.0
+  },
+  {
+    "ChapterName": "বৃত্ত",
+    "total": 25,
+    "correct": 0,
+    "incorrect": 25,
+    "accuracy": 0.0
+  },
+  {
+    "ChapterName": "সমাকলন",
+    "total": 78,
+    "correct": 0,
+    "incorrect": 78,
+    "accuracy": 0.0
+  },
+  {
+    "ChapterName": "রৈখিক প্রোগ্রামিং",
+    "total": 3,
+    "correct": 0,
+    "incorrect": 3,
+    "accuracy": 0.0
+  },
+  {
+    "ChapterName": "বহুপদী ও সমীকরণ",
+    "total": 22,
+    "correct": 0,
+    "incorrect": 22,
+    "accuracy": 0.0
+  },
+  {
+    "ChapterName": "দ্বিপদী বিস্তৃতি",
+    "total": 20,
+    "correct": 0,
+    "incorrect": 20,
+    "accuracy": 0.0
+  },
+  {
+    "ChapterName": "কণিক",
+    "total": 37,
+    "correct": 0,
+    "incorrect": 37,
+    "accuracy": 0.0
+  },
+  {
+    "ChapterName": "স্থিতিবিদ্যা",
+    "total": 34,
+    "correct": 0,
+    "incorrect": 34,
+    "accuracy": 0.0
+  }
+]

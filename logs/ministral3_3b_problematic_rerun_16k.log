@@ -1,0 +1,490 @@
+[1/125] id=3 finish=stop expected=$A=\begin{bmatrix}-1&2&1\end{bmatrix}$
+prediction: **DetailedAnswer:** প্রশ্নে দেওয়া হয়েছে যে, \[ \begin{bmatrix} 4 \\ 1 \\ 3 \end{bmatrix} A = \begin{bmatrix} -4 & 8 & 4 \\ -1 & 2 & 1 \\ -3 & 6 & 3 \end{bmatrix} \] এখানে \(\begin{bmatrix}4 \\ 1 \\ 3\end{bmatrix}\) ...
+[2/125] id=5 finish=length expected=$-114$
+prediction: DetailedAnswer: এই ৫×৫ মাত্রিকের সারণীতে লাইনের লিঙ্কিং (row reduction) ব্যবহার করে সিঙ্গুলার ভেরিয়েন্টের মাধ্যমে সিঙ্গুলার ভেরিয়েন্টের মাধ্যমে সিঙ্গুলার ভেরিয়েন্টের মাধ্যমে সিঙ্গুলার ভেরিয়েন্টের মাধ্যমে সিঙ্গুলার...
+[3/125] id=33 finish=stop expected=$k=\pm5$
+prediction: DetailedAnswer: ১. **প্রশ্নের উপাদান বিশ্লেষণ:** - রেখা ১: \( x\sec\theta - y\operatorname{cosec}\theta = k \) এর লম্ব দূরত্ব = \( 2 \) cm - রেখা ২: \( x\cos\theta - y\sin\theta = k\cos2\theta \) এর লম্ব দূরত্ব = \( 3...
+[4/125] id=37 finish=length expected=$(y-2)=7(x-1)$ এবং $(y-2)=-\frac{1}{7}(x-1)$
+prediction: **DetailedAnswer:** ১. **বর্গের কর্ণের সংজ্ঞা ও গাণিতিক সম্পর্ক:** বর্গের কর্ণের সমীকরণটি \(3x - 4y - 6 = 0\)। বর্গের শীর্ষবিন্দু \(A(1, 2)\) এবং কর্ণের সমীকরণ থেকে বাহুগুলির দৈর্ঘ্য সম্পর্কিত তথ্য প্রাপ্ত হয়। কর্ণের...
+[5/125] id=44 finish=stop expected=$\pm\cot2\alpha$; $\alpha$, $\frac{\pi}{2}-\alpha$
+prediction: **DetailedAnswer:** ১. **রেখাগুলির সাধারণ রূপ:** দুটি রেখা দেয়া হল: \[ R_1: x\sin\alpha - y\cos\alpha + c = 0 \quad \text{ এবং } \quad R_2: x\cos\alpha - y\sin\alpha + c = 0 \] এদের সাধারণ রূপের আকার: \[ R_1: \sin\al...
+[6/125] id=46 finish=length expected=$x+y+2=0$
+prediction: DetailedAnswer: ১. রেখা দুটি সমীকরণের সমাধান করে তাদের সাপেক্ষে বিন্দু পাওয়ার চেষ্টা করা যেতে পারে, কিন্তু এখানে অন্তর্ভুক্ত স্থূলকোণের সমদ্বিখণ্ডকের সমীকরণের জন্য তা প্রয়োজনীয় নয়। পরিবর্তে, আমরা **দ্বিখণ্ডক সমীকর...
+Retrying id=49 because finish_reason=error (1/2)
+[7/125] id=49 finish=length expected=$(b^2+a^2)y-ac=0$
+prediction: **DetailedAnswer:** ১. **ছেদ বিন্দু বের করা:** দুইটি রেখার সমীকরণ হল: \[ \begin{cases} ax + by = 0 \quad \text{(১)} \\ bx - ay + c = 0 \quad \text{(২)} \end{cases} \] ছেদ বিন্দু \((x_0, y_0)\) এই দুটি রেখার সমাধান। সম...
+[8/125] id=62 finish=length expected=$3x^2-y^2=0$
+prediction: **DetailedAnswer:** ১. **বিন্দুর অবস্থান নির্ধারণ:** বিন্দুটির অবস্থান যেকোনো বিন্দু হিসেবে ধরা যেতে পারে, কিন্তু সেটি মূল বিন্দু (০,০) থেকে দূরত্বের অর্ধেক দূরত্বে অবস্থিত। যেহেতু সমস্যা *y*-অক্ষ রেখা হতে বিন্দুর দূর...
+[9/125] id=68 finish=length expected=$x+y=9$ ও $x-y=1$
+prediction: **DetailedAnswer:** ১. **ছেদ বিন্দু নির্ণয়:** রেখাদ্বয়ের ছেদ বিন্দুটি উভয় সমীকরণের সমাধান করে পাওয়া যায়। \[ \begin{cases} 7x + 13y - 87 = 0 \quad (1) \\ 5x - 8y + 7 = 0 \quad (2) \end{cases} \] সমীকরণ (২) থেকে \(...
+Retrying id=70 because finish_reason=error (1/2)
+[10/125] id=70 finish=stop expected=$32$ বর্গ একক
+prediction: **DetailedAnswer:** ১. **বাহুগুলোর মধ্যবিন্দু থেকে বাহুগুলোর সম্পর্ক নির্ধারণ:** ত্রিভুজের তিনটি বাহুর মধ্যবিন্দুকে সংযুক্ত করলে একটি নতুন ত্রিভুজ গঠিত হয়, যার বাহুগুলোর দৈর্ঘ্য ত্রিভুজের বাহুগুলোর দৈর্ঘ্যের ১/২। এই ...
+[11/125] id=72 finish=length expected=$C(0,\pm\sqrt{2}a)$, $x^2+y^2-ax-2a^2=0$
+prediction: **DetailedAnswer:** ১. **রেখাগুলির সমীকরণ বের করা:** - বিন্দু \( A(2a, 0) \) এবং \( B(-a, 0) \) থেকে যাওয়া দুটি রেখা \( y \)-অক্ষের উপর \( C(x, 0) \) বিন্দুতে লম্বভাবে ছেদ করে। অর্থাৎ, এই রেখাগুলি \( C \) বিন্দুতে \(...
+Retrying id=74 because finish_reason=error (1/2)
+Retrying id=74 because finish_reason=error (2/2)
+[12/125] id=74 finish=stop expected=$3x+4y-25=0$
+prediction: **DetailedAnswer:** ১. **বৃত্তের সমীকরণ ও জ্যা সম্পর্কিত তথ্য:** বৃত্তের সমীকরণ \( x^2 + y^2 = 64 \) থেকে বোঝা যায় যে, এর কেন্দ্র \( (0, 0) \) এবং bánকৃত্ত (রেডিয়াস) \( r = 8 \)। জ্যা \( AB \) সমদ্বিখণ্ডিত হয় \( (3...
+[13/125] id=78 finish=length expected=$(x-5)^2+(y\pm\sqrt{21})^2=25$
+prediction: **DetailedAnswer:** ১. **বৃত্তের সাধারণ সমীকরণ:** একটি বৃত্তের সাধারণ সমীকরণ হলো: \[ (x - h)^2 + (y - k)^2 = r^2 \] যেখানে \((h, k)\) হল বৃত্তের কেন্দ্র এবং \(r\) হল bánকক্ষের দৈর্ঘ্য। ২. **বৃত্তের সাথে \(y\)-অক্ষের স...
+[14/125] id=82 finish=length expected=$(x-4)^2+(y\pm5)^2=5^2$
+prediction: **DetailedAnswer:** ১. **বৃত্তের সাধারণ সমীকরণ:** বৃত্তের সাধারণ সমীকরণ হল: \[ (x - h)^2 + (y - k)^2 = r^2 \] যেখানে \((h, k)\) বৃত্তের কেন্দ্র এবং \(r\) বৃত্তের ব্যাসার্ধ। ২. **বৃত্তের \(x\)-অক্ষ স্পর্শের শর্ত:** বৃত...
+[15/125] id=84 finish=length expected=$x-y=0$ ও $x-y+12=0$
+prediction: **DetailedAnswer:** ১. **বৃত্তের কেন্দ্র ও ব্যাসের সমীকরণ বের করা:** বৃত্তের সমীকরণটি নিম্নলিখিত রূপে লেখা হয়: \[ x^2 + y^2 + 4x - 8y + 2 = 0 \] এই রূপটিকে কেন্দ্র-ব্যাসের সমীকরণে রূপান্তর করতে, আমরা সম্পূর্ণ বর্গ কর...
+[16/125] id=85 finish=length expected=$a=3,\frac{77}{9}$
+prediction: DetailedAnswer: ১. **বৃত্তের সমীকরণের সাধারণ রূপ থেকে কেন্দ্র ও বৃত্তের বৃত্তাকার বৃত্তের রেডিয়াস বের করা:** বৃত্তের সমীকরণ: \( x^2 + y^2 - 4x + 2ay - 12 = 0 \) এই সমীকরণকে সাধারণ রূপে রূপান্তর করলে: \[ (x^2 - 4x) + ...
+Retrying id=87 because finish_reason=error (1/2)
+[17/125] id=87 finish=length expected=$r=3\sqrt{2}$
+prediction: **DetailedAnswer:** ১. **বিন্দুসমূহের দূরত্বের সমীকরণ:** বিন্দু $(6,7)$ ও $(12,13)$-এর মধ্যকার দূরত্ব $r$ ব্যাসার্ধ বিশিষ্ট একক বৃত্ত দ্বারা অতিক্রমিত হলে, উভয় বিন্দুকে বৃত্তের সমীকরণ $x^2 + y^2 + Dx + Ey + F = 0$ দ্...
+[18/125] id=94 finish=stop expected=$x^2+y^2-4x+2y+4=0$, $4x+3y=0$
+prediction: **DetailedAnswer:** ১. **বৃত্তের সাধারণ সমীকরণ:** বৃত্তের সমীকরণ সাধারণত নিম্নলিখিত রূপে লেখা হয়: \[ (x - h)^2 + (y - k)^2 = r^2 \] যেখানে \((h, k)\) হল বৃত্তের কেন্দ্র এবং \(r\) হল বৃত্তের ব্যাসার্ধ। ২. **বিন্দু \((...
+Retrying id=98 because finish_reason=error (1/2)
+[19/125] id=98 finish=stop expected=$36$
+prediction: DetailedAnswer: ১. **বিজোড় সংখ্যার শর্ত**: একটি সংখ্যা বিজোড় হলে তার শেষ অঙ্কটি ১, ৩, ৫, ৭ বা ৯ হতে হবে। এখানে উপলব্ধ অঙ্কসমূহ হল ০, ৪, ৫, ৬, ৭। তাই শেষ অঙ্ক হিসেবে উপলব্ধ অঙ্কসমূহ হল **৫, ৭** (অন্যগুলো বিজোড় সংখ্য...
+[20/125] id=103 finish=length expected=$4315672$
+prediction: DetailedAnswer: ১. **প্রশ্নের বোঝাপড়া ও সীমাবদ্ধতা:** - ব্যবহারযোগ্য অঙ্ক: ১, ২, ৩, ৪, ৫, ৬, ৭ (৭টি অঙ্ক, প্রতিটি একবার ব্যবহার করা যাবে)। - সংখ্যাটি ৭-অঙ্কের এবং ৫ দ্বারা অবিভাজ্য (অর্থাৎ শেষ অঙ্কটি ৫ নয়)। - সংখ্যা...
+Retrying id=105 because finish_reason=error (1/2)
+[21/125] id=105 finish=stop expected=$155$টি
+prediction: **DetailedAnswer:** 1. **বর্ণের তালিকা প্রস্তুতকরণ:** *PERMUTATIONS* শব্দের বর্ণগুলো হল: **P, E, R, M, U, T, A, T, I, O, N, S** - স্বরবর্ণ: **E, U, I, O** (4টি) - ব্যঞ্জনবর্ণ: **P, R, M, T, N, S** (6টি, কিন্তু 'T' দুট...
+[22/125] id=113 finish=stop expected=$(i)\ 60$, $(ii)\ 60$
+prediction: **DetailedAnswer:** ১. **প্রশ্নের বিশ্লেষণ:** - পতাকাগুলোকে **সাদা (W)**, **সবুজ (G₁, G₂)** এবং **লাল (R₁, R₂, R₃)** হিসেবে শ্রেণীবদ্ধ করা হয়। - সমস্যাটি দুটি ভাগে বিভক্ত: - **(i)** ছয়টি পতাকা ব্যবহার করে বিভিন্ন সং...
+[23/125] id=116 finish=stop expected=$2^n+\frac{1}{2^n}$
+prediction: DetailedAnswer: ১. Given: \[ \cos \alpha + \sec \alpha = \frac{5}{2} \] Let \( x = \cos \alpha \). Then \( \sec \alpha = \frac{1}{x} \), so the equation becomes: \[ x + \frac{1}{x} = \frac{5}{2} \] Multiply both sides...
+[24/125] id=117 finish=stop expected=$\cos(x+y)=\frac{a^2-b^2}{a^2+b^2}$
+prediction: DetailedAnswer: ১. Given the equations: \[ \cos x + \cos y = a \quad \text{(১)} \] \[ \sin x + \sin y = b \quad \text{(২)} \] ২. Using the trigonometric identity for the sum of cosines and sines: \[ \cos x + \cos y = ...
+[25/125] id=122 finish=stop expected=$6.5$
+prediction: DetailedAnswer: ১. **সমস্যা সংক্ষেপণ ও প্রস্তুতি:** Given $\theta = \frac{\pi}{36}$, we need to evaluate the sum: \[ S = \sin^2 3\theta + \sin^2 4\theta + \sin^2 5\theta + \dots + \sin^2 15\theta. \] First, observe th...
+Retrying id=138 because finish_reason=error (1/2)
+[26/125] id=138 finish=stop expected=$2\pi$
+prediction: **DetailedAnswer:** ১. ফাংশনটি \( f(x) = \sin x \tan 2x \) এর পর্যায় নির্ণয়ের জন্য প্রথমে \(\tan 2x\) এর পর্যায় নির্ণয় করা যেতে পারে। \(\tan \theta\) এর পর্যায় \( \frac{\pi}{2} \) (অর্ধ-সাইকেল)। তাই \(\tan 2x\) এ...
+[27/125] id=152 finish=stop expected=$f_{max}=-3$, $f_{min}=-128$
+prediction: DetailedAnswer: ১. **সমীকরণের শূন্য স্থান নির্ধারণ:** ফাংশন \( f(x) = 2x^3 - 21x^2 + 36x - 20 \) এর শূন্য স্থান খুঁজতে \( f(x) = 0 \) সমাধান করা হয়। \[ 2x^3 - 21x^2 + 36x - 20 = 0 \] এই সমীকরণের জন্য **রেস্তোরেশন মেথ...
+[28/125] id=156 finish=stop expected=অস্তিত্বহীন হবে
+prediction: DetailedAnswer: ১. **সমস্যা বিশ্লেষণ:** \[ \lim_{x \to 0^-} \frac{\ln x}{\cosec x} \] যখন \( x \to 0^- \), তখন \( \ln x \to -\infty \) এবং \( \cosec x = \frac{1}{\sin x} \to +\infty \) (সিনের মান \( x \) এর নিকটে \( 0...
+[29/125] id=158 finish=stop expected=$\frac{1}{16}$
+prediction: **DetailedAnswer:** ১. **সাম্যাংশের সংজ্ঞা ও সরলীকরণ:** সমস্যা: \[ \lim_{x \to 0} \frac{\ln\left(1 - \frac{x}{4}\right) - \left(1 - x\right)^{\frac{1}{4}} + 1}{x^2} \] প্রথমে, \(x \to 0\) হলে প্রতিটি অংশের সংজ্ঞা পরীক...
+Retrying id=168 because finish_reason=error (1/2)
+[30/125] id=168 finish=stop expected=$0$
+prediction: **DetailedAnswer:** ১. **পরিবর্তন করা:** উপদান \( y = (x + \sqrt{1 + x^2})^m + (x + \sqrt{1 + x^2})^{-m} \) লক্ষ্য করলে, আমরা দেখতে পারি যে \( y \) একটি সিমেট্রিক ফাংশন। এখানে \( a = x + \sqrt{1 + x^2} \) এবং \( b = x...
+[31/125] id=171 finish=stop expected=$2$
+prediction: DetailedAnswer: ১. **প্রশ্নের রূপান্তর**: সমীক্ষার বিন্দু \( x \to 0 \) এ, নিম্নলিখিত রূপে সমস্যা রূপান্তর করা যায়: \[ \lim_{x \to 0} \frac{1 - e^{2x}}{\ln(1 - x)} = \lim_{x \to 0} \frac{e^{2x} \cdot (-2x)}{\ln(1 - x...
+[32/125] id=179 finish=stop expected=$\frac{dy}{dx}=\frac{y}{x}$
+prediction: DetailedAnswer: ১. সমীকরণটি \( x^a y^b = (x - y)^{a+b} \) থেকে উভয় পক্ষকে লগারিদম নেওয়া হয়: \[ \log(x^a y^b) = \log\left((x - y)^{a+b}\right) \] যা লগারিদমের গুণনীয়性 ব্যবহার করে: \[ a \log x + b \log y = (a + b) \...
+[33/125] id=219 finish=stop expected=$0$
+prediction: DetailedAnswer: ১. প্রথমে লিমিটের অভিব্যক্তিকে সাধারণকরণ করা হয়: \[ \lim_{x \to 0} \left( \frac{1}{\sin x} - \frac{1}{\tan x} \right) = \lim_{x \to 0} \left( \frac{\tan x - \sin x}{\sin x \tan x} \right) \] ২. \(\tan...
+Traceback (most recent call last):
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 130, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 84, in main
+    response = call_openrouter_with_retry(
+        api_key,
+    ...<4 lines>...
+        args.retries,
+    )
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 119, in call_openrouter_with_retry
+    return call_openrouter(api_key, model, prompt, timeout, max_tokens)
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 102, in call_openrouter
+    return json.loads(resp.read().decode("utf-8"))
+                      ~~~~~~~~~^^
+  File "/usr/lib/python3.14/http/client.py", line 478, in read
+    return self._read_chunked(amt)
+           ~~~~~~~~~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 602, in _read_chunked
+    while (chunk_left := self._get_chunk_left()) is not None:
+                         ~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/http/client.py", line 584, in _get_chunk_left
+    chunk_left = self._read_next_chunk_size()
+  File "/usr/lib/python3.14/http/client.py", line 544, in _read_next_chunk_size
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python3.14/socket.py", line 725, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.14/ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+[1/92] id=229 finish=stop expected=$\tan x+\sec x+c$
+prediction: DetailedAnswer: ১. সমীকরণটি রূপান্তর করুন: \[ \int \frac{dx}{1 - \sin x} \] প্রথমে, ডেনমিনেটর \(1 - \sin x\) এর সাথে \(\sin x\) এর উপস্থিতি বিবেচনা করে, একটি সাধারণ ত্রিভুজীয় উপায়ে রূপান্তর করা যায়। সাধারনভাবে, \(1...
+[2/92] id=231 finish=stop expected=$a^2\left(\frac{\pi}{2}-\frac{4}{3}\right)$
+prediction: **DetailedAnswer:** ১. **বক্ররেখার সমীকরণসমূহের বিশ্লেষণ:** - প্রথম সমীকরণ: \( x^2 + y^2 = 2ax \) রূপান্তর করে: \[ x^2 - 2ax + y^2 = 0 \implies (x - a)^2 + y^2 = a^2 \] এই হল একটি কেন্দ্র \( (a, 0) \), বৃত্তের ব্যাসার...
+[3/92] id=234 finish=stop expected=$(i)\ -\frac{1}{2}$, $(ii)\ \frac{1}{2}$
+prediction: DetailedAnswer: --- ### **(i) $\int_{-\infty}^{0} x e^{-x^2} \, dx$** ১. **পরিবর্তন করা হলে সমস্যা পরিবর্তন হয় না:** $\int_{-\infty}^{0} x e^{-x^2} \, dx = -\int_{0}^{\infty} x e^{-x^2} \, dx$ (ব্যবহার করা হয়েছে $u ...
+[4/92] id=235 finish=length expected=$\frac{e^3}{4}-1$
+prediction: DetailedAnswer: ১. **সমীকরণের বিশ্লেষণ:** সমীকরণটি হল \(\int_0^3 \frac{xe^x}{(x+1)^2} \, dx\)। এই সমস্যা একটি রাশির অন্তরাল সমাধান করার জন্য উপযুক্ত। এখানে রাশি \(\frac{xe^x}{(x+1)^2}\) একটি রাশি যা সহজে সরলীকরণের উপয...
+[5/92] id=238 finish=stop expected=$\frac{1}{2m}e^{m\tan^{-1}x}+\frac{e^{m\tan^{-1}x}}{2(m^2+4)}\{m\cos(2\tan^{-1}x)+2\sin(2\tan^{-1}x)\}+c$
+prediction: **DetailedAnswer:** প্রশ্নের সমাধান করার জন্য নিম্নলিখিত ধাপে ধাপে বিশ্লেষণ করা হলো: ১. **উপাদান পরিবর্তন:** ইন্টিগ্রালের ভিতরে উপস্থিত \(\tan^{-1} x\) এবং \((1 + x^2)\)-এর সম্পর্ক দেখতে, সাবস্টিটিউশন পদ্ধতি ব্যবহার ক...
+Traceback (most recent call last):
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 130, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 84, in main
+    response = call_openrouter_with_retry(
+        api_key,
+    ...<4 lines>...
+        args.retries,
+    )
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 119, in call_openrouter_with_retry
+    return call_openrouter(api_key, model, prompt, timeout, max_tokens)
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 102, in call_openrouter
+    return json.loads(resp.read().decode("utf-8"))
+                      ~~~~~~~~~^^
+  File "/usr/lib/python3.14/http/client.py", line 478, in read
+    return self._read_chunked(amt)
+           ~~~~~~~~~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 608, in _read_chunked
+    value.append(self._safe_read(chunk_left))
+                 ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 648, in _safe_read
+    data = self.fp.read(cursize)
+  File "/usr/lib/python3.14/socket.py", line 725, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.14/ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+[1/87] id=239 finish=length expected=$\left(\frac{8}{3}\pi-3\sqrt{3}\right)a^2$
+prediction: DetailedAnswer: ১. প্রথম রেখা \( y^2 = ax \) একটি প্যারাবোলা। এটির বৃত্তাকার আকৃতির সাথে সংযোগের জন্য \( x \)-অক্ষের সাথে সমান্তরাল একটি লাইন বা বৃত্তের সমীকরণের প্রয়োজন। দ্বিতীয় সমীকরণ \( x^2 + y^২ = 4ax \) বৃত্তের...
+[2/87] id=241 finish=stop expected=$\frac{1}{\sqrt{2}}\tan^{-1}\left(\frac{x-\frac{1}{x}}{\sqrt{2}}\right)+c$
+prediction: DetailedAnswer: ১. সমীকরণটি $\int \frac{x^2 + 1}{x^4 + 1} \, dx$ রূপান্তর করি। ডেনোমিনেটর $x^4 + 1$ এর ফ্যাক্টরাইজেশন করা যায়: \[ x^4 + 1 = (x^2 + \sqrt{2}x + 1)(x^2 - \sqrt{2}x + 1) \] কিন্তু সরাসরি ফ্যাক্টরাইজেশন ব...
+[3/87] id=242 finish=length expected=$4.5\ sq.\ units$
+prediction: DetailedAnswer: ১. **সমীকরণ সমাধান:** - দশমিক সমীকরণসমূহ হল: \[ y = x^2 \quad \text{(১)} \] \[ y = x - 2 \quad \text{(২)} \] - দুটি রেখা আবদ্ধ ক্ষেত্রের সীমানা নির্ধারণের জন্য, তাদের সমন্বয় বিন্দু খুঁজতে সমীকরণ (১) ও...
+[4/87] id=247 finish=stop expected=$\ln\frac{\sqrt{3}+1}{2}$
+prediction: DetailedAnswer: ১. সমীকরণের ভেতরে \(1 + \sin x - \cos x\) রূপান্তর করতে, প্রথমে একটি সাধারণকরণের চেষ্টা করা হয়। একটি উপায় হলো \(1 + \sin x - \cos x\)কে \(\sin x + \cos x\) এর ফর্মে রূপান্তর করা। এই উদ্দেশ্যে, \(1\)ক...
+Retrying id=259 because finish_reason=error (1/2)
+[5/87] id=259 finish=stop expected=$\frac{\pi}{4}$
+prediction: DetailedAnswer: ১. সমীকরণের ডেনোমিনেটর \(\sin^4 x + \cos^4 x\)কে সংক্ষিপ্ত করার জন্য ব্যবহার করি: \[ \sin^4 x + \cos^4 x = (\sin^2 x + \cos^2 x)^2 - 2\sin^2 x \cos^2 x = 1 - 2\sin^2 x \cos^2 x \] কারণ \(\sin^2 x + \co...
+Retrying id=262 because finish_reason=error (1/2)
+[6/87] id=262 finish=stop expected=$\frac{e}{2}-1$
+prediction: DetailedAnswer: প্রশ্নের সমাধান করার জন্য **অনুপাতিক ভাগকরণ (Quotient Rule)** এবং **অনুপাতিক ভাগকরণের ফলাফলকে সংশ্লিষ্ট ফাংশনের অন্তর্যোগের মাধ্যমে** সমাধান করা যেতে পারে। তবে এখানে একটি ভালো উপায় হল **অনুপাতিক ভাগকর...
+[7/87] id=272 finish=length expected=$\frac{1}{3}$ বর্গ একক
+prediction: DetailedAnswer: ১. **সমীকরণ সমাধান:** গাণিতিক সমস্যার জন্য দশটি সমীকরণ \( y = x^2 \) এবং \( x = y^2 \) দ্বারা সীমাবদ্ধ এলাকার ক্ষেত্রফল নির্ণয় করা হয়। প্রথমে এই দুটি সমীকরণের সমাধান করা হয়। - \( y = x^2 \) এবং \( x...
+[8/87] id=273 finish=length expected=$\frac{1}{4}\ln\left|\frac{2+\sin x}{2-\sin x}\right|+C$
+prediction: DetailedAnswer: ১. সমীকরণটি রূপান্তর করুন: \[ \int \frac{\cos x}{3 + \cos^2 x} \, dx \] এখানে \(\cos x\) এর সাথে \(dx\) থাকে, তাই সমীকরণের ভেতরে \(\cos x\) এর সাথে \(dx\) যুক্ত করা হয়েছে। ২. উপস্থাপনটি পরিবর্তন করুন:...
+Traceback (most recent call last):
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 130, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 84, in main
+    response = call_openrouter_with_retry(
+        api_key,
+    ...<4 lines>...
+        args.retries,
+    )
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 119, in call_openrouter_with_retry
+    return call_openrouter(api_key, model, prompt, timeout, max_tokens)
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 102, in call_openrouter
+    return json.loads(resp.read().decode("utf-8"))
+                      ~~~~~~~~~^^
+  File "/usr/lib/python3.14/http/client.py", line 478, in read
+    return self._read_chunked(amt)
+           ~~~~~~~~~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 602, in _read_chunked
+    while (chunk_left := self._get_chunk_left()) is not None:
+                         ~~~~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/http/client.py", line 584, in _get_chunk_left
+    chunk_left = self._read_next_chunk_size()
+  File "/usr/lib/python3.14/http/client.py", line 544, in _read_next_chunk_size
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python3.14/socket.py", line 725, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.14/ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+[1/79] id=278 finish=length expected=$36\left[\pi/2-\sin^{-1}(5/6)-\frac{1}{2}\sin\left\{2\sin^{-1}\left(\frac{5}{6}\right)\right\}\right]$
+prediction: DetailedAnswer: ১. বৃত্তের সমীকরণ \( x^2 + y^2 = 36 \) থেকে বোঝা যায় যে, এর কেন্দ্রটি \((0, 0)\) এবং bánমুখী ব্যাসের দৈর্ঘ্য \( r = 6 \) (যেহেতু \( 36 = 6^2 \))। ২. সরলরেখা \( x = 5 \) হল একটি垂直রেখা, যা \( x \)-অক্ষে...
+Retrying id=295 because finish_reason=error (1/2)
+Retrying id=295 because finish_reason=error (2/2)
+[2/79] id=295 finish=stop expected=$e-\frac{2}{\log2}$
+prediction: DetailedAnswer: ১. সমীকরণের ভিতরে লগারিদমের ভেতর একই ভাগকৃতক (log x) থাকায়, আমরা প্রতিটি টার্মকে আলাদা করে নিতে পারি: \[ \int_2^e \left[\frac{1}{\log x} - \frac{1}{(\log x)^2}\right] dx = \int_2^e \frac{1}{\log x} \,...
+[3/79] id=300 finish=stop expected=$\frac{1}{2a}$
+prediction: DetailedAnswer: ১. সমীকরণটি ভাগ করে নেওয়ার মাধ্যমে উপলব্ধি করা যায়: \[ \int_0^a \frac{a^2 - x^2}{(a^2 + x^2)^2} \, dx = \int_0^a \left( \frac{a^2}{(a^2 + x^2)^2} - \frac{x^2}{(a^2 + x^2)^2} \right) dx \] এখানে প্রথম...
+[4/79] id=303 finish=stop expected=$61$ জন
+prediction: **DetailedAnswer:** 1. **পরিস্থিতি বিশ্লেষণ:** - মোট ছাত্র সংখ্যা = ১০০ জন - ফুটবল টিমের সদস্য সংখ্যা = ৭০ জন - কোন টিমেই না থাকা ছাত্র সংখ্যা = ২০ জন - ক্রিকেট টিমের সদস্য সংখ্যা > ফুটবল টিমের সদস্য সংখ্যা (অর্থাৎ, ক...
+Retrying id=306 because finish_reason=error (1/2)
+[5/79] id=306 finish=stop expected=$-\frac{2}{5}\le x\le-\frac{4}{15}$ এবং $x\ne-\frac{1}{3}$
+prediction: DetailedAnswer: ১. সমীকরণটি $\frac{1}{|3x+1|} \geq 5$। প্রথমে অপেক্ষাকৃত সহজতর অংশটি বিবেচনা করি। $|3x+1|$ এর মান সর্বদা নেগেটিভ হয় না, তাই $|3x+1| > 0$। এই কারণে ডিভাইড করার সময় বামপাশের চিহ্নের পরিবর্তন হয় না। ২....
+[6/79] id=314 finish=stop expected=$x^2+y^2+2x+y=0$
+prediction: DetailedAnswer: ১. সমীকরণটি সম্পূর্ণ কাল্পনিক হলে, এর বাস্তব অংশটি ০ হয়। তাই বাস্তব অংশটি বের করতে প্রথমে \( z \) এর সাধারণ রূপ \( z = x + iy \) ধরে নেওয়া হয়, যেখানে \( x \) ও \( y \) বাস্তব সংখ্যা। ২. উপস্থাপন করি...
+[7/79] id=318 finish=stop expected=$r=\frac{3}{\sqrt{5}}$
+prediction: DetailedAnswer: ১. প্রথমে দুটি জটিল সংখ্যা যোগ করতে হলে তাদের প্রতিটিকে একটি সাধারণ চিহ্নকরন (conjugate) যোগ করে বাকি অংশে ভাগ করে নিতে হবে। প্রথম জটিল সংখ্যা: \(\frac{3+2i}{2+3i}\) - প্রতিটি সংখ্যার সাধারণ চিহ্নকরন: ...
+[8/79] id=334 finish=length expected=$2,-2,-3,-4$
+prediction: **DetailedAnswer:** ১. **সমীকরণের মূলের ধারণা:** সমীকরণটি একটি ৪-তম ডিগ্রির (কুবিক) সমীকরণ। এর মূলসমূহের যোগফল, যোগফল-বর্গ, যোগফল × গুণফল, এবং গুণফল সম্পর্কিত সমীকরণের জন্য ভালো-বলা সূত্র (Vieta's formulas) ব্যবহার কর...
+Retrying id=343 because finish_reason=error (1/2)
+[9/79] id=343 finish=stop expected=$p=10,q=24$
+prediction: DetailedAnswer: ১. **সমীকরণের সাধারণ মূল ধারণা:** তিনটি সমীকরণের একটি সাধারণ মূল (common root) থাকলে, সেই মূলটি সবগুলো সমীকরণে সত্য হবে। অর্থাৎ, যদি \( r \) সাধারণ মূল হয়, তাহলে: \[ r^2 + p r + q = 0 \quad (1) \] \[ ...
+[10/79] id=348 finish=length expected=$p=6,-1$
+prediction: DetailedAnswer: ১. সমীকরণটি একটি দ্বি-বিঘ্নিক সমীকরণ। এর মূলগুলোকে \( r_1 \) এবং \( r_2 \) দ্বারা প্রকাশ করা যেতে পারে। ২. সমীকরণের মূলের মধ্যে সম্পর্কের জন্য, সমীকরণের মূলের মধ্যে সম্পর্কের জন্য, সমীকরণের মূলের মধ্যে...
+[11/79] id=351 finish=stop expected=$k=4,-1$
+prediction: **DetailedAnswer:** ১. **সমীকরণের মূলের ধর্ম:** একটি দ্বি-মূল সমীকরণের মূলদ্বয় \( \alpha \) ও \( \beta \) হলে, তাদের যোগ ও গুণের সম্পর্ক নিম্নরূপ: \[ \alpha + \beta = -\frac{b}{a}, \quad \alpha \beta = \frac{c}{a} \]...
+[12/79] id=360 finish=stop expected=$\sqrt{3}-1$
+prediction: DetailedAnswer: এই অসীম ধারাটির প্রতিটি পদকে বিশ্লেষণ করার জন্য প্রথমে সাধারণ পদের রূপকে চিহ্নিত করা যাক। ধারাটির \( n \)-তম পদটি নিম্নরূপ: \[ a_n = \frac{1 \cdot 3 \cdot 5 \cdots (2n-1)}{3 \cdot 6 \cdot 9 \cdots 3n} ...
+[13/79] id=361 finish=stop expected=$\frac{105}{32}x^{10}$
+prediction: DetailedAnswer: ১. বিন্যাসটি একটি বহুপদী বর্গমূলের রূপ। এর বিস্তৃতিতে প্রতিটি পদের সাধারণ রূপ হবে: \[ \binom{10}{k_1, k_2} \left(\frac{x^4}{y^3}\right)^{k_1} \left(\frac{y^2}{2x}\right)^{k_2} \] যেখানে \(k_1 + k_2 = 1...
+[14/79] id=368 finish=length expected=$\left(\frac{2}{3}\right)^{-2/3}$
+prediction: DetailedAnswer: ১. **সমস্যার বিশ্লেষণ:** দত্ত অন্তধারাটি নিম্নরূপ: \[ S = 1 + 2 \cdot \frac{1}{3^2} + \frac{2! \cdot 5}{1! \cdot 2!} \cdot \frac{1}{3^4} + \frac{2! \cdot 5 \cdot 8}{1! \cdot 2! \cdot 3!} \cdot \frac{1}...
+[15/79] id=370 finish=stop expected=$3003$
+prediction: DetailedAnswer: ১. উপাদানটি \((x^3 + \frac{1}{x^6})^{15}\) একটি দ্বি-বিন্যাসের (binomial) রূপ। এর বিস্তৃতিতে সাধারণ পদটি বিন্যাসের সূত্র অনুসারে লেখা যায়: \[ T_{k+1} = \binom{15}{k} \left(x^3\right)^{15-k} \left(\fra...
+[16/79] id=373 finish=length expected=$\frac{7}{1536}$
+prediction: DetailedAnswer: ১. সমস্যা থেকে জানা যায় যে \( x \) এর মান \( -\frac{8}{3} < x < \frac{8}{3} \)-এর মধ্যে। এই অঞ্চলে \( 8 - 3x \) এর মান \( 8 - 3 \times \frac{8}{3} = 0 \) থেকে \( 8 - 3 \times (-\frac{8}{3}) = 16 \)-এর...
+[17/79] id=377 finish=length expected=$9$ বর্গ একক
+prediction: **DetailedAnswer:** ১. উপবৃত্তের সমীকরণটি নিম্নরূপে লেখা হয়: \[ 16(x-2)^2 + 25(y-3)^2 = 400 \] এই সমীকরণটি উপবৃত্তের সাধারণ ফর্মের সাথে তুলনা করে, যেখানে উপবৃত্তের কেন্দ্র \((h, k) = (2, 3)\) এবং উপবৃত্তের আকারের জন্...
+[18/79] id=379 finish=stop expected=$\frac{x^2}{2^2}-\frac{y^2}{3^2}=1$, $e=\sqrt{1+\frac{3^2}{2^2}}$, $\sqrt{13}x=\pm4$, $(\pm\sqrt{13},0)$
+prediction: **DetailedAnswer:** ১. **সঞ্চারপথের সমীকরণ নির্ধারণ:** বিন্দুটি $(2\sec\theta, 3\tan\theta)$ এর সঞ্চারপথের জন্য $x$ ও $y$ এর মধ্যে সম্পর্ক নির্ধারণ করা হয়। \[ x = 2\sec\theta \implies \sec\theta = \frac{x}{2} \implie...
+[19/79] id=380 finish=length expected=$(2,4)$
+prediction: **DetailedAnswer:** ১. **বিন্দু $(18, 0)$ এর নিকটবর্তী বিন্দু খুঁজে নেওয়ার লক্ষ্য:** গাণিতিক সমস্যা হলো $y = x^2$ বক্ররেখার উপর এমন একটি বিন্দু $(x, y)$ খুঁজে নেওয়া যাতে $(x, y)$ বিন্দুটি $(18, 0)$ বিন্দুটির সর্বোচ্...
+[20/79] id=381 finish=stop expected=সরল রেখাটি পরাবৃত্তিকে স্পর্শ করে না।
+prediction: **DetailedAnswer:** সরলরেখা \( y = 4x + 2 \) এবং পরাবৃত্ত \( y^2 = 12x \) স্পর্শের জন্য তাদের মধ্যকার সংযোগবিন্দুতে তাদের পাশাপাশি পৌঁছানো প্রয়োজন। অর্থাৎ, একই \( x \)-অক্ষের মানে তাদের \( y \)-মান সমান হবে। ১. সরলরে...
+[21/79] id=383 finish=length expected=$2x+y-1=0, 2x+y=3$
+prediction: **DetailedAnswer:** ১. **উপকেন্দ্র ও উৎকেন্দ্রের সম্পর্ক:** উপকেন্দ্র $(1,1)$ এবং উৎকেন্দ্রিকতা $e = \sqrt{2}$। উৎকেন্দ্র $(h,k)$ এর অবস্থান উপকেন্দ্র থেকে উৎকেন্দ্রিকতার দূরত্ব $e$ বের করে পাওয়া যায়: \[ \sqrt{(h-1)...
+Retrying id=385 because finish_reason=error (1/2)
+[22/79] id=385 finish=stop expected=$(y+3)^2=\pm4(x-4)$
+prediction: **DetailedAnswer:** ১. **অক্ষের বৈশিষ্ট্য অনুযায়ী সমীকরণের ফরম্যাট নির্ধারণ:** সমস্যার মতে, পরাবৃত্তের অক্ষ *x*-অক্ষের সমান্তরাল। অর্থাৎ, এটি একটি **горизонтальালেলাইস** (হরিজন্টাল এলাইস) বা **x*-অক্ষের উপর ঘোরা** পর...
+[23/79] id=386 finish=stop expected=$8,6,12\pi$
+prediction: **DetailedAnswer:** উপবৃত্তের সাধারণ সমীকরণের আকারে রূপান্তর করি: \[ 16x^2 + 9y^2 - 32x - 128 = 0 \] ১. সমীকরণে \( y^2 \)-এর সমানুপাতিক কোэফিসিয়েন্টকে ১ করে নিতে \( x \)-এর সমীকরণে ১৬-এ ভাগ করি: \[ \frac{16x^2}{16} +...
+[24/79] id=388 finish=length expected=$x^2-y^2=32$
+prediction: **DetailedAnswer:** ১. **অধিবৃত্তের সাধারণ সমীকরণ:** অধিবৃত্তের সাধারণ স্থানাঙ্ক সমীকরণ হল: \[ \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 \] যেখানে \(a\) ও \(b\) হল অধিবৃত্তের অক্ষের দৈর্ঘ্য। অধিবৃত্তের উৎকেন্দ্রিকতা \(e\)...
+[25/79] id=390 finish=stop expected=$(y+3)^2=4(x-4)$
+prediction: **DetailedAnswer:** ১. **পরাবৃত্তের সাধারণ সমীকরণ:** পরাবৃত্তের সাধারণ উপকেন্দ্রিক সমীকরণ (যখন অক্ষটি \(x\)-অক্ষের সমান্তরাল) হল: \[ \frac{(x - h)^2}{a^2} + \frac{(y - k)^2}{b^2} = 1 \] যেখানে \((h, k)\) হল উপকেন্দ্রব...
+Traceback (most recent call last):
+  File "/usr/lib/python3.14/urllib/request.py", line 1321, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              encode_chunked=req.has_header('Transfer-encoding'))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 1358, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 1404, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 1353, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 1113, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 1057, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/http/client.py", line 1499, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+                ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+                                          server_hostname=server_hostname)
+                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        sock=sock,
+        ^^^^^^^^^^
+    ...<5 lines>...
+        session=session
+        ^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/usr/lib/python3.14/ssl.py", line 1076, in _create
+    self.do_handshake()
+    ~~~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/ssl.py", line 1372, in do_handshake
+    self._sslobj.do_handshake()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 130, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 84, in main
+    response = call_openrouter_with_retry(
+        api_key,
+    ...<4 lines>...
+        args.retries,
+    )
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 119, in call_openrouter_with_retry
+    return call_openrouter(api_key, model, prompt, timeout, max_tokens)
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 101, in call_openrouter
+    with request.urlopen(req, timeout=timeout) as resp:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 187, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 487, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.14/urllib/request.py", line 504, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+                              '_open', req)
+  File "/usr/lib/python3.14/urllib/request.py", line 464, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.14/urllib/request.py", line 1369, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        context=self._context)
+                        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 1324, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 104] Connection reset by peer>
+[1/54] id=393 finish=length expected=$(x-1)^2+(y+1)^2=\frac{(x-y+6)^2}{(\sqrt{2})^2}$
+prediction: **DetailedAnswer:** ১. **পরাবৃত্তের সাধারণ বৈশিষ্ট্য:** পরাবৃত্তের সাধারণ সমীকরণের ফর্ম: \[ (x-h)^2 + (y-k)^2 = a^2 \] যেখানে \((h, k)\) হল শীর্ষবিন্দু, এবং \(a\) হল বৃত্তের বৃত্তাকার ব্যাসার্ধ। পরাবৃত্তের অক্ষের উপর ...
+[2/54] id=394 finish=length expected=$x^2+4y^2+116x+2y+4xy+259=0$
+prediction: DetailedAnswer: ১. **পরাবৃত্তের সাধারণ সমীকরণ**: পরাবৃত্তের সাধারণ দিকাক্ষ সমীকরণ হলো: \[ (x - h)^2 + (y - k)^2 = a^2 \] যেখানে \((h, k)\) হল উপকেন্দ্র, এবং \(2a\) হল দিকাক্ষের দৈর্ঘ্য। ২. **উপকেন্দ্র ও দিকাক্ষের তথ্য...
+[3/54] id=397 finish=stop expected=$3x+4y+25=0$
+prediction: DetailedAnswer: ১. পরাবৃত্তের সাধারণ দিকাক্ষের সমীকরণের সাধারণ রূপ: \[ x^2 + y^2 + Dx + Ey + F = 0 \] যেখানে উপকেন্দ্র \((h, k)\) এবং শীর্ষবিশিষ্ট বিন্দু \((x_1, y_1)\) পূরণ করে: \[ h = -\frac{D}{2}, \quad k = -\frac{...
+Traceback (most recent call last):
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 130, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 84, in main
+    response = call_openrouter_with_retry(
+        api_key,
+    ...<4 lines>...
+        args.retries,
+    )
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 119, in call_openrouter_with_retry
+    return call_openrouter(api_key, model, prompt, timeout, max_tokens)
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 102, in call_openrouter
+    return json.loads(resp.read().decode("utf-8"))
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/json/__init__.py", line 352, in loads
+    return _default_decoder.decode(s)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.14/json/decoder.py", line 345, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/json/decoder.py", line 363, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 747 column 1 (char 4103)
+[1/51] id=398 finish=stop expected=$\left(-\frac{3}{2}, -\frac{61}{40}\right)$, $\left(-\frac{3}{2}, -\frac{41}{40}\right)$, $y+\frac{41}{40}=0$, $x+\frac{3}{2}=0$, $y+\frac{81}{40}=0$
+prediction: **DetailedAnswer:** প্রশ্নে দেওয়া পরাবৃত্তের সমীকরণ: \[ 5x^2 + 15x - 10y - 4 = 0 \] **ধাপ ১: সমীকরণের সাধারণ রূপে রূপান্তর** প্রথমে সমীকরণটি সাধারণ পরাবৃত্তের রূপে (অবশ্যই \( y \)-এর সমীকরণে রূপান্তরিত) লিখতে হবে। এখ...
+[2/51] id=399 finish=stop expected=$(x+y)^2=4\cdot(x-y+1)$
+prediction: **DetailedAnswer:** ১. **পরাবৃত্তের সাধারণ সমীকরণ:** উপকেন্দ্র মূল বিন্দুতে অবস্থিত পরাবৃত্তের সমীকরণের সাধারণ ফরম্যাট হল: \[ x^2 + y^2 + Dx + Ey + F = 0 \] তবে, উপকেন্দ্র মূল বিন্দুতে থাকলে, পরাবৃত্তের কেন্দ্র (h, k)...
+[3/51] id=402 finish=length expected=$4x+3y+1=0$, $3x-4y-43=0$
+prediction: DetailedAnswer: ১. **পরাবৃত্তের সাধারণ সমীকরণ** (বৃত্তের সমীকরণের সাধারণ রূপ): \[ (x - h)^2 + (y - k)^2 = r^2 \] যেখানে \((h, k)\) হল কেন্দ্র এবং \(r\) হল ব্যাসার্ধ। তবে এই সমীকরণটি **পরাবৃত্তের** জন্য প্রযোজ্য নয়। প...
+Retrying id=403 because finish_reason=error (1/2)
+Traceback (most recent call last):
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 130, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 84, in main
+    response = call_openrouter_with_retry(
+        api_key,
+    ...<4 lines>...
+        args.retries,
+    )
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 119, in call_openrouter_with_retry
+    return call_openrouter(api_key, model, prompt, timeout, max_tokens)
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 102, in call_openrouter
+    return json.loads(resp.read().decode("utf-8"))
+                      ~~~~~~~~~^^
+  File "/usr/lib/python3.14/http/client.py", line 478, in read
+    return self._read_chunked(amt)
+           ~~~~~~~~~~~~~~~~~~^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 608, in _read_chunked
+    value.append(self._safe_read(chunk_left))
+                 ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 648, in _safe_read
+    data = self.fp.read(cursize)
+  File "/usr/lib/python3.14/socket.py", line 725, in readinto
+    return self._sock.recv_into(b)
+           ~~~~~~~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.14/ssl.py", line 1304, in recv_into
+    return self.read(nbytes, buffer)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/ssl.py", line 1138, in read
+    return self._sslobj.read(len, buffer)
+           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+Traceback (most recent call last):
+  File "/usr/lib/python3.14/urllib/request.py", line 1321, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+    ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              encode_chunked=req.has_header('Transfer-encoding'))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 1358, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 1404, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 1353, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 1113, in _send_output
+    self.send(msg)
+    ~~~~~~~~~^^^^^
+  File "/usr/lib/python3.14/http/client.py", line 1057, in send
+    self.connect()
+    ~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/http/client.py", line 1492, in connect
+    super().connect()
+    ~~~~~~~~~~~~~~~^^
+  File "/usr/lib/python3.14/http/client.py", line 1023, in connect
+    self.sock = self._create_connection(
+                ~~~~~~~~~~~~~~~~~~~~~~~^
+        (self.host,self.port), self.timeout, self.source_address)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/socket.py", line 846, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/socket.py", line 983, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 130, in <module>
+    raise SystemExit(main())
+                     ~~~~^^
+  File "/home/meow/Downloads/MATH-BENCH/./rerun_ministral3_3b_problematic_16k.py", line 84, in main
+    response = call_openrouter_with_retry(
+        api_key,
+    ...<4 lines>...
+        args.retries,
+    )
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 119, in call_openrouter_with_retry
+    return call_openrouter(api_key, model, prompt, timeout, max_tokens)
+  File "/home/meow/Downloads/MATH-BENCH/smoke_test_openrouter_qwen3b.py", line 101, in call_openrouter
+    with request.urlopen(req, timeout=timeout) as resp:
+         ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 187, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 487, in open
+    response = self._open(req, data)
+  File "/usr/lib/python3.14/urllib/request.py", line 504, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+                              '_open', req)
+  File "/usr/lib/python3.14/urllib/request.py", line 464, in _call_chain
+    result = func(*args)
+  File "/usr/lib/python3.14/urllib/request.py", line 1369, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                        context=self._context)
+                        ^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.14/urllib/request.py", line 1324, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
+[1/48] id=403 finish=stop expected=$\frac{x^2}{9}+\frac{y^2}{5}=1$
+prediction: **DetailedAnswer:** ১. **উপবৃত্তের সাধারণ সমীকরণ:** উপবৃত্তের উপকেন্দ্র দুটি \( S'(2, 0) \) ও \( S(-2, 0) \) থেকে জানা যায় যে, উপবৃত্তের কেন্দ্র \( C \) এর অবস্থান হল \( (0, 0) \) (যেহেতু উপকেন্দ্র দুটি \( x \)-অক্ষে...
+[2/48] id=405 finish=stop expected=$(-2,2)$, $y=\frac{5}{2}$
+prediction: DetailedAnswer: ১. সমীকরণটি পরাবৃত্তের সাধারণ রূপের সাথে তুলনা করলে দেখা যায়, এটি একটি পরাবৃত্তের সমীকরণ নয়। তবে এটি একটি **বৃত্তের সমীকরণের একটি বিশেষ ক্ষেত্র** হিসেবে বিবেচনা করা যেতে পারে, যেখানে একটি বৃত্তের সমী...
+[3/48] id=407 finish=stop expected=$12$ বর্গ একক
+prediction: **DetailedAnswer:** ১. উপবৃত্তের সমীকরণটি নিম্নলিখিত রূপে লিখতে হয়: \[ \frac{(x-h)^2}{a^2} + \frac{(y-k)^2}{b^2} = 1 \] যেখানে \((h, k)\) হল উপবৃত্তের কেন্দ্র, \(a\) হল বড় অক্ষের bán-দৈর্ঘ্য, এবং \(b\) হল ছোট অক্ষের...
+[4/48] id=408 finish=length expected=$9x^2+4y^2=81$, $\left(0,\pm\frac{3\sqrt{5}}{2}\right)$
+prediction: **DetailedAnswer:** উপবৃত্তের অক্ষদ্বয় স্থানাঙ্কের অক্ষদ্বয় বরাবর অবস্থিত বলে উপবৃত্তটির সমীকরণের সাধারণ রূপ হল: \[ \frac{x^2}{a^2} + \frac{y^2}{b^2} = 1 \] এখানে \(a\) ও \(b\) হল উপকেন্দ্রদ্বয়ের দূরত্ব অক্ষদ্বয় থ...

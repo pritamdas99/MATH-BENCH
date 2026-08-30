@@ -1,0 +1,7 @@
+{
+  "model": "Llama 3.2 3B Instruct",
+  "total": 528,
+  "correct": 33,
+  "incorrect": 495,
+  "accuracy": 0.0625
+}

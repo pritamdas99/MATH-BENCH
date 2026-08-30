@@ -1,0 +1,44 @@
+[
+  {
+    "model": "GPT-5",
+    "total": 528,
+    "correct": 352,
+    "incorrect": 176,
+    "accuracy": 0.6666666666666666
+  },
+  {
+    "model": "Qwen3-4B",
+    "total": 528,
+    "correct": 227,
+    "incorrect": 301,
+    "accuracy": 0.42992424242424243
+  },
+  {
+    "model": "Mistral 3B",
+    "total": 528,
+    "correct": 186,
+    "incorrect": 342,
+    "accuracy": 0.3522727272727273
+  },
+  {
+    "model": "Qwen2.5-7B",
+    "total": 528,
+    "correct": 168,
+    "incorrect": 360,
+    "accuracy": 0.3181818181818182
+  },
+  {
+    "model": "Gemma3-4B",
+    "total": 528,
+    "correct": 164,
+    "incorrect": 364,
+    "accuracy": 0.3106060606060606
+  },
+  {
+    "model": "Llama 3.2 3B Instruct",
+    "total": 528,
+    "correct": 33,
+    "incorrect": 495,
+    "accuracy": 0.0625
+  }
+]

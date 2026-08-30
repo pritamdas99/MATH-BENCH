@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1",
+    "ChapterName": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "Question": "$A=\\begin{bmatrix}2&1&y\\\\1&3&5\\\\5&1&-2\\end{bmatrix};\\ B=\\begin{bmatrix}-3&1&3\\\\1&2&3\\\\5&x&-7\\end{bmatrix};\\ C=A+B$ একটি প্রতিসম ম্যাট্রিক্স হলে $(x,y)$ নির্ণয় কর।",
+    "DetailedAnswer": "$C=A+B=\\begin{bmatrix}2&1&y\\\\1&3&5\\\\5&1&-2\\end{bmatrix}+\\begin{bmatrix}-3&1&3\\\\1&2&3\\\\5&x&-7\\end{bmatrix}$\\\\$=\\begin{bmatrix}2-3&1+1&y+3\\\\1+1&3+2&5+3\\\\5+5&1+x&-2-7\\end{bmatrix}=\\begin{bmatrix}-1&2&3+y\\\\2&5&8\\\\10&1+x&-9\\end{bmatrix}$\\\\প্রতিসম ম্যাট্রিক্সের ক্ষেত্রে, $a_{ij}=a_{ji}$।\\\\$\\therefore 3+y=10$ এবং $1+x=8$\\\\বা, $y=7$ এবং $x=7$।",
+    "FinalAnswer": "$(x,y)=(7,7)$",
+    "Source": "aks"
+  },
+  {
+    "id": "2",
+    "ChapterName": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "Question": "$A=\\begin{bmatrix}2&-1&3\\\\1&1&1\\\\1&-1&2\\end{bmatrix},\\ B=\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix},\\ C=\\begin{bmatrix}2\\\\5\\\\4\\end{bmatrix}$ এবং $AB=C$ হলে ক্র্যামারের নিয়মে সমীকরণ জোটের সমাধান কর।",
+    "DetailedAnswer": "$AB=C$\\\\বা, $\\begin{bmatrix}2&-1&3\\\\1&1&1\\\\1&-1&2\\end{bmatrix}\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix}=\\begin{bmatrix}2\\\\5\\\\4\\end{bmatrix}$\\\\$\\therefore 2x-y+3z=2;\\ x+y+z=5;\\ x-y+2z=4$\\\\$D=|A|=\\begin{vmatrix}2&-1&3\\\\1&1&1\\\\1&-1&2\\end{vmatrix}=1$\\\\$D_x=\\begin{vmatrix}2&-1&3\\\\5&1&1\\\\4&-1&2\\end{vmatrix}=-15,\\quad D_y=\\begin{vmatrix}2&2&3\\\\1&5&1\\\\1&4&2\\end{vmatrix}=7$\\\\$D_z=\\begin{vmatrix}2&-1&2\\\\1&1&5\\\\1&-1&4\\end{vmatrix}=13$\\\\$\\therefore x=\\frac{D_x}{D}=-15,\\ y=\\frac{D_y}{D}=7,\\ z=\\frac{D_z}{D}=13$।",
+    "FinalAnswer": "$(x,y,z)=(-15,7,13)$",
+    "Source": "aks"
+  },
+  {
+    "id": "3",
+    "ChapterName": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "Question": "$B=\\begin{bmatrix}2&1&-1\\\\3&2&2\\\\5&4&3\\end{bmatrix},\\ C=\\begin{bmatrix}10\\\\1\\\\4\\end{bmatrix},\\ X=\\begin{bmatrix}x\\\\y\\\\z\\end{bmatrix}$ হলে $BX=C$ থেকে প্রাপ্ত সমীকরণ জোটকে বিপরীত ম্যাট্রিক্সের সাহায্যে সমাধান কর।",
+    "DetailedAnswer": "$BX=C\\Rightarrow X=B^{-1}C$\\\\এখন, $|B|=\\begin{vmatrix}2&1&-1\\\\3&2&2\\\\5&4&3\\end{vmatrix}=-5\\ne0$। সুতরাং $B^{-1}$ বিদ্যমান।\\\\$\\operatorname{adj}B=\\begin{bmatrix}-2&-7&4\\\\1&11&-7\\\\2&-3&1\\end{bmatrix}$\\\\$\\therefore B^{-1}=\\frac{1}{|B|}\\operatorname{adj}B=\\frac{1}{5}\\begin{bmatrix}2&7&-4\\\\-1&-11&7\\\\-2&3&-1\\end{bmatrix}$\\\\$\\therefore X=\\frac{1}{5}\\begin{bmatrix}2&7&-4\\\\-1&-11&7\\\\-2&3&-1\\end{bmatrix}\\begin{bmatrix}10\\\\1\\\\4\\end{bmatrix}=\\frac{1}{5}\\begin{bmatrix}11\\\\7\\\\-21\\end{bmatrix}$।",
+    "FinalAnswer": "$(x,y,z)=\\left(\\frac{11}{5},\\frac{7}{5},-\\frac{21}{5}\\right)$",
+    "Source": "aks"
+  },
+  {
+    "id": "4",
+    "ChapterName": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "Question": "$A=\\begin{bmatrix}1&\\cot\\theta\\\\-\\cot\\theta&1\\end{bmatrix}$ এর জন্য $(A^{-1})^2=f(\\theta)\\begin{bmatrix}-\\cos2\\theta&-\\sin2\\theta\\\\\\sin2\\theta&-\\cos2\\theta\\end{bmatrix}$ হলে, $f(\\theta)$ এর মান নির্ণয় কর।",
+    "DetailedAnswer": "$A^{-1}=\\frac{1}{1+\\cot^2\\theta}\\begin{bmatrix}1&-\\cot\\theta\\\\\\cot\\theta&1\\end{bmatrix}=\\sin^2\\theta\\begin{bmatrix}1&-\\cot\\theta\\\\\\cot\\theta&1\\end{bmatrix}$\\\\$\\therefore (A^{-1})^2=\\sin^4\\theta\\begin{bmatrix}1&-\\cot\\theta\\\\\\cot\\theta&1\\end{bmatrix}\\begin{bmatrix}1&-\\cot\\theta\\\\\\cot\\theta&1\\end{bmatrix}$\\\\$=\\sin^4\\theta\\begin{bmatrix}1-\\cot^2\\theta&-2\\cot\\theta\\\\2\\cot\\theta&1-\\cot^2\\theta\\end{bmatrix}$\\\\$=\\sin^2\\theta\\begin{bmatrix}\\sin^2\\theta-\\cos^2\\theta&-2\\sin\\theta\\cos\\theta\\\\2\\sin\\theta\\cos\\theta&\\sin^2\\theta-\\cos^2\\theta\\end{bmatrix}$\\\\$=\\sin^2\\theta\\begin{bmatrix}-\\cos2\\theta&-\\sin2\\theta\\\\\\sin2\\theta&-\\cos2\\theta\\end{bmatrix}$।\\\\অতএব, $f(\\theta)=\\sin^2\\theta$।",
+    "FinalAnswer": "$f(\\theta)=\\sin^2\\theta$",
+    "Source": "aks"
+  },
+  {
+    "id": "5",
+    "ChapterName": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "Question": "$A=\\begin{bmatrix}1&2&3\\\\2&-1&4\\\\3&1&1\\end{bmatrix}$ এবং $f(x)=x^3-x^2-18x-30$ হলে, $f(A)=0$ থেকে $A^{-1}$ নির্ণয় কর।",
+    "DetailedAnswer": "দেওয়া আছে, $A=\\begin{bmatrix}1&2&3\\\\2&-1&4\\\\3&1&1\\end{bmatrix}$ এবং $f(x)=x^3-x^2-18x-30$।\\\\প্রশ্নমতে, $f(A)=0$\\\\বা, $A^3-A^2-18A-30I=0$\\\\বা, $A^{-1}(A^3-A^2-18A-30I)=0$\\\\বা, $A^2-A-18I-30A^{-1}=0$\\\\বা, $30A^{-1}=A^2-A-18I$\\\\বা, $A^{-1}=\\frac{1}{30}(A^2-A-18I)$।\\\\এখন, $A^2=\\begin{bmatrix}1&2&3\\\\2&-1&4\\\\3&1&1\\end{bmatrix}\\begin{bmatrix}1&2&3\\\\2&-1&4\\\\3&1&1\\end{bmatrix}=\\begin{bmatrix}14&3&14\\\\12&9&6\\\\8&6&14\\end{bmatrix}$\\\\$\\therefore A^2-A-18I=\\begin{bmatrix}14&3&14\\\\12&9&6\\\\8&6&14\\end{bmatrix}-\\begin{bmatrix}1&2&3\\\\2&-1&4\\\\3&1&1\\end{bmatrix}-\\begin{bmatrix}18&0&0\\\\0&18&0\\\\0&0&18\\end{bmatrix}$\\\\$=\\begin{bmatrix}-5&1&11\\\\10&-8&2\\\\5&5&-5\\end{bmatrix}$\\\\$\\therefore A^{-1}=\\frac{1}{30}\\begin{bmatrix}-5&1&11\\\\10&-8&2\\\\5&5&-5\\end{bmatrix}$।",
+    "FinalAnswer": "$A^{-1}=\\frac{1}{30}\\begin{bmatrix}-5&1&11\\\\10&-8&2\\\\5&5&-5\\end{bmatrix}$",
+    "Source": "aks"
+  },
+  {
+    "id": "6",
+    "ChapterName": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "Question": "$A=\\begin{bmatrix}0&1&0\\\\0&0&1\\\\1&0&0\\end{bmatrix}$ এবং $|\\lambda I-A|=0$ হলে, $\\lambda=?$ এবং $A^{12}=?$",
+    "DetailedAnswer": "$\\lambda I-A=\\lambda\\begin{bmatrix}1&0&0\\\\0&1&0\\\\0&0&1\\end{bmatrix}-\\begin{bmatrix}0&1&0\\\\0&0&1\\\\1&0&0\\end{bmatrix}=\\begin{bmatrix}\\lambda&-1&0\\\\0&\\lambda&-1\\\\-1&0&\\lambda\\end{bmatrix}$\\\\$\\therefore |\\lambda I-A|=0\\Rightarrow \\begin{vmatrix}\\lambda&-1&0\\\\0&\\lambda&-1\\\\-1&0&\\lambda\\end{vmatrix}=0$\\\\বা, $\\lambda(\\lambda^2)+1(-1)=0\\Rightarrow \\lambda^3=1$\\\\$\\therefore \\lambda=1,\\omega,\\omega^2$; যেখানে এককের কাল্পনিক ঘনমূল $\\omega$।\\\\এখন, $A=\\begin{bmatrix}0&1&0\\\\0&0&1\\\\1&0&0\\end{bmatrix}$\\\\$\\therefore A^2=\\begin{bmatrix}0&1&0\\\\0&0&1\\\\1&0&0\\end{bmatrix}\\begin{bmatrix}0&1&0\\\\0&0&1\\\\1&0&0\\end{bmatrix}=\\begin{bmatrix}0&0&1\\\\1&0&0\\\\0&1&0\\end{bmatrix}$\\\\$A^3=A^2A=\\begin{bmatrix}0&0&1\\\\1&0&0\\\\0&1&0\\end{bmatrix}\\begin{bmatrix}0&1&0\\\\0&0&1\\\\1&0&0\\end{bmatrix}=\\begin{bmatrix}1&0&0\\\\0&1&0\\\\0&0&1\\end{bmatrix}=I$\\\\$\\therefore A^{12}=(A^3)^4=I^4=I$।",
+    "FinalAnswer": "$\\lambda=1,\\omega,\\omega^2;\\ A^{12}=I$",
+    "Source": "aks"
+  },
+  {
+    "id": "7",
+    "ChapterName": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "Question": "$\\begin{vmatrix}\\log x&\\log y&\\log z\\\\\\log 2x&\\log 2y&\\log 2z\\\\\\log 3x&\\log 3y&\\log 3z\\end{vmatrix}$ এর মান নির্ণয় কর।",
+    "DetailedAnswer": "প্রদত্ত নির্ণায়ক,\\\\$\\Delta=\\begin{vmatrix}\\log x&\\log y&\\log z\\\\\\log 2x&\\log 2y&\\log 2z\\\\\\log 3x&\\log 3y&\\log 3z\\end{vmatrix}$\\\\$R_2\\to R_2-R_1$ এবং $R_3\\to R_3-R_2$ নিলে,\\\\$\\Delta=\\begin{vmatrix}\\log x&\\log y&\\log z\\\\\\log2&\\log2&\\log2\\\\\\log\\frac{3}{2}&\\log\\frac{3}{2}&\\log\\frac{3}{2}\\end{vmatrix}$\\\\$=\\log2\\cdot\\log\\frac{3}{2}\\begin{vmatrix}\\log x&\\log y&\\log z\\\\1&1&1\\\\1&1&1\\end{vmatrix}=0$।",
+    "FinalAnswer": "$0$",
+    "Source": "aks"
+  },
+  {
+    "id": "8",
+    "ChapterName": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "Question": "$\\begin{vmatrix}1&\\log_{x}y&\\log_{x}z\\\\\\log_{y}x&1&\\log_{y}z\\\\\\log_{z}x&\\log_{z}y&1\\end{vmatrix}$ এর মান নির্ণয় কর।",
+    "DetailedAnswer": "প্রদত্ত নির্ণায়ক,\\\\$\\Delta=\\begin{vmatrix}1&\\log_{x}y&\\log_{x}z\\\\\\log_{y}x&1&\\log_{y}z\\\\\\log_{z}x&\\log_{z}y&1\\end{vmatrix}$\\\\$=\\begin{vmatrix}\\frac{\\log x}{\\log x}&\\frac{\\log y}{\\log x}&\\frac{\\log z}{\\log x}\\\\\\frac{\\log x}{\\log y}&\\frac{\\log y}{\\log y}&\\frac{\\log z}{\\log y}\\\\\\frac{\\log x}{\\log z}&\\frac{\\log y}{\\log z}&\\frac{\\log z}{\\log z}\\end{vmatrix}$\\\\$=\\frac{1}{\\log x\\log y\\log z}\\begin{vmatrix}\\log x&\\log y&\\log z\\\\\\log x&\\log y&\\log z\\\\\\log x&\\log y&\\log z\\end{vmatrix}=0$।",
+    "FinalAnswer": "$0$",
+    "Source": "aks"
+  },
+  {
+    "id": "9",
+    "ChapterName": "ভেক্টর",
+    "Question": "$A=3\\hat{i}+\\hat{j}-2\\hat{k},\\ B=2\\hat{i}-\\hat{j}+\\hat{k}$ এবং $C=\\hat{i}+3\\hat{j}-2\\hat{k}$ হলে, $A\\times(B\\times C)$ নির্ণয় কর।",
+    "DetailedAnswer": "$B\\times C=\\begin{vmatrix}\\hat{i}&\\hat{j}&\\hat{k}\\\\2&-1&1\\\\1&3&-2\\end{vmatrix}=\\hat{i}(2-3)-\\hat{j}(-4-1)+\\hat{k}(6+1)$\\\\$=-\\hat{i}+5\\hat{j}+7\\hat{k}$\\\\$\\therefore A\\times(B\\times C)=\\begin{vmatrix}\\hat{i}&\\hat{j}&\\hat{k}\\\\3&1&-2\\\\-1&5&7\\end{vmatrix}$\\\\$=\\hat{i}(7+10)-\\hat{j}(21-2)+\\hat{k}(15+1)=17\\hat{i}-19\\hat{j}+16\\hat{k}$।",
+    "FinalAnswer": "$17\\hat{i}-19\\hat{j}+16\\hat{k}$",
+    "Source": "aks"
+  },
+  {
+    "id": "10",
+    "ChapterName": "ভেক্টর",
+    "Question": "$a$ এর মান নির্ণয় কর যেন $2\\hat{i}+\\hat{j}-\\hat{k},\\ 3\\hat{i}-2\\hat{j}+4\\hat{k}$ এবং $\\hat{i}-3\\hat{j}+a\\hat{k}$ ভেক্টরত্রয় একই সমতলে থাকে।",
+    "DetailedAnswer": "মনে করি, $A=2\\hat{i}+\\hat{j}-\\hat{k},\\ B=3\\hat{i}-2\\hat{j}+4\\hat{k}$ এবং $C=\\hat{i}-3\\hat{j}+a\\hat{k}$।\\\\$A,B,C$ ভেক্টরত্রয় সমতলীয় হলে,\\\\$\\begin{vmatrix}2&1&-1\\\\3&-2&4\\\\1&-3&a\\end{vmatrix}=0$\\\\বা, $2(-2a+12)-1(3a-4)-1(-9+2)=0$\\\\বা, $-4a+24-3a+4+7=0$\\\\বা, $-7a+35=0$।",
+    "FinalAnswer": "$a=5$",
+    "Source": "aks"
+  },
+  {
+    "id": "11",
+    "ChapterName": "ভেক্টর",
+    "Question": "$P=4\\hat{i}-4\\hat{j}+\\hat{k}$ এবং $Q=2\\hat{i}-2\\hat{j}-\\hat{k}$ একটি সামান্তরিকের দুইটি সন্নিহিত বাহু নির্দেশ করলে এর ক্ষেত্রফল নির্ণয় কর।",
+    "DetailedAnswer": "$P\\times Q=\\begin{vmatrix}\\hat{i}&\\hat{j}&\\hat{k}\\\\4&-4&1\\\\2&-2&-1\\end{vmatrix}=(4+2)\\hat{i}-(-4-2)\\hat{j}+(-8+8)\\hat{k}$\\\\$=6\\hat{i}+6\\hat{j}$\\\\$\\therefore$ সামান্তরিকের নির্ণেয় ক্ষেত্রফল $=|P\\times Q|=\\sqrt{36+36}=\\sqrt{72}$ বর্গএকক।",
+    "FinalAnswer": "$\\sqrt{72}$ বর্গএকক",
+    "Source": "aks"
+  },
+  {
+    "id": "13",
+    "ChapterName": "ভেক্টর",
+    "Question": "$a=3\\hat{i}+2\\hat{j}-6\\hat{k}$ এবং $b=4\\hat{i}-3\\hat{j}+\\hat{k}$ ভেক্টর দুইটির উপর লম্ব একক ভেক্টর নির্ণয় কর।",
+    "DetailedAnswer": "$a$ ও $b$ উভয় ভেক্টরের উপর লম্ব একক ভেক্টর $=\\pm\\frac{a\\times b}{|a\\times b|}$।\\\\এখন, $a\\times b=\\begin{vmatrix}\\hat{i}&\\hat{j}&\\hat{k}\\\\3&2&-6\\\\4&-3&1\\end{vmatrix}$\\\\$=\\hat{i}(2-18)-\\hat{j}(3+24)+\\hat{k}(-9-8)$\\\\$=-16\\hat{i}-27\\hat{j}-17\\hat{k}$\\\\এবং $|a\\times b|=\\sqrt{(-16)^2+(-27)^2+(-17)^2}=\\sqrt{1274}=7\\sqrt{26}$।",
+    "FinalAnswer": "$\\pm\\frac{1}{7\\sqrt{26}}(-16\\hat{i}-27\\hat{j}-17\\hat{k})$",
+    "Source": "aks"
+  },
+  {
+    "id": "14",
+    "ChapterName": "ভেক্টর",
+    "Question": "$(1,2,3)$ এবং $(4,-3,1)$ বিন্দুগামী সরলরেখার ভেক্টর সমীকরণ নির্ণয় কর।",
+    "DetailedAnswer": "মনে করি, $(1,2,3)$ এবং $(4,-3,1)$ বিন্দুদ্বয়ের অবস্থান ভেক্টর যথাক্রমে $a$ এবং $b$।\\\\সুতরাং $a=\\hat{i}+2\\hat{j}+3\\hat{k}$ এবং $b=4\\hat{i}-3\\hat{j}+\\hat{k}$।\\\\বিন্দুগামী সরলরেখার ভেক্টর সমীকরণ, $r=a+t(b-a)$\\\\বা, $r=(1-t)a+tb$\\\\$\\therefore r=(1-t)(\\hat{i}+2\\hat{j}+3\\hat{k})+t(4\\hat{i}-3\\hat{j}+\\hat{k})$\\\\$=(1+3t)\\hat{i}+(2-5t)\\hat{j}+(3-2t)\\hat{k}$।",
+    "FinalAnswer": "$r=(1+3t)\\hat{i}+(2-5t)\\hat{j}+(3-2t)\\hat{k}$",
+    "Source": "aks"
+  },
+  {
+    "id": "15",
+    "ChapterName": "ভেক্টর",
+    "Question": "$(1,2,-3)$ বিন্দুগামী এবং $(2,3,-1)$ ও $(3,5,2)$ বিন্দুর সংযোগ সরলরেখার সমান্তরাল সরলরেখার ভেক্টর সমীকরণ নির্ণয় কর।",
+    "DetailedAnswer": "মনে করি, $(1,2,-3)$ বিন্দুর অবস্থান ভেক্টর $a$ এবং $(2,3,-1)$ ও $(3,5,2)$ বিন্দুদ্বয়ের সংযোগ ভেক্টর $b$।\\\\$\\therefore a=\\hat{i}+2\\hat{j}-3\\hat{k}$ এবং $b=(3-2)\\hat{i}+(5-3)\\hat{j}+(2+1)\\hat{k}=\\hat{i}+2\\hat{j}+3\\hat{k}$।\\\\অতএব নির্ণেয় সরলরেখার ভেক্টর সমীকরণ, $r=a+tb$\\\\বা, $r=\\hat{i}+2\\hat{j}-3\\hat{k}+t(\\hat{i}+2\\hat{j}+3\\hat{k})$\\\\$\\therefore r=(1+t)\\hat{i}+(2+2t)\\hat{j}+(-3+3t)\\hat{k}$।",
+    "FinalAnswer": "$r=(1+t)\\hat{i}+(2+2t)\\hat{j}+(-3+3t)\\hat{k}$",
+    "Source": "aks"
+  },
+  {
+    "id": "16",
+    "ChapterName": "ভেক্টর",
+    "Question": "$A=2\\hat{i}+3\\hat{j}-\\hat{k}$ ও $B=2\\hat{i}+\\hat{j}+\\hat{k}$ দ্বারা গঠিত সমতলের উপর লম্ব একক ভেক্টর $C=a\\hat{i}-7\\hat{j}+10\\hat{k}$ এর উপর লম্ব হলে $a$ নির্ণয় কর।",
+    "DetailedAnswer": "ধরি, $A$ ও $B$ দ্বারা গঠিত সমতলের উপর লম্ব একক ভেক্টর $\\hat{n}$।\\\\$\\therefore \\hat{n}=\\pm\\frac{A\\times B}{|A\\times B|}$\\\\এখন, $A\\times B=\\begin{vmatrix}\\hat{i}&\\hat{j}&\\hat{k}\\\\2&3&-1\\\\2&1&1\\end{vmatrix}$\\\\$=(3+1)\\hat{i}-(2+2)\\hat{j}+(2-6)\\hat{k}=4\\hat{i}-4\\hat{j}-4\\hat{k}$\\\\এবং $|A\\times B|=\\sqrt{4^2+(-4)^2+(-4)^2}=4\\sqrt{3}$\\\\$\\therefore \\hat{n}=\\pm\\frac{1}{\\sqrt{3}}(\\hat{i}-\\hat{j}-\\hat{k})$\\\\এখন, $\\hat{n}$ ও $C$ পরস্পর লম্ব হলে $\\hat{n}\\cdot C=0$।\\\\বা, $\\frac{1}{\\sqrt{3}}(\\hat{i}-\\hat{j}-\\hat{k})\\cdot(a\\hat{i}-7\\hat{j}+10\\hat{k})=0$\\\\বা, $a+7-10=0$।",
+    "FinalAnswer": "$a=3$",
+    "Source": "aks"
+  },
+  {
+    "id": "17",
+    "ChapterName": "ভেক্টর",
+    "Question": "$\\lambda$ এর কোন মানের জন্য $\\hat{i}+\\hat{j}+\\hat{k},\\ 2\\hat{i}-4\\hat{k}$ এবং $\\hat{i}+\\lambda\\hat{j}+3\\hat{k}$ ভেক্টর তিনটি সমতলীয় হবে? প্রদত্ত ভেক্টরগুলোর সমতলের উপর লম্ব একক ভেক্টর নির্ণয় কর।",
+    "DetailedAnswer": "তিনটি ভেক্টর সমতলীয় হলে,\\\\$\\begin{vmatrix}1&1&1\\\\2&0&-4\\\\1&\\lambda&3\\end{vmatrix}=0$\\\\বা, $4\\lambda-10+2\\lambda=0$\\\\বা, $6\\lambda=10$\\\\$\\therefore \\lambda=\\frac{5}{3}$।\\\\সুতরাং $c=\\hat{i}+\\frac{5}{3}\\hat{j}+3\\hat{k}$।\\\\যেহেতু $a,b$ ও $c$ একই সমতলে অবস্থিত, সেহেতু ভেক্টরত্রয়ের সমতলের উপর লম্ব একক ভেক্টর হবে $a,b$ এর সমতলের উপর লম্ব একক ভেক্টরের সমান।\\\\এখন, $a\\times b=(\\hat{i}+\\hat{j}+\\hat{k})\\times(2\\hat{i}-4\\hat{k})$\\\\$=\\begin{vmatrix}\\hat{i}&\\hat{j}&\\hat{k}\\\\1&1&1\\\\2&0&-4\\end{vmatrix}=(-4-0)\\hat{i}-(-4-2)\\hat{j}+(0-2)\\hat{k}$\\\\$=-4\\hat{i}+6\\hat{j}-2\\hat{k}$\\\\এবং $|a\\times b|=\\sqrt{(-4)^2+6^2+(-2)^2}=2\\sqrt{14}$\\\\$\\therefore \\frac{a\\times b}{|a\\times b|}=\\frac{-4\\hat{i}+6\\hat{j}-2\\hat{k}}{2\\sqrt{14}}=-\\frac{1}{\\sqrt{14}}(2\\hat{i}-3\\hat{j}+\\hat{k})$।",
+    "FinalAnswer": "$\\lambda=\\frac{5}{3}$; লম্ব একক ভেক্টর $=\\pm\\frac{1}{\\sqrt{14}}(2\\hat{i}-3\\hat{j}+\\hat{k})$",
+    "Source": "aks"
+  }
+]

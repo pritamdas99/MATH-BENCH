@@ -1,0 +1,7 @@
+{
+  "model": "Qwen2.5-7B",
+  "total": 528,
+  "correct": 168,
+  "incorrect": 360,
+  "accuracy": 0.3181818181818182
+}
