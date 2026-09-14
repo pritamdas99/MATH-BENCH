@@ -1,5 +1,11 @@
 notebooks/
 notebook/
+.venv/
+__pycache__/
+*.py[cod]
+tmp/
+.agents/
+data/*.pdf
 
 # Local secrets and environment files
 .env
