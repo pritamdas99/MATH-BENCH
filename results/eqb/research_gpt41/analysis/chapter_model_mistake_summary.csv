@@ -1,0 +1,91 @@
+ChapterName,model,total,correct,mistakes,accuracy,top_error_types
+অন্তরীকরণ,gemma3_4b,74,45,29,0.6081,arithmetic_or_algebra_error:12; question_misinterpretation:8; geometry_condition_error:5; format_or_final_extraction:2; formula_or_method_error:1
+অন্তরীকরণ,gpt5,74,62,12,0.8378,missing_case_or_domain_error:3; format_or_final_extraction:3; question_misinterpretation:2; formula_or_method_error:2; arithmetic_or_algebra_error:1
+অন্তরীকরণ,mistral3_3b,74,42,32,0.5676,arithmetic_or_algebra_error:13; question_misinterpretation:9; formula_or_method_error:4; no_or_insufficient_reasoning:3; format_or_final_extraction:1
+অন্তরীকরণ,qwen2_5_7b,74,37,37,0.5,arithmetic_or_algebra_error:20; no_or_insufficient_reasoning:7; question_misinterpretation:6; format_or_final_extraction:3; missing_case_or_domain_error:1
+অন্তরীকরণ,qwen3_4b,74,57,17,0.7703,arithmetic_or_algebra_error:10; format_or_final_extraction:2; question_misinterpretation:2; no_or_insufficient_reasoning:1; geometry_condition_error:1
+কণিক,gemma3_4b,37,3,34,0.0811,arithmetic_or_algebra_error:14; question_misinterpretation:11; formula_or_method_error:5; wrong_final_value_or_expression:2; geometry_condition_error:1
+কণিক,gpt5,37,26,11,0.7027,formula_or_method_error:5; question_misinterpretation:3; no_or_insufficient_reasoning:2; format_or_final_extraction:1
+কণিক,mistral3_3b,37,4,33,0.1081,geometry_condition_error:7; formula_or_method_error:7; arithmetic_or_algebra_error:6; no_or_insufficient_reasoning:5; question_misinterpretation:4
+কণিক,qwen2_5_7b,37,5,32,0.1351,arithmetic_or_algebra_error:9; formula_or_method_error:6; question_misinterpretation:6; geometry_condition_error:3; wrong_final_value_or_expression:3
+কণিক,qwen3_4b,37,16,21,0.4324,arithmetic_or_algebra_error:6; question_misinterpretation:4; geometry_condition_error:3; formula_or_method_error:3; missing_case_or_domain_error:2
+গতিবিদ্যা,gemma3_4b,38,4,34,0.1053,arithmetic_or_algebra_error:10; wrong_final_value_or_expression:10; formula_or_method_error:6; no_or_insufficient_reasoning:3; manual_failure_note_uncategorized:3
+গতিবিদ্যা,gpt5,38,26,12,0.6842,question_misinterpretation:3; arithmetic_or_algebra_error:3; missing_case_or_domain_error:3; format_or_final_extraction:2; no_or_insufficient_reasoning:1
+গতিবিদ্যা,mistral3_3b,38,9,29,0.2368,arithmetic_or_algebra_error:8; wrong_final_value_or_expression:8; no_or_insufficient_reasoning:4; manual_failure_note_uncategorized:3; question_misinterpretation:3
+গতিবিদ্যা,qwen2_5_7b,38,5,33,0.1316,wrong_final_value_or_expression:10; arithmetic_or_algebra_error:7; no_or_insufficient_reasoning:5; formula_or_method_error:4; manual_failure_note_uncategorized:4
+গতিবিদ্যা,qwen3_4b,38,9,29,0.2368,wrong_final_value_or_expression:10; arithmetic_or_algebra_error:9; manual_failure_note_uncategorized:2; format_or_final_extraction:2; formula_or_method_error:2
+জটিল সংখ্যা,gemma3_4b,19,11,8,0.5789,formula_or_method_error:3; arithmetic_or_algebra_error:2; missing_case_or_domain_error:1; question_misinterpretation:1; no_or_insufficient_reasoning:1
+জটিল সংখ্যা,gpt5,19,17,2,0.8947,missing_case_or_domain_error:1; format_or_final_extraction:1
+জটিল সংখ্যা,mistral3_3b,19,9,10,0.4737,arithmetic_or_algebra_error:4; no_or_insufficient_reasoning:2; geometry_condition_error:1; formula_or_method_error:1; question_misinterpretation:1
+জটিল সংখ্যা,qwen2_5_7b,19,12,7,0.6316,arithmetic_or_algebra_error:5; formula_or_method_error:1; no_or_insufficient_reasoning:1
+জটিল সংখ্যা,qwen3_4b,19,13,6,0.6842,no_or_insufficient_reasoning:3; arithmetic_or_algebra_error:2; formula_or_method_error:1
+ত্রিকোণমিতি,gemma3_4b,41,16,25,0.3902,arithmetic_or_algebra_error:11; question_misinterpretation:5; missing_case_or_domain_error:3; wrong_final_value_or_expression:3; formula_or_method_error:1
+ত্রিকোণমিতি,gpt5,41,38,3,0.9268,question_misinterpretation:1; format_or_final_extraction:1; arithmetic_or_algebra_error:1
+ত্রিকোণমিতি,mistral3_3b,41,22,19,0.5366,no_or_insufficient_reasoning:5; question_misinterpretation:4; arithmetic_or_algebra_error:3; formula_or_method_error:2; wrong_final_value_or_expression:2
+ত্রিকোণমিতি,qwen2_5_7b,41,19,22,0.4634,arithmetic_or_algebra_error:7; question_misinterpretation:5; formula_or_method_error:3; wrong_final_value_or_expression:3; missing_case_or_domain_error:3
+ত্রিকোণমিতি,qwen3_4b,41,23,18,0.561,arithmetic_or_algebra_error:8; format_or_final_extraction:4; no_or_insufficient_reasoning:3; wrong_final_value_or_expression:2; question_misinterpretation:1
+দ্বিপদী বিস্তৃতি,gemma3_4b,20,3,17,0.15,wrong_final_value_or_expression:10; arithmetic_or_algebra_error:4; formula_or_method_error:1; geometry_condition_error:1; no_or_insufficient_reasoning:1
+দ্বিপদী বিস্তৃতি,gpt5,20,19,1,0.95,format_or_final_extraction:1
+দ্বিপদী বিস্তৃতি,mistral3_3b,20,8,12,0.4,arithmetic_or_algebra_error:5; wrong_final_value_or_expression:3; format_or_final_extraction:2; geometry_condition_error:1; question_misinterpretation:1
+দ্বিপদী বিস্তৃতি,qwen2_5_7b,20,6,14,0.3,wrong_final_value_or_expression:5; arithmetic_or_algebra_error:4; format_or_final_extraction:4; question_misinterpretation:1
+দ্বিপদী বিস্তৃতি,qwen3_4b,20,12,8,0.6,arithmetic_or_algebra_error:4; wrong_final_value_or_expression:3; format_or_final_extraction:1
+ফাংশন,gemma3_4b,10,6,4,0.6,arithmetic_or_algebra_error:1; formula_or_method_error:1; question_misinterpretation:1; format_or_final_extraction:1
+ফাংশন,gpt5,10,10,0,1.0,
+ফাংশন,mistral3_3b,10,7,3,0.7,missing_case_or_domain_error:2; arithmetic_or_algebra_error:1
+ফাংশন,qwen2_5_7b,10,4,6,0.4,missing_case_or_domain_error:2; question_misinterpretation:2; geometry_condition_error:1; arithmetic_or_algebra_error:1
+ফাংশন,qwen3_4b,10,7,3,0.7,arithmetic_or_algebra_error:2; missing_case_or_domain_error:1
+বহুপদী ও সমীকরণ,gemma3_4b,22,11,11,0.5,arithmetic_or_algebra_error:5; no_or_insufficient_reasoning:2; question_misinterpretation:2; wrong_final_value_or_expression:1; manual_failure_note_uncategorized:1
+বহুপদী ও সমীকরণ,gpt5,22,20,2,0.9091,arithmetic_or_algebra_error:1; question_misinterpretation:1
+বহুপদী ও সমীকরণ,mistral3_3b,22,11,11,0.5,arithmetic_or_algebra_error:4; geometry_condition_error:1; manual_failure_note_uncategorized:1; question_misinterpretation:1; formula_or_method_error:1
+বহুপদী ও সমীকরণ,qwen2_5_7b,22,8,14,0.3636,arithmetic_or_algebra_error:5; formula_or_method_error:2; question_misinterpretation:2; wrong_final_value_or_expression:1; no_or_insufficient_reasoning:1
+বহুপদী ও সমীকরণ,qwen3_4b,22,14,8,0.6364,no_or_insufficient_reasoning:2; arithmetic_or_algebra_error:2; geometry_condition_error:1; formula_or_method_error:1; question_misinterpretation:1
+বাস্তব সংখ্যা ও অসমতা,gemma3_4b,9,5,4,0.5556,no_or_insufficient_reasoning:2; wrong_final_value_or_expression:1; arithmetic_or_algebra_error:1
+বাস্তব সংখ্যা ও অসমতা,gpt5,9,8,1,0.8889,question_misinterpretation:1
+বাস্তব সংখ্যা ও অসমতা,mistral3_3b,9,6,3,0.6667,arithmetic_or_algebra_error:2; missing_case_or_domain_error:1
+বাস্তব সংখ্যা ও অসমতা,qwen2_5_7b,9,7,2,0.7778,formula_or_method_error:1; no_or_insufficient_reasoning:1
+বাস্তব সংখ্যা ও অসমতা,qwen3_4b,9,7,2,0.7778,format_or_final_extraction:1; no_or_insufficient_reasoning:1
+বিন্যাস ও সমাবেশ,gemma3_4b,20,5,15,0.25,question_misinterpretation:9; arithmetic_or_algebra_error:4; format_or_final_extraction:1; formula_or_method_error:1
+বিন্যাস ও সমাবেশ,gpt5,20,19,1,0.95,formula_or_method_error:1
+বিন্যাস ও সমাবেশ,mistral3_3b,20,4,16,0.2,arithmetic_or_algebra_error:6; formula_or_method_error:4; question_misinterpretation:2; missing_case_or_domain_error:2; no_or_insufficient_reasoning:1
+বিন্যাস ও সমাবেশ,qwen2_5_7b,20,15,5,0.75,formula_or_method_error:4; no_or_insufficient_reasoning:1
+বিন্যাস ও সমাবেশ,qwen3_4b,20,7,13,0.35,question_misinterpretation:4; missing_case_or_domain_error:3; formula_or_method_error:3; arithmetic_or_algebra_error:1; format_or_final_extraction:1
+বৃত্ত,gemma3_4b,25,5,20,0.2,geometry_condition_error:9; question_misinterpretation:4; formula_or_method_error:3; arithmetic_or_algebra_error:2; missing_case_or_domain_error:1
+বৃত্ত,gpt5,25,19,6,0.76,geometry_condition_error:6
+বৃত্ত,mistral3_3b,25,13,12,0.52,geometry_condition_error:6; formula_or_method_error:2; arithmetic_or_algebra_error:2; format_or_final_extraction:1; question_misinterpretation:1
+বৃত্ত,qwen2_5_7b,25,5,20,0.2,geometry_condition_error:19; no_or_insufficient_reasoning:1
+বৃত্ত,qwen3_4b,25,12,13,0.48,geometry_condition_error:8; question_misinterpretation:3; formula_or_method_error:1; arithmetic_or_algebra_error:1
+ভেক্টর,gemma3_4b,18,11,7,0.6111,arithmetic_or_algebra_error:3; no_or_insufficient_reasoning:1; question_misinterpretation:1; formula_or_method_error:1; wrong_final_value_or_expression:1
+ভেক্টর,gpt5,18,14,4,0.7778,formula_or_method_error:4
+ভেক্টর,mistral3_3b,18,12,6,0.6667,arithmetic_or_algebra_error:3; question_misinterpretation:2; no_or_insufficient_reasoning:1
+ভেক্টর,qwen2_5_7b,18,8,10,0.4444,formula_or_method_error:7; no_or_insufficient_reasoning:1; arithmetic_or_algebra_error:1; wrong_final_value_or_expression:1
+ভেক্টর,qwen3_4b,18,13,5,0.7222,question_misinterpretation:2; no_or_insufficient_reasoning:1; arithmetic_or_algebra_error:1; wrong_final_value_or_expression:1
+ম্যাট্রিক্স ও নির্ণায়ক,gemma3_4b,12,7,5,0.5833,arithmetic_or_algebra_error:2; question_misinterpretation:2; format_or_final_extraction:1
+ম্যাট্রিক্স ও নির্ণায়ক,gpt5,12,12,0,1.0,
+ম্যাট্রিক্স ও নির্ণায়ক,mistral3_3b,12,5,7,0.4167,arithmetic_or_algebra_error:3; formula_or_method_error:2; question_misinterpretation:1; format_or_final_extraction:1
+ম্যাট্রিক্স ও নির্ণায়ক,qwen2_5_7b,12,4,8,0.3333,dimension_or_structure_error:5; no_or_insufficient_reasoning:3
+ম্যাট্রিক্স ও নির্ণায়ক,qwen3_4b,12,8,4,0.6667,no_or_insufficient_reasoning:1; arithmetic_or_algebra_error:1; format_or_final_extraction:1; output_corruption:1
+রৈখিক প্রোগ্রামিং,gemma3_4b,3,1,2,0.3333,question_misinterpretation:1; formula_or_method_error:1
+রৈখিক প্রোগ্রামিং,gpt5,3,3,0,1.0,
+রৈখিক প্রোগ্রামিং,mistral3_3b,3,1,2,0.3333,arithmetic_or_algebra_error:1; formula_or_method_error:1
+রৈখিক প্রোগ্রামিং,qwen2_5_7b,3,2,1,0.6667,arithmetic_or_algebra_error:1
+রৈখিক প্রোগ্রামিং,qwen3_4b,3,2,1,0.6667,arithmetic_or_algebra_error:1
+সমাকলন,gemma3_4b,78,33,45,0.4231,arithmetic_or_algebra_error:20; formula_or_method_error:7; question_misinterpretation:7; geometry_condition_error:5; no_or_insufficient_reasoning:4
+সমাকলন,gpt5,78,71,7,0.9103,missing_case_or_domain_error:4; format_or_final_extraction:3
+সমাকলন,mistral3_3b,78,35,43,0.4487,arithmetic_or_algebra_error:20; formula_or_method_error:9; question_misinterpretation:5; format_or_final_extraction:3; no_or_insufficient_reasoning:2
+সমাকলন,qwen2_5_7b,78,26,52,0.3333,arithmetic_or_algebra_error:21; formula_or_method_error:11; format_or_final_extraction:9; no_or_insufficient_reasoning:5; question_misinterpretation:5
+সমাকলন,qwen3_4b,78,49,29,0.6282,arithmetic_or_algebra_error:10; formula_or_method_error:7; question_misinterpretation:4; format_or_final_extraction:3; no_or_insufficient_reasoning:3
+সম্ভাবনা,gemma3_4b,33,21,12,0.6364,wrong_final_value_or_expression:3; missing_case_or_domain_error:2; arithmetic_or_algebra_error:2; manual_failure_note_uncategorized:2; formula_or_method_error:1
+সম্ভাবনা,gpt5,33,30,3,0.9091,question_misinterpretation:1; formula_or_method_error:1; no_or_insufficient_reasoning:1
+সম্ভাবনা,mistral3_3b,33,18,15,0.5455,wrong_final_value_or_expression:4; arithmetic_or_algebra_error:4; question_misinterpretation:3; manual_failure_note_uncategorized:2; format_or_final_extraction:1
+সম্ভাবনা,qwen2_5_7b,33,18,15,0.5455,wrong_final_value_or_expression:7; arithmetic_or_algebra_error:3; no_or_insufficient_reasoning:2; question_misinterpretation:2; manual_failure_note_uncategorized:1
+সম্ভাবনা,qwen3_4b,33,27,6,0.8182,question_misinterpretation:3; wrong_final_value_or_expression:1; missing_case_or_domain_error:1; manual_failure_note_uncategorized:1
+সরলরেখা,gemma3_4b,35,13,22,0.3714,geometry_condition_error:8; arithmetic_or_algebra_error:5; formula_or_method_error:4; question_misinterpretation:3; format_or_final_extraction:1
+সরলরেখা,gpt5,35,30,5,0.8571,arithmetic_or_algebra_error:4; no_or_insufficient_reasoning:1
+সরলরেখা,mistral3_3b,35,18,17,0.5143,geometry_condition_error:6; arithmetic_or_algebra_error:4; formula_or_method_error:3; question_misinterpretation:2; format_or_final_extraction:1
+সরলরেখা,qwen2_5_7b,35,19,16,0.5429,arithmetic_or_algebra_error:13; no_or_insufficient_reasoning:3
+সরলরেখা,qwen3_4b,35,19,16,0.5429,question_misinterpretation:5; formula_or_method_error:5; arithmetic_or_algebra_error:3; geometry_condition_error:2; format_or_final_extraction:1
+স্থিতিবিদ্যা,gemma3_4b,34,3,31,0.0882,arithmetic_or_algebra_error:15; wrong_final_value_or_expression:7; question_misinterpretation:4; formula_or_method_error:2; format_or_final_extraction:1
+স্থিতিবিদ্যা,gpt5,34,25,9,0.7353,no_or_insufficient_reasoning:4; arithmetic_or_algebra_error:3; format_or_final_extraction:2
+স্থিতিবিদ্যা,mistral3_3b,34,6,28,0.1765,arithmetic_or_algebra_error:12; no_or_insufficient_reasoning:7; format_or_final_extraction:3; wrong_final_value_or_expression:2; manual_failure_note_uncategorized:2
+স্থিতিবিদ্যা,qwen2_5_7b,34,4,30,0.1176,arithmetic_or_algebra_error:8; no_or_insufficient_reasoning:6; wrong_final_value_or_expression:5; manual_failure_note_uncategorized:4; question_misinterpretation:2
+স্থিতিবিদ্যা,qwen3_4b,34,5,29,0.1471,arithmetic_or_algebra_error:10; question_misinterpretation:4; no_or_insufficient_reasoning:4; formula_or_method_error:3; wrong_final_value_or_expression:3

@@ -1,6 +1,9 @@
-notebooks/
+notebooks/*
+!notebooks/openrouter_api_keys.example.json
+notebooks/openrouter_api_keys.local.json
 notebook/
 .venv/
+.venv-aks/
 __pycache__/
 *.py[cod]
 tmp/

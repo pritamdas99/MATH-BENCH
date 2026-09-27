@@ -1,0 +1,7 @@
+{
+  "model": "Mistral 3B",
+  "total": 528,
+  "correct": 186,
+  "incorrect": 342,
+  "accuracy": 0.3522727272727273
+}

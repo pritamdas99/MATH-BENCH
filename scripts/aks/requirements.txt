@@ -1,0 +1,6 @@
+# Local Hugging Face inference for Qwen/Qwen3-4B.
+torch>=2.6,<3
+transformers>=4.51,<6
+accelerate>=1.2,<2
+safetensors>=0.5,<1
+sentencepiece>=0.2,<1

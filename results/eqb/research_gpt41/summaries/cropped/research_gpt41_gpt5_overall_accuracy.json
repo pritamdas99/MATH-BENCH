@@ -1,0 +1,7 @@
+{
+  "model": "GPT-5",
+  "total": 528,
+  "correct": 352,
+  "incorrect": 176,
+  "accuracy": 0.6666666666666666
+}
