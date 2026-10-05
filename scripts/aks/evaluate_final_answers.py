@@ -16,6 +16,7 @@ from smoke_test_openrouter_qwen3b import call_openrouter_with_retry
 
 DEFAULT_KEY_FILE = Path(__file__).resolve().parents[2] / "notebooks/openrouter_api_keys.local.json"
 MODEL_KEY_NAMES = {
+    "google/gemma-3-4b-it": "gemma3_4b",
     "openai/gpt-5.5": "gpt5_5",
     "openai/gpt-5.6-sol": "gpt5_5",
     "qwen/qwen3.8-27b": "qwen3_8_27b",

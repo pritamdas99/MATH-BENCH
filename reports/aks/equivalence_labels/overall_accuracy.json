@@ -1,0 +1,56 @@
+[
+  {
+    "model": "gpt_5_6",
+    "total": 2921,
+    "correct": 2574,
+    "incorrect": 347,
+    "judge_errors": 0,
+    "accuracy": 0.8812050667579596,
+    "accuracy_percent": 88.1205
+  },
+  {
+    "model": "qwen3_8_27b",
+    "total": 2921,
+    "correct": 2362,
+    "incorrect": 559,
+    "judge_errors": 0,
+    "accuracy": 0.8086271824717562,
+    "accuracy_percent": 80.8627
+  },
+  {
+    "model": "gemma3_4b",
+    "total": 2921,
+    "correct": 1192,
+    "incorrect": 1729,
+    "judge_errors": 0,
+    "accuracy": 0.4080794248545019,
+    "accuracy_percent": 40.8079
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "total": 2921,
+    "correct": 1172,
+    "incorrect": 1749,
+    "judge_errors": 0,
+    "accuracy": 0.40123245463882234,
+    "accuracy_percent": 40.1232
+  },
+  {
+    "model": "ministral3_3b",
+    "total": 2921,
+    "correct": 1168,
+    "incorrect": 1753,
+    "judge_errors": 0,
+    "accuracy": 0.3998630605956864,
+    "accuracy_percent": 39.9863
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "total": 2921,
+    "correct": 169,
+    "incorrect": 2752,
+    "judge_errors": 0,
+    "accuracy": 0.0578568983224923,
+    "accuracy_percent": 5.7857
+  }
+]

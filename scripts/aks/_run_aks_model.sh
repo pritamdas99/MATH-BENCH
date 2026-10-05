@@ -86,7 +86,7 @@ python3 -u scripts/aks/smoke_test_openrouter_qwen3b.py \
   --append \
   --max-tokens "$MAX_TOKENS" \
   --timeout 300 \
-  --sleep 6 \
-  --retries 5
+  --sleep "${AKS_REQUEST_SLEEP:-6}" \
+  --retries "${AKS_HTTP_RETRIES:-5}"
 
 echo "[$(date '+%Y-%m-%d %H:%M:%S')] AKS model run completed"

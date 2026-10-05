@@ -1,0 +1,1202 @@
+[
+  {
+    "model": "gemma3_4b",
+    "chaptername": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "total": 8,
+    "correct": 3,
+    "incorrect": 5,
+    "judge_errors": 0,
+    "accuracy": 0.375,
+    "accuracy_percent": 37.5
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "ভেক্টর",
+    "total": 8,
+    "correct": 3,
+    "incorrect": 5,
+    "judge_errors": 0,
+    "accuracy": 0.375,
+    "accuracy_percent": 37.5
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "বৃত্ত",
+    "total": 179,
+    "correct": 64,
+    "incorrect": 115,
+    "judge_errors": 0,
+    "accuracy": 0.3575418994413408,
+    "accuracy_percent": 35.7542
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "বিন্যাস ও সমাবেশ",
+    "total": 111,
+    "correct": 23,
+    "incorrect": 88,
+    "judge_errors": 0,
+    "accuracy": 0.2072072072072072,
+    "accuracy_percent": 20.7207
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "সরলরেখা",
+    "total": 288,
+    "correct": 113,
+    "incorrect": 175,
+    "judge_errors": 0,
+    "accuracy": 0.3923611111111111,
+    "accuracy_percent": 39.2361
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "ত্রিকোণমিতিক অনুপাত",
+    "total": 42,
+    "correct": 15,
+    "incorrect": 27,
+    "judge_errors": 0,
+    "accuracy": 0.35714285714285715,
+    "accuracy_percent": 35.7143
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
+    "total": 251,
+    "correct": 111,
+    "incorrect": 140,
+    "judge_errors": 0,
+    "accuracy": 0.44223107569721115,
+    "accuracy_percent": 44.2231
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "function",
+    "total": 118,
+    "correct": 71,
+    "incorrect": 47,
+    "judge_errors": 0,
+    "accuracy": 0.6016949152542372,
+    "accuracy_percent": 60.1695
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "অন্তরীকরণ",
+    "total": 417,
+    "correct": 256,
+    "incorrect": 161,
+    "judge_errors": 0,
+    "accuracy": 0.6139088729016786,
+    "accuracy_percent": 61.3909
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "যোগজীকরণ",
+    "total": 451,
+    "correct": 259,
+    "incorrect": 192,
+    "judge_errors": 0,
+    "accuracy": 0.5742793791574279,
+    "accuracy_percent": 57.4279
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "জটিল সংখ্যা",
+    "total": 52,
+    "correct": 25,
+    "incorrect": 27,
+    "judge_errors": 0,
+    "accuracy": 0.4807692307692308,
+    "accuracy_percent": 48.0769
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "বহুপদী ও বহুপদী সমীকরণ",
+    "total": 75,
+    "correct": 41,
+    "incorrect": 34,
+    "judge_errors": 0,
+    "accuracy": 0.5466666666666666,
+    "accuracy_percent": 54.6667
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "দ্বিপদী বিস্তৃতি",
+    "total": 111,
+    "correct": 35,
+    "incorrect": 76,
+    "judge_errors": 0,
+    "accuracy": 0.3153153153153153,
+    "accuracy_percent": 31.5315
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "কনিক",
+    "total": 201,
+    "correct": 25,
+    "incorrect": 176,
+    "judge_errors": 0,
+    "accuracy": 0.12437810945273632,
+    "accuracy_percent": 12.4378
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "ত্রিকোণমিতি",
+    "total": 141,
+    "correct": 60,
+    "incorrect": 81,
+    "judge_errors": 0,
+    "accuracy": 0.425531914893617,
+    "accuracy_percent": 42.5532
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "স্থিতিবিদ্যা",
+    "total": 117,
+    "correct": 12,
+    "incorrect": 105,
+    "judge_errors": 0,
+    "accuracy": 0.10256410256410256,
+    "accuracy_percent": 10.2564
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "গতিবিদ্যা",
+    "total": 228,
+    "correct": 18,
+    "incorrect": 210,
+    "judge_errors": 0,
+    "accuracy": 0.07894736842105263,
+    "accuracy_percent": 7.8947
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "বিস্তার পরিমাপ ও সম্ভাবনা",
+    "total": 111,
+    "correct": 52,
+    "incorrect": 59,
+    "judge_errors": 0,
+    "accuracy": 0.46846846846846846,
+    "accuracy_percent": 46.8468
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "বাস্তব সংখ্যা ও অসমতা",
+    "total": 9,
+    "correct": 4,
+    "incorrect": 5,
+    "judge_errors": 0,
+    "accuracy": 0.4444444444444444,
+    "accuracy_percent": 44.4444
+  },
+  {
+    "model": "gemma3_4b",
+    "chaptername": "রৈখিক প্রোগ্রামিং",
+    "total": 3,
+    "correct": 2,
+    "incorrect": 1,
+    "judge_errors": 0,
+    "accuracy": 0.6666666666666666,
+    "accuracy_percent": 66.6667
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "total": 8,
+    "correct": 8,
+    "incorrect": 0,
+    "judge_errors": 0,
+    "accuracy": 1.0,
+    "accuracy_percent": 100.0
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "ভেক্টর",
+    "total": 8,
+    "correct": 8,
+    "incorrect": 0,
+    "judge_errors": 0,
+    "accuracy": 1.0,
+    "accuracy_percent": 100.0
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "বৃত্ত",
+    "total": 179,
+    "correct": 171,
+    "incorrect": 8,
+    "judge_errors": 0,
+    "accuracy": 0.9553072625698324,
+    "accuracy_percent": 95.5307
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "বিন্যাস ও সমাবেশ",
+    "total": 111,
+    "correct": 82,
+    "incorrect": 29,
+    "judge_errors": 0,
+    "accuracy": 0.7387387387387387,
+    "accuracy_percent": 73.8739
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "সরলরেখা",
+    "total": 288,
+    "correct": 266,
+    "incorrect": 22,
+    "judge_errors": 0,
+    "accuracy": 0.9236111111111112,
+    "accuracy_percent": 92.3611
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "ত্রিকোণমিতিক অনুপাত",
+    "total": 42,
+    "correct": 39,
+    "incorrect": 3,
+    "judge_errors": 0,
+    "accuracy": 0.9285714285714286,
+    "accuracy_percent": 92.8571
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
+    "total": 251,
+    "correct": 207,
+    "incorrect": 44,
+    "judge_errors": 0,
+    "accuracy": 0.8247011952191236,
+    "accuracy_percent": 82.4701
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "function",
+    "total": 118,
+    "correct": 113,
+    "incorrect": 5,
+    "judge_errors": 0,
+    "accuracy": 0.9576271186440678,
+    "accuracy_percent": 95.7627
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "অন্তরীকরণ",
+    "total": 417,
+    "correct": 359,
+    "incorrect": 58,
+    "judge_errors": 0,
+    "accuracy": 0.8609112709832134,
+    "accuracy_percent": 86.0911
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "যোগজীকরণ",
+    "total": 451,
+    "correct": 434,
+    "incorrect": 17,
+    "judge_errors": 0,
+    "accuracy": 0.9623059866962306,
+    "accuracy_percent": 96.2306
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "জটিল সংখ্যা",
+    "total": 52,
+    "correct": 47,
+    "incorrect": 5,
+    "judge_errors": 0,
+    "accuracy": 0.9038461538461539,
+    "accuracy_percent": 90.3846
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "বহুপদী ও বহুপদী সমীকরণ",
+    "total": 75,
+    "correct": 72,
+    "incorrect": 3,
+    "judge_errors": 0,
+    "accuracy": 0.96,
+    "accuracy_percent": 96.0
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "দ্বিপদী বিস্তৃতি",
+    "total": 111,
+    "correct": 102,
+    "incorrect": 9,
+    "judge_errors": 0,
+    "accuracy": 0.918918918918919,
+    "accuracy_percent": 91.8919
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "কনিক",
+    "total": 201,
+    "correct": 190,
+    "incorrect": 11,
+    "judge_errors": 0,
+    "accuracy": 0.945273631840796,
+    "accuracy_percent": 94.5274
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "ত্রিকোণমিতি",
+    "total": 141,
+    "correct": 120,
+    "incorrect": 21,
+    "judge_errors": 0,
+    "accuracy": 0.851063829787234,
+    "accuracy_percent": 85.1064
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "স্থিতিবিদ্যা",
+    "total": 117,
+    "correct": 92,
+    "incorrect": 25,
+    "judge_errors": 0,
+    "accuracy": 0.7863247863247863,
+    "accuracy_percent": 78.6325
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "গতিবিদ্যা",
+    "total": 228,
+    "correct": 159,
+    "incorrect": 69,
+    "judge_errors": 0,
+    "accuracy": 0.6973684210526315,
+    "accuracy_percent": 69.7368
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "বিস্তার পরিমাপ ও সম্ভাবনা",
+    "total": 111,
+    "correct": 94,
+    "incorrect": 17,
+    "judge_errors": 0,
+    "accuracy": 0.8468468468468469,
+    "accuracy_percent": 84.6847
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "বাস্তব সংখ্যা ও অসমতা",
+    "total": 9,
+    "correct": 9,
+    "incorrect": 0,
+    "judge_errors": 0,
+    "accuracy": 1.0,
+    "accuracy_percent": 100.0
+  },
+  {
+    "model": "gpt_5_6",
+    "chaptername": "রৈখিক প্রোগ্রামিং",
+    "total": 3,
+    "correct": 2,
+    "incorrect": 1,
+    "judge_errors": 0,
+    "accuracy": 0.6666666666666666,
+    "accuracy_percent": 66.6667
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "total": 8,
+    "correct": 0,
+    "incorrect": 8,
+    "judge_errors": 0,
+    "accuracy": 0.0,
+    "accuracy_percent": 0.0
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "ভেক্টর",
+    "total": 8,
+    "correct": 0,
+    "incorrect": 8,
+    "judge_errors": 0,
+    "accuracy": 0.0,
+    "accuracy_percent": 0.0
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "বৃত্ত",
+    "total": 179,
+    "correct": 5,
+    "incorrect": 174,
+    "judge_errors": 0,
+    "accuracy": 0.027932960893854747,
+    "accuracy_percent": 2.7933
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "বিন্যাস ও সমাবেশ",
+    "total": 111,
+    "correct": 7,
+    "incorrect": 104,
+    "judge_errors": 0,
+    "accuracy": 0.06306306306306306,
+    "accuracy_percent": 6.3063
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "সরলরেখা",
+    "total": 288,
+    "correct": 6,
+    "incorrect": 282,
+    "judge_errors": 0,
+    "accuracy": 0.020833333333333332,
+    "accuracy_percent": 2.0833
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "ত্রিকোণমিতিক অনুপাত",
+    "total": 42,
+    "correct": 3,
+    "incorrect": 39,
+    "judge_errors": 0,
+    "accuracy": 0.07142857142857142,
+    "accuracy_percent": 7.1429
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
+    "total": 251,
+    "correct": 16,
+    "incorrect": 235,
+    "judge_errors": 0,
+    "accuracy": 0.06374501992031872,
+    "accuracy_percent": 6.3745
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "function",
+    "total": 118,
+    "correct": 34,
+    "incorrect": 84,
+    "judge_errors": 0,
+    "accuracy": 0.288135593220339,
+    "accuracy_percent": 28.8136
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "অন্তরীকরণ",
+    "total": 417,
+    "correct": 38,
+    "incorrect": 379,
+    "judge_errors": 0,
+    "accuracy": 0.09112709832134293,
+    "accuracy_percent": 9.1127
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "যোগজীকরণ",
+    "total": 451,
+    "correct": 16,
+    "incorrect": 435,
+    "judge_errors": 0,
+    "accuracy": 0.03547671840354767,
+    "accuracy_percent": 3.5477
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "জটিল সংখ্যা",
+    "total": 52,
+    "correct": 5,
+    "incorrect": 47,
+    "judge_errors": 0,
+    "accuracy": 0.09615384615384616,
+    "accuracy_percent": 9.6154
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "বহুপদী ও বহুপদী সমীকরণ",
+    "total": 75,
+    "correct": 0,
+    "incorrect": 75,
+    "judge_errors": 0,
+    "accuracy": 0.0,
+    "accuracy_percent": 0.0
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "দ্বিপদী বিস্তৃতি",
+    "total": 111,
+    "correct": 9,
+    "incorrect": 102,
+    "judge_errors": 0,
+    "accuracy": 0.08108108108108109,
+    "accuracy_percent": 8.1081
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "কনিক",
+    "total": 201,
+    "correct": 1,
+    "incorrect": 200,
+    "judge_errors": 0,
+    "accuracy": 0.004975124378109453,
+    "accuracy_percent": 0.4975
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "ত্রিকোণমিতি",
+    "total": 141,
+    "correct": 3,
+    "incorrect": 138,
+    "judge_errors": 0,
+    "accuracy": 0.02127659574468085,
+    "accuracy_percent": 2.1277
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "স্থিতিবিদ্যা",
+    "total": 117,
+    "correct": 5,
+    "incorrect": 112,
+    "judge_errors": 0,
+    "accuracy": 0.042735042735042736,
+    "accuracy_percent": 4.2735
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "গতিবিদ্যা",
+    "total": 228,
+    "correct": 4,
+    "incorrect": 224,
+    "judge_errors": 0,
+    "accuracy": 0.017543859649122806,
+    "accuracy_percent": 1.7544
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "বিস্তার পরিমাপ ও সম্ভাবনা",
+    "total": 111,
+    "correct": 16,
+    "incorrect": 95,
+    "judge_errors": 0,
+    "accuracy": 0.14414414414414414,
+    "accuracy_percent": 14.4144
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "বাস্তব সংখ্যা ও অসমতা",
+    "total": 9,
+    "correct": 1,
+    "incorrect": 8,
+    "judge_errors": 0,
+    "accuracy": 0.1111111111111111,
+    "accuracy_percent": 11.1111
+  },
+  {
+    "model": "llama3_2_3b_instruct",
+    "chaptername": "রৈখিক প্রোগ্রামিং",
+    "total": 3,
+    "correct": 0,
+    "incorrect": 3,
+    "judge_errors": 0,
+    "accuracy": 0.0,
+    "accuracy_percent": 0.0
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "total": 8,
+    "correct": 2,
+    "incorrect": 6,
+    "judge_errors": 0,
+    "accuracy": 0.25,
+    "accuracy_percent": 25.0
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "ভেক্টর",
+    "total": 8,
+    "correct": 5,
+    "incorrect": 3,
+    "judge_errors": 0,
+    "accuracy": 0.625,
+    "accuracy_percent": 62.5
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "বৃত্ত",
+    "total": 179,
+    "correct": 57,
+    "incorrect": 122,
+    "judge_errors": 0,
+    "accuracy": 0.31843575418994413,
+    "accuracy_percent": 31.8436
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "বিন্যাস ও সমাবেশ",
+    "total": 111,
+    "correct": 22,
+    "incorrect": 89,
+    "judge_errors": 0,
+    "accuracy": 0.1981981981981982,
+    "accuracy_percent": 19.8198
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "সরলরেখা",
+    "total": 288,
+    "correct": 120,
+    "incorrect": 168,
+    "judge_errors": 0,
+    "accuracy": 0.4166666666666667,
+    "accuracy_percent": 41.6667
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "ত্রিকোণমিতিক অনুপাত",
+    "total": 42,
+    "correct": 22,
+    "incorrect": 20,
+    "judge_errors": 0,
+    "accuracy": 0.5238095238095238,
+    "accuracy_percent": 52.381
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
+    "total": 251,
+    "correct": 68,
+    "incorrect": 183,
+    "judge_errors": 0,
+    "accuracy": 0.27091633466135456,
+    "accuracy_percent": 27.0916
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "function",
+    "total": 118,
+    "correct": 85,
+    "incorrect": 33,
+    "judge_errors": 0,
+    "accuracy": 0.7203389830508474,
+    "accuracy_percent": 72.0339
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "অন্তরীকরণ",
+    "total": 417,
+    "correct": 245,
+    "incorrect": 172,
+    "judge_errors": 0,
+    "accuracy": 0.5875299760191847,
+    "accuracy_percent": 58.753
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "যোগজীকরণ",
+    "total": 451,
+    "correct": 259,
+    "incorrect": 192,
+    "judge_errors": 0,
+    "accuracy": 0.5742793791574279,
+    "accuracy_percent": 57.4279
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "জটিল সংখ্যা",
+    "total": 52,
+    "correct": 28,
+    "incorrect": 24,
+    "judge_errors": 0,
+    "accuracy": 0.5384615384615384,
+    "accuracy_percent": 53.8462
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "বহুপদী ও বহুপদী সমীকরণ",
+    "total": 75,
+    "correct": 29,
+    "incorrect": 46,
+    "judge_errors": 0,
+    "accuracy": 0.38666666666666666,
+    "accuracy_percent": 38.6667
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "দ্বিপদী বিস্তৃতি",
+    "total": 111,
+    "correct": 42,
+    "incorrect": 69,
+    "judge_errors": 0,
+    "accuracy": 0.3783783783783784,
+    "accuracy_percent": 37.8378
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "কনিক",
+    "total": 201,
+    "correct": 34,
+    "incorrect": 167,
+    "judge_errors": 0,
+    "accuracy": 0.1691542288557214,
+    "accuracy_percent": 16.9154
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "ত্রিকোণমিতি",
+    "total": 141,
+    "correct": 55,
+    "incorrect": 86,
+    "judge_errors": 0,
+    "accuracy": 0.3900709219858156,
+    "accuracy_percent": 39.0071
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "স্থিতিবিদ্যা",
+    "total": 117,
+    "correct": 13,
+    "incorrect": 104,
+    "judge_errors": 0,
+    "accuracy": 0.1111111111111111,
+    "accuracy_percent": 11.1111
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "গতিবিদ্যা",
+    "total": 228,
+    "correct": 31,
+    "incorrect": 197,
+    "judge_errors": 0,
+    "accuracy": 0.13596491228070176,
+    "accuracy_percent": 13.5965
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "বিস্তার পরিমাপ ও সম্ভাবনা",
+    "total": 111,
+    "correct": 47,
+    "incorrect": 64,
+    "judge_errors": 0,
+    "accuracy": 0.42342342342342343,
+    "accuracy_percent": 42.3423
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "বাস্তব সংখ্যা ও অসমতা",
+    "total": 9,
+    "correct": 3,
+    "incorrect": 6,
+    "judge_errors": 0,
+    "accuracy": 0.3333333333333333,
+    "accuracy_percent": 33.3333
+  },
+  {
+    "model": "ministral3_3b",
+    "chaptername": "রৈখিক প্রোগ্রামিং",
+    "total": 3,
+    "correct": 1,
+    "incorrect": 2,
+    "judge_errors": 0,
+    "accuracy": 0.3333333333333333,
+    "accuracy_percent": 33.3333
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "total": 8,
+    "correct": 4,
+    "incorrect": 4,
+    "judge_errors": 0,
+    "accuracy": 0.5,
+    "accuracy_percent": 50.0
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "ভেক্টর",
+    "total": 8,
+    "correct": 6,
+    "incorrect": 2,
+    "judge_errors": 0,
+    "accuracy": 0.75,
+    "accuracy_percent": 75.0
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "বৃত্ত",
+    "total": 179,
+    "correct": 48,
+    "incorrect": 131,
+    "judge_errors": 0,
+    "accuracy": 0.2681564245810056,
+    "accuracy_percent": 26.8156
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "বিন্যাস ও সমাবেশ",
+    "total": 111,
+    "correct": 20,
+    "incorrect": 91,
+    "judge_errors": 0,
+    "accuracy": 0.18018018018018017,
+    "accuracy_percent": 18.018
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "সরলরেখা",
+    "total": 288,
+    "correct": 96,
+    "incorrect": 192,
+    "judge_errors": 0,
+    "accuracy": 0.3333333333333333,
+    "accuracy_percent": 33.3333
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "ত্রিকোণমিতিক অনুপাত",
+    "total": 42,
+    "correct": 19,
+    "incorrect": 23,
+    "judge_errors": 0,
+    "accuracy": 0.4523809523809524,
+    "accuracy_percent": 45.2381
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
+    "total": 251,
+    "correct": 100,
+    "incorrect": 151,
+    "judge_errors": 0,
+    "accuracy": 0.398406374501992,
+    "accuracy_percent": 39.8406
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "function",
+    "total": 118,
+    "correct": 85,
+    "incorrect": 33,
+    "judge_errors": 0,
+    "accuracy": 0.7203389830508474,
+    "accuracy_percent": 72.0339
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "অন্তরীকরণ",
+    "total": 417,
+    "correct": 270,
+    "incorrect": 147,
+    "judge_errors": 0,
+    "accuracy": 0.6474820143884892,
+    "accuracy_percent": 64.7482
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "যোগজীকরণ",
+    "total": 451,
+    "correct": 238,
+    "incorrect": 213,
+    "judge_errors": 0,
+    "accuracy": 0.5277161862527716,
+    "accuracy_percent": 52.7716
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "জটিল সংখ্যা",
+    "total": 52,
+    "correct": 30,
+    "incorrect": 22,
+    "judge_errors": 0,
+    "accuracy": 0.5769230769230769,
+    "accuracy_percent": 57.6923
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "বহুপদী ও বহুপদী সমীকরণ",
+    "total": 75,
+    "correct": 31,
+    "incorrect": 44,
+    "judge_errors": 0,
+    "accuracy": 0.41333333333333333,
+    "accuracy_percent": 41.3333
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "দ্বিপদী বিস্তৃতি",
+    "total": 111,
+    "correct": 48,
+    "incorrect": 63,
+    "judge_errors": 0,
+    "accuracy": 0.43243243243243246,
+    "accuracy_percent": 43.2432
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "কনিক",
+    "total": 201,
+    "correct": 39,
+    "incorrect": 162,
+    "judge_errors": 0,
+    "accuracy": 0.19402985074626866,
+    "accuracy_percent": 19.403
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "ত্রিকোণমিতি",
+    "total": 141,
+    "correct": 52,
+    "incorrect": 89,
+    "judge_errors": 0,
+    "accuracy": 0.36879432624113473,
+    "accuracy_percent": 36.8794
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "স্থিতিবিদ্যা",
+    "total": 117,
+    "correct": 12,
+    "incorrect": 105,
+    "judge_errors": 0,
+    "accuracy": 0.10256410256410256,
+    "accuracy_percent": 10.2564
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "গতিবিদ্যা",
+    "total": 228,
+    "correct": 26,
+    "incorrect": 202,
+    "judge_errors": 0,
+    "accuracy": 0.11403508771929824,
+    "accuracy_percent": 11.4035
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "বিস্তার পরিমাপ ও সম্ভাবনা",
+    "total": 111,
+    "correct": 43,
+    "incorrect": 68,
+    "judge_errors": 0,
+    "accuracy": 0.38738738738738737,
+    "accuracy_percent": 38.7387
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "বাস্তব সংখ্যা ও অসমতা",
+    "total": 9,
+    "correct": 3,
+    "incorrect": 6,
+    "judge_errors": 0,
+    "accuracy": 0.3333333333333333,
+    "accuracy_percent": 33.3333
+  },
+  {
+    "model": "qwen2_5_7b_instruct",
+    "chaptername": "রৈখিক প্রোগ্রামিং",
+    "total": 3,
+    "correct": 2,
+    "incorrect": 1,
+    "judge_errors": 0,
+    "accuracy": 0.6666666666666666,
+    "accuracy_percent": 66.6667
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "ম্যাট্রিক্স ও নির্ণায়ক",
+    "total": 8,
+    "correct": 8,
+    "incorrect": 0,
+    "judge_errors": 0,
+    "accuracy": 1.0,
+    "accuracy_percent": 100.0
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "ভেক্টর",
+    "total": 8,
+    "correct": 8,
+    "incorrect": 0,
+    "judge_errors": 0,
+    "accuracy": 1.0,
+    "accuracy_percent": 100.0
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "বৃত্ত",
+    "total": 179,
+    "correct": 143,
+    "incorrect": 36,
+    "judge_errors": 0,
+    "accuracy": 0.7988826815642458,
+    "accuracy_percent": 79.8883
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "বিন্যাস ও সমাবেশ",
+    "total": 111,
+    "correct": 87,
+    "incorrect": 24,
+    "judge_errors": 0,
+    "accuracy": 0.7837837837837838,
+    "accuracy_percent": 78.3784
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "সরলরেখা",
+    "total": 288,
+    "correct": 220,
+    "incorrect": 68,
+    "judge_errors": 0,
+    "accuracy": 0.7638888888888888,
+    "accuracy_percent": 76.3889
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "ত্রিকোণমিতিক অনুপাত",
+    "total": 42,
+    "correct": 41,
+    "incorrect": 1,
+    "judge_errors": 0,
+    "accuracy": 0.9761904761904762,
+    "accuracy_percent": 97.619
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
+    "total": 251,
+    "correct": 186,
+    "incorrect": 65,
+    "judge_errors": 0,
+    "accuracy": 0.7410358565737052,
+    "accuracy_percent": 74.1036
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "function",
+    "total": 118,
+    "correct": 101,
+    "incorrect": 17,
+    "judge_errors": 0,
+    "accuracy": 0.8559322033898306,
+    "accuracy_percent": 85.5932
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "অন্তরীকরণ",
+    "total": 417,
+    "correct": 347,
+    "incorrect": 70,
+    "judge_errors": 0,
+    "accuracy": 0.8321342925659473,
+    "accuracy_percent": 83.2134
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "যোগজীকরণ",
+    "total": 451,
+    "correct": 415,
+    "incorrect": 36,
+    "judge_errors": 0,
+    "accuracy": 0.9201773835920177,
+    "accuracy_percent": 92.0177
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "জটিল সংখ্যা",
+    "total": 52,
+    "correct": 37,
+    "incorrect": 15,
+    "judge_errors": 0,
+    "accuracy": 0.7115384615384616,
+    "accuracy_percent": 71.1538
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "বহুপদী ও বহুপদী সমীকরণ",
+    "total": 75,
+    "correct": 56,
+    "incorrect": 19,
+    "judge_errors": 0,
+    "accuracy": 0.7466666666666667,
+    "accuracy_percent": 74.6667
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "দ্বিপদী বিস্তৃতি",
+    "total": 111,
+    "correct": 98,
+    "incorrect": 13,
+    "judge_errors": 0,
+    "accuracy": 0.8828828828828829,
+    "accuracy_percent": 88.2883
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "কনিক",
+    "total": 201,
+    "correct": 162,
+    "incorrect": 39,
+    "judge_errors": 0,
+    "accuracy": 0.8059701492537313,
+    "accuracy_percent": 80.597
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "ত্রিকোণমিতি",
+    "total": 141,
+    "correct": 99,
+    "incorrect": 42,
+    "judge_errors": 0,
+    "accuracy": 0.7021276595744681,
+    "accuracy_percent": 70.2128
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "স্থিতিবিদ্যা",
+    "total": 117,
+    "correct": 86,
+    "incorrect": 31,
+    "judge_errors": 0,
+    "accuracy": 0.7350427350427351,
+    "accuracy_percent": 73.5043
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "গতিবিদ্যা",
+    "total": 228,
+    "correct": 167,
+    "incorrect": 61,
+    "judge_errors": 0,
+    "accuracy": 0.7324561403508771,
+    "accuracy_percent": 73.2456
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "বিস্তার পরিমাপ ও সম্ভাবনা",
+    "total": 111,
+    "correct": 90,
+    "incorrect": 21,
+    "judge_errors": 0,
+    "accuracy": 0.8108108108108109,
+    "accuracy_percent": 81.0811
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "বাস্তব সংখ্যা ও অসমতা",
+    "total": 9,
+    "correct": 9,
+    "incorrect": 0,
+    "judge_errors": 0,
+    "accuracy": 1.0,
+    "accuracy_percent": 100.0
+  },
+  {
+    "model": "qwen3_8_27b",
+    "chaptername": "রৈখিক প্রোগ্রামিং",
+    "total": 3,
+    "correct": 2,
+    "incorrect": 1,
+    "judge_errors": 0,
+    "accuracy": 0.6666666666666666,
+    "accuracy_percent": 66.6667
+  }
+]
