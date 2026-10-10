@@ -6226,7 +6226,7 @@
   {
     "id": "779",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\sin2A-\\sin2B+\\sin2C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\sin2A-\\sin2B+\\sin2C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\sin2A-\\sin2B+\\sin2C=2\\cos(A+B)\\sin(A-B)+\\sin2C=2\\cos(\\pi-C)\\sin(A-B)+\\sin2C=-2\\cos C\\sin(A-B)+2\\sin C\\cos C=2\\cos C\\{\\sin C-\\sin(A-B)\\}=2\\cos C\\{\\sin(A+B)-\\sin(A-B)\\}=2\\cos C\\cdot2\\cos A\\sin B=4\\cos A\\sin B\\cos C$।",
     "FinalAnswer": "$4\\cos A\\sin B\\cos C$",
     "Source": "aks"
@@ -6234,7 +6234,7 @@
   {
     "id": "780",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\sin2A+\\sin2B+\\sin2C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\sin2A+\\sin2B+\\sin2C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\sin2A+\\sin2B+\\sin2C=2\\sin(A+B)\\cos(A-B)+\\sin2C=2\\sin C\\{\\cos(A-B)+\\cos C\\}=2\\sin C\\{\\cos(A-B)+\\cos[\\pi-(A+B)]\\}=2\\sin C\\{\\cos(A-B)-\\cos(A+B)\\}=2\\sin C\\cdot2\\sin A\\sin B=4\\sin A\\sin B\\sin C$।",
     "FinalAnswer": "$4\\sin A\\sin B\\sin C$",
     "Source": "aks"
@@ -6242,7 +6242,7 @@
   {
     "id": "781",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\cos2A+\\cos2B+\\cos2C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\cos2A+\\cos2B+\\cos2C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\cos2A+\\cos2B+\\cos2C=2\\cos(A+B)\\cos(A-B)+2\\cos^2C-1=2\\cos(\\pi-C)\\cos(A-B)+2\\cos^2C-1=-2\\cos C\\cos(A-B)+2\\cos^2C-1=-2\\cos C\\{\\cos(A-B)-\\cos C\\}-1=-2\\cos C\\{\\cos(A-B)+\\cos(A+B)\\}-1=-4\\cos A\\cos B\\cos C-1$।",
     "FinalAnswer": "$-4\\cos A\\cos B\\cos C-1$",
     "Source": "aks"
@@ -6250,7 +6250,7 @@
   {
     "id": "782",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\cos2A-\\cos2B+\\cos2C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\cos2A-\\cos2B+\\cos2C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\cos2A-\\cos2B+\\cos2C=\\cos2A+\\cos2C-\\cos2B=2\\cos(A+C)\\cos(A-C)-(2\\cos^2B-1)=2\\cos(\\pi-B)\\cos(A-C)-2\\cos^2B+1=1-2\\cos B\\{\\cos(A-C)+\\cos B\\}=1-2\\cos B\\{\\cos(A-C)+\\cos[\\pi-(A+C)]\\}=1-2\\cos B\\{\\cos(A-C)-\\cos(A+C)\\}=1-2\\cos B\\cdot2\\sin A\\sin C=1-4\\sin A\\cos B\\sin C$।",
     "FinalAnswer": "$1-4\\sin A\\cos B\\sin C$",
     "Source": "aks"
@@ -6258,7 +6258,7 @@
   {
     "id": "783",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\sin(B+C-A)+\\sin(C+A-B)+\\sin(A+B-C)$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\sin(B+C-A)+\\sin(C+A-B)+\\sin(A+B-C)$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\sin(B+C-A)+\\sin(C+A-B)+\\sin(A+B-C)=\\sin(\\pi-2A)+\\sin(\\pi-2B)+\\sin(\\pi-2C)=\\sin2A+\\sin2B+\\sin2C=4\\sin A\\sin B\\sin C$।",
     "FinalAnswer": "$4\\sin A\\sin B\\sin C$",
     "Source": "aks"
@@ -6266,7 +6266,7 @@
   {
     "id": "784",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\frac{\\cos A}{\\sin B\\sin C}+\\frac{\\cos B}{\\sin C\\sin A}+\\frac{\\cos C}{\\sin A\\sin B}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\frac{\\cos A}{\\sin B\\sin C}+\\frac{\\cos B}{\\sin C\\sin A}+\\frac{\\cos C}{\\sin A\\sin B}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\frac{\\cos A}{\\sin B\\sin C}+\\frac{\\cos B}{\\sin C\\sin A}+\\frac{\\cos C}{\\sin A\\sin B}=\\frac{\\sin A\\cos A+\\sin B\\cos B+\\sin C\\cos C}{\\sin A\\sin B\\sin C}=\\frac{\\sin2A+\\sin2B+\\sin2C}{2\\sin A\\sin B\\sin C}=\\frac{2\\sin(A+B)\\cos(A-B)+2\\sin C\\cos C}{2\\sin A\\sin B\\sin C}=2$।",
     "FinalAnswer": "$2$",
     "Source": "aks"
@@ -6274,7 +6274,7 @@
   {
     "id": "785",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\sin(B+2C)+\\sin(C+2A)+\\sin(A+2B)$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\sin(B+2C)+\\sin(C+2A)+\\sin(A+2B)$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\sin(B+2C)+\\sin(C+2A)+\\sin(A+2B)=\\sin(A+B+C-A+B+C)+\\sin(A+B+C+B-C)+\\sin(A+B+C+C-A)$ থেকে রূপান্তরে $=-\\sin(C-A)-\\sin(A-B)-\\sin(B-C)=-2\\sin\\frac{A-B}{2}\\cos\\frac{A-2B+C}{2}-2\\sin\\frac{C-A}{2}\\cos\\frac{A-2B+C}{2}=4\\sin\\frac{A-B}{2}\\sin\\frac{B-C}{2}\\sin\\frac{C-A}{2}$।",
     "FinalAnswer": "$4\\sin\\frac{A-B}{2}\\sin\\frac{B-C}{2}\\sin\\frac{C-A}{2}$",
     "Source": "aks"
@@ -6282,7 +6282,7 @@
   {
     "id": "786",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\sin A+\\sin B+\\sin C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\sin A+\\sin B+\\sin C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\sin A+\\sin B+\\sin C=2\\sin\\frac{A+B}{2}\\cos\\frac{A-B}{2}+2\\sin\\frac{C}{2}\\cos\\frac{C}{2}=2\\cos\\frac{C}{2}\\cos^2\\frac{A-B}{2}+2\\sin\\frac{C}{2}\\cos\\frac{C}{2}=2\\cos\\frac{C}{2}\\{\\cos^2\\frac{A-B}{2}+\\sin\\frac{C}{2}\\}=2\\cos\\frac{C}{2}\\{\\cos(\\frac{A}{2}-\\frac{B}{2})+\\cos(\\frac{A}{2}+\\frac{B}{2})\\}=4\\cos\\frac{A}{2}\\cos\\frac{B}{2}\\cos\\frac{C}{2}$।",
     "FinalAnswer": "$4\\cos\\frac{A}{2}\\cos\\frac{B}{2}\\cos\\frac{C}{2}$",
     "Source": "aks"
@@ -6290,7 +6290,7 @@
   {
     "id": "787",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\sin A+\\sin B-\\sin C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\sin A+\\sin B-\\sin C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\sin A+\\sin B-\\sin C=2\\sin\\frac{A+B}{2}\\cos\\frac{A-B}{2}-2\\sin\\frac{C}{2}\\cos\\frac{C}{2}=2\\cos\\frac{C}{2}\\{\\cos\\frac{A-B}{2}-\\sin\\frac{C}{2}\\}=2\\cos\\frac{C}{2}\\{\\cos(\\frac{A}{2}-\\frac{B}{2})-\\cos(\\frac{A}{2}+\\frac{B}{2})\\}=4\\sin\\frac{A}{2}\\sin\\frac{B}{2}\\cos\\frac{C}{2}$।",
     "FinalAnswer": "$4\\sin\\frac{A}{2}\\sin\\frac{B}{2}\\cos\\frac{C}{2}$",
     "Source": "aks"
@@ -6298,7 +6298,7 @@
   {
     "id": "788",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\cos A-\\cos B+\\cos C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\cos A-\\cos B+\\cos C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\cos A-\\cos B+\\cos C=\\cos A+\\cos C-\\cos B=2\\cos\\frac{A+C}{2}\\cos\\frac{A-C}{2}+1-2\\sin^2\\frac{B}{2}=2\\sin\\frac{B}{2}\\cos\\frac{A-C}{2}+2\\sin^2\\frac{B}{2}-1=2\\sin\\frac{B}{2}\\{\\cos\\frac{A-C}{2}+\\sin\\frac{B}{2}\\}-1=2\\sin\\frac{B}{2}\\{\\cos\\frac{A-C}{2}+\\cos\\frac{A+C}{2}\\}-1=4\\cos\\frac{A}{2}\\sin\\frac{B}{2}\\cos\\frac{C}{2}-1$।",
     "FinalAnswer": "$4\\cos\\frac{A}{2}\\sin\\frac{B}{2}\\cos\\frac{C}{2}-1$",
     "Source": "aks"
@@ -6306,7 +6306,7 @@
   {
     "id": "789",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\cos A+\\cos B-\\cos C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\cos A+\\cos B-\\cos C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\cos A+\\cos B-\\cos C=2\\cos\\frac{A+B}{2}\\cos\\frac{A-B}{2}-\\cos C=2\\sin\\frac{C}{2}\\cos\\frac{A-B}{2}+2\\sin^2\\frac{C}{2}-1=2\\sin\\frac{C}{2}\\{\\cos\\frac{A-B}{2}+\\sin\\frac{C}{2}\\}-1=2\\sin\\frac{C}{2}\\{\\cos\\frac{A-B}{2}+\\cos\\frac{A+B}{2}\\}-1=4\\cos\\frac{A}{2}\\cos\\frac{B}{2}\\sin\\frac{C}{2}-1$।",
     "FinalAnswer": "$4\\cos\\frac{A}{2}\\cos\\frac{B}{2}\\sin\\frac{C}{2}-1$",
     "Source": "aks"
@@ -6314,7 +6314,7 @@
   {
     "id": "790",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\sin\\frac{A}{2}+\\sin\\frac{B}{2}+\\sin\\frac{C}{2}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\sin\\frac{A}{2}+\\sin\\frac{B}{2}+\\sin\\frac{C}{2}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\sin\\frac{A}{2}+\\sin\\frac{B}{2}+\\sin\\frac{C}{2}=1+(\\sin\\frac{A}{2}+\\sin\\frac{B}{2})-(\\sin\\frac{\\pi}{2}-\\sin\\frac{C}{2})=1+2\\sin\\frac{A+B}{4}\\cos\\frac{A-B}{4}-2\\cos\\frac{A+2B+C}{4}\\sin\\frac{A+B}{4}=1+4\\sin\\frac{A+B}{4}\\sin\\frac{C+A}{4}\\sin\\frac{B+C}{4}$।",
     "FinalAnswer": "$1+4\\sin\\frac{B+C}{4}\\sin\\frac{C+A}{4}\\sin\\frac{A+B}{4}$",
     "Source": "aks"
@@ -6322,7 +6322,7 @@
   {
     "id": "791",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\cos\\frac{A}{2}+\\cos\\frac{B}{2}+\\cos\\frac{C}{2}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\cos\\frac{A}{2}+\\cos\\frac{B}{2}+\\cos\\frac{C}{2}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\cos\\frac{A}{2}+\\cos\\frac{B}{2}+\\cos\\frac{C}{2}=2\\cos\\frac{A+B}{4}\\cos\\frac{A-B}{4}+\\cos\\frac{C}{2}=2\\cos\\frac{\\pi-C}{4}\\cos\\frac{A-B}{4}+2\\cos^2\\frac{C}{4}-1=4\\cos\\frac{\\pi-A}{4}\\cos\\frac{\\pi-B}{4}\\cos\\frac{\\pi-C}{4}$।",
     "FinalAnswer": "$4\\cos\\frac{\\pi-A}{4}\\cos\\frac{\\pi-B}{4}\\cos\\frac{\\pi-C}{4}$",
     "Source": "aks"
@@ -6330,7 +6330,7 @@
   {
     "id": "792",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\cos^2 2A+\\cos^2 2B+\\cos^2 2C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\cos^2 2A+\\cos^2 2B+\\cos^2 2C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\cos^2 2A+\\cos^2 2B+\\cos^2 2C=\\frac{1}{2}(2\\cos^2 2A+2\\cos^2 2B)+\\cos^2 2C=1+\\frac{1}{2}(\\cos4A+\\cos4B)+\\cos^2 2C=1+\\cos2(A+B)\\cos2(A-B)+\\cos^2 2C=1+\\cos2C\\cos2(A-B)+\\cos^2 2C=1+\\cos2C\\{\\cos2(A-B)+\\cos2C\\}=1+\\cos2C\\cdot2\\cos2A\\cos2B=1+2\\cos2A\\cos2B\\cos2C$।",
     "FinalAnswer": "$1+2\\cos2A\\cos2B\\cos2C$",
     "Source": "aks"
@@ -6338,7 +6338,7 @@
   {
     "id": "793",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\sin^2A+\\sin^2B+\\sin^2C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\sin^2A+\\sin^2B+\\sin^2C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\sin^2A+\\sin^2B+\\sin^2C=\\frac{1}{2}(2\\sin^2A+2\\sin^2B)+\\sin^2C=1-\\frac{1}{2}(\\cos2A+\\cos2B)+\\sin^2C=2+\\cos C\\{\\cos(A-B)-\\cos C\\}=2+\\cos C\\{\\cos(A-B)+\\cos(A+B)\\}=2+2\\cos A\\cos B\\cos C$।",
     "FinalAnswer": "$2+2\\cos A\\cos B\\cos C$",
     "Source": "aks"
@@ -6346,7 +6346,7 @@
   {
     "id": "794",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\sin^2A-\\sin^2B+\\sin^2C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\sin^2A-\\sin^2B+\\sin^2C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\sin^2A-\\sin^2B+\\sin^2C=\\frac{1}{2}(2\\sin^2A+2\\sin^2C)-\\sin^2B=1-\\frac{1}{2}(\\cos2A+\\cos2C)-\\sin^2B=1-\\cos(A+C)\\cos(A-C)-\\sin^2B=1+\\cos B\\cos(A-C)-\\sin^2B=\\cos^2B+\\cos B\\{\\cos(A-C)\\}=2\\sin A\\cos B\\sin C$।",
     "FinalAnswer": "$2\\sin A\\cos B\\sin C$",
     "Source": "aks"
@@ -6354,7 +6354,7 @@
   {
     "id": "795",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\sin^2\\frac{A}{2}+\\sin^2\\frac{B}{2}+\\sin^2\\frac{C}{2}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\sin^2\\frac{A}{2}+\\sin^2\\frac{B}{2}+\\sin^2\\frac{C}{2}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\sin^2\\frac{A}{2}+\\sin^2\\frac{B}{2}+\\sin^2\\frac{C}{2}=\\frac{1}{2}(2\\sin^2\\frac{A}{2}+2\\sin^2\\frac{B}{2})+\\sin^2\\frac{C}{2}=1-\\frac{1}{2}(\\cos A+\\cos B)+\\sin^2\\frac{C}{2}=1-\\cos\\frac{A+B}{2}\\cos\\frac{A-B}{2}+\\sin^2\\frac{C}{2}=1-\\sin\\frac{C}{2}\\{\\cos\\frac{A-B}{2}-\\sin\\frac{C}{2}\\}=1-2\\sin\\frac{A}{2}\\sin\\frac{B}{2}\\sin\\frac{C}{2}$।",
     "FinalAnswer": "$1-2\\sin\\frac{A}{2}\\sin\\frac{B}{2}\\sin\\frac{C}{2}$",
     "Source": "aks"
@@ -6362,7 +6362,7 @@
   {
     "id": "796",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\cos^2A+\\cos^2B-\\cos^2C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\cos^2A+\\cos^2B-\\cos^2C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\cos^2A+\\cos^2B-\\cos^2C=\\frac{1}{2}(2\\cos^2A+2\\cos^2B)-\\cos^2C=1+\\frac{1}{2}(\\cos2A+\\cos2B)-\\cos^2C=1+\\cos(A+B)\\cos(A-B)-\\cos C\\cos C=1-\\cos C\\{\\cos(A-B)+\\cos C\\}=1-2\\sin A\\sin B\\cos C$।",
     "FinalAnswer": "$1-2\\sin A\\sin B\\cos C$",
     "Source": "aks"
@@ -6370,7 +6370,7 @@
   {
     "id": "797",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\cos^2\\frac{A}{2}+\\cos^2\\frac{B}{2}+\\cos^2\\frac{C}{2}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\cos^2\\frac{A}{2}+\\cos^2\\frac{B}{2}+\\cos^2\\frac{C}{2}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\cos^2\\frac{A}{2}+\\cos^2\\frac{B}{2}+\\cos^2\\frac{C}{2}=\\frac{1}{2}(2\\cos^2\\frac{A}{2}+2\\cos^2\\frac{B}{2})+\\cos^2\\frac{C}{2}=1+\\frac{1}{2}(\\cos A+\\cos B)+\\cos^2\\frac{C}{2}=2+\\sin\\frac{C}{2}\\{\\cos\\frac{A-B}{2}-\\sin\\frac{C}{2}\\}=2+2\\sin\\frac{A}{2}\\sin\\frac{B}{2}\\sin\\frac{C}{2}$।",
     "FinalAnswer": "$2+2\\sin\\frac{A}{2}\\sin\\frac{B}{2}\\sin\\frac{C}{2}$",
     "Source": "aks"
@@ -6378,7 +6378,7 @@
   {
     "id": "798",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\cos^2A-\\cos^2B+\\cos^2C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\cos^2A-\\cos^2B+\\cos^2C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\cos^2A-\\cos^2B+\\cos^2C=\\frac{1}{2}(2\\cos^2A+2\\cos^2C)-\\cos^2B=1+\\frac{1}{2}\\cdot2\\cos(A+C)\\cos(A-C)-\\cos^2B=1-\\cos B\\cos(A-C)-\\cos^2B=1-\\cos B\\{\\cos(A-C)+\\cos B\\}=1-2\\sin A\\cos B\\sin C$।",
     "FinalAnswer": "$1-2\\sin A\\cos B\\sin C$",
     "Source": "aks"
@@ -6386,7 +6386,7 @@
   {
     "id": "799",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\cos^2 5A+\\cos^2 5B-\\sin^2 5C+2\\cos5A\\cos5B\\cos5C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\cos^2 5A+\\cos^2 5B-\\sin^2 5C+2\\cos5A\\cos5B\\cos5C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\cos^2 5A+\\cos^2 5B-\\sin^2 5C+2\\cos5A\\cos5B\\cos5C=\\frac{1}{2}(2\\cos^2 5A+2\\cos^2 5B)-\\sin^2 5C+2\\cos5A\\cos5B\\cos5C=1$।",
     "FinalAnswer": "$1$",
     "Source": "aks"
@@ -6394,7 +6394,7 @@
   {
     "id": "800",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\sin^2 2A+\\sin^2 2B+\\sin^2 2C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\sin^2 2A+\\sin^2 2B+\\sin^2 2C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\sin^2 2A+\\sin^2 2B+\\sin^2 2C=1-\\frac{1}{2}(\\cos4A+\\cos4B)+\\sin^2 2C=2-\\cos2C\\{\\cos2(A-B)+\\cos2C\\}=2-2\\cos2A\\cos2B\\cos2C$।",
     "FinalAnswer": "$2-2\\cos2A\\cos2B\\cos2C$",
     "Source": "aks"
@@ -6402,7 +6402,7 @@
   {
     "id": "801",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\cot\\frac{A}{2}+\\cot\\frac{B}{2}+\\cot\\frac{C}{2}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\cot\\frac{A}{2}+\\cot\\frac{B}{2}+\\cot\\frac{C}{2}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "দেওয়া আছে, $A+B+C=\\pi$। তাই $\\frac{A}{2}+\\frac{B}{2}+\\frac{C}{2}=\\frac{\\pi}{2}$ এবং $\\frac{A+B}{2}=\\frac{\\pi}{2}-\\frac{C}{2}$। এখন $\\cot\\left(\\frac{A+B}{2}\\right)=\\cot\\left(\\frac{\\pi}{2}-\\frac{C}{2}\\right)=\\tan\\frac{C}{2}=\\frac{1}{\\cot\\frac{C}{2}}$। আবার $\\cot(x+y)=\\frac{\\cot x\\cot y-1}{\\cot x+\\cot y}$ সূত্রে $\\frac{\\cot\\frac{A}{2}\\cot\\frac{B}{2}-1}{\\cot\\frac{A}{2}+\\cot\\frac{B}{2}}=\\frac{1}{\\cot\\frac{C}{2}}$। আড়াআড়ি গুণে $\\cot\\frac{C}{2}\\left(\\cot\\frac{A}{2}\\cot\\frac{B}{2}-1\\right)=\\cot\\frac{A}{2}+\\cot\\frac{B}{2}$। অর্থাৎ $\\cot\\frac{A}{2}\\cot\\frac{B}{2}\\cot\\frac{C}{2}-\\cot\\frac{C}{2}=\\cot\\frac{A}{2}+\\cot\\frac{B}{2}$। তাই $\\cot\\frac{A}{2}+\\cot\\frac{B}{2}+\\cot\\frac{C}{2}=\\cot\\frac{A}{2}\\cot\\frac{B}{2}\\cot\\frac{C}{2}$।",
     "FinalAnswer": "$\\cot\\frac{A}{2}\\cot\\frac{B}{2}\\cot\\frac{C}{2}$",
     "Source": "aks"
@@ -6410,7 +6410,7 @@
   {
     "id": "802",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\tan\\frac{B}{2}\\tan\\frac{C}{2}+\\tan\\frac{C}{2}\\tan\\frac{A}{2}+\\tan\\frac{A}{2}\\tan\\frac{B}{2}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\tan\\frac{B}{2}\\tan\\frac{C}{2}+\\tan\\frac{C}{2}\\tan\\frac{A}{2}+\\tan\\frac{A}{2}\\tan\\frac{B}{2}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "$A+B+C=\\pi$ হলে $\\tan(\\frac{A+B}{2})=\\tan(\\frac{\\pi}{2}-\\frac{C}{2})=\\cot\\frac{C}{2}$। অতএব, $\\frac{\\tan\\frac{A}{2}+\\tan\\frac{B}{2}}{1-\\tan\\frac{A}{2}\\tan\\frac{B}{2}}=\\frac{1}{\\tan\\frac{C}{2}}$। সুতরাং $\\tan\\frac{B}{2}\\tan\\frac{C}{2}+\\tan\\frac{C}{2}\\tan\\frac{A}{2}+\\tan\\frac{A}{2}\\tan\\frac{B}{2}=1$।",
     "FinalAnswer": "$1$",
     "Source": "aks"
@@ -6418,7 +6418,7 @@
   {
     "id": "803",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\tan2A+\\tan2B+\\tan2C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\tan2A+\\tan2B+\\tan2C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "$A+B+C=\\pi$ হলে $2A+2B=2\\pi-2C$। তাই $\\tan(2A+2B)=\\tan(2\\pi-2C)=-\\tan2C$। ধরি, $x=\\tan2A,\\ y=\\tan2B,\\ z=\\tan2C$। তাহলে $\\tan(2A+2B)=\\frac{x+y}{1-xy}$। সুতরাং $\\frac{x+y}{1-xy}=-z$। আড়াআড়ি গুণে $x+y=-z+xyz$। অতএব $x+y+z=xyz$। অর্থাৎ $\\tan2A+\\tan2B+\\tan2C=\\tan2A\\tan2B\\tan2C$।",
     "FinalAnswer": "$\\tan2A\\tan2B\\tan2C$",
     "Source": "aks"
@@ -6426,7 +6426,7 @@
   {
     "id": "804",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\frac{\\cot B+\\cot C}{\\tan B+\\tan C}+\\frac{\\cot C+\\cot A}{\\tan C+\\tan A}+\\frac{\\cot A+\\cot B}{\\tan A+\\tan B}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $A+B+C=\\pi$, $\\frac{\\cot B+\\cot C}{\\tan B+\\tan C}+\\frac{\\cot C+\\cot A}{\\tan C+\\tan A}+\\frac{\\cot A+\\cot B}{\\tan A+\\tan B}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=\\frac{\\cot B+\\cot C}{\\tan B+\\tan C}+\\frac{\\cot C+\\cot A}{\\tan C+\\tan A}+\\frac{\\cot A+\\cot B}{\\tan A+\\tan B}=\\frac{\\frac{1}{\\tan B}+\\frac{1}{\\tan C}}{\\tan B+\\tan C}+\\frac{\\frac{1}{\\tan C}+\\frac{1}{\\tan A}}{\\tan C+\\tan A}+\\frac{\\frac{1}{\\tan A}+\\frac{1}{\\tan B}}{\\tan A+\\tan B}=\\frac{1}{\\tan B\\tan C}+\\frac{1}{\\tan C\\tan A}+\\frac{1}{\\tan A\\tan B}=\\frac{\\tan A+\\tan B+\\tan C}{\\tan A\\tan B\\tan C}=1$।",
     "FinalAnswer": "$1$",
     "Source": "aks"
@@ -6650,7 +6650,7 @@
   {
     "id": "832",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\cos\\frac{B-C}{2}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $\\cos\\frac{B-C}{2}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "$(b+c)\\sin\\frac{A}{2}=2R(\\sin B+\\sin C)\\sin\\frac{A}{2}=2R\\cdot2\\sin\\frac{B+C}{2}\\cos\\frac{B-C}{2}\\sin\\frac{A}{2}=2R\\cdot2\\cos\\frac{A}{2}\\cos\\frac{B-C}{2}\\sin\\frac{A}{2}=2R\\sin A\\cos\\frac{B-C}{2}=a\\cos\\frac{B-C}{2}$।",
     "FinalAnswer": "$\\frac{b+c}{a}\\sin\\frac{A}{2}$",
     "Source": "aks"
@@ -6658,7 +6658,7 @@
   {
     "id": "833",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$a\\sin(\\frac{A}{2}+B)$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $a\\sin(\\frac{A}{2}+B)$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "$\\frac{b+c}{a}=\\frac{\\sin B+\\sin C}{\\sin A}=\\frac{\\sin B+\\sin(A+B)}{\\sin A}=\\frac{2\\sin\\frac{A+2B}{2}\\cos\\frac{A}{2}}{2\\sin\\frac{A}{2}\\cos\\frac{A}{2}}=\\frac{\\sin(\\frac{A}{2}+B)}{\\sin\\frac{A}{2}}$। অতএব, $a\\sin(\\frac{A}{2}+B)=(b+c)\\sin\\frac{A}{2}$।",
     "FinalAnswer": "$(b+c)\\sin\\frac{A}{2}$",
     "Source": "aks"
@@ -6666,7 +6666,7 @@
   {
     "id": "834",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\frac{b+c}{b-c}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $\\frac{b+c}{b-c}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "সাইন সূত্রে $b=2R\\sin B,\\ c=2R\\sin C$। তাই $b+c=2R\\sin B+2R\\sin C$ এবং $b-c=2R\\sin B-2R\\sin C$; ফলে $\\frac{b+c}{b-c}=\\frac{\\sin B+\\sin C}{\\sin B-\\sin C}$।",
     "FinalAnswer": "$\\frac{\\sin B+\\sin C}{\\sin B-\\sin C}$",
     "Source": "aks"
@@ -6674,7 +6674,7 @@
   {
     "id": "835",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\cos C-\\cos B$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $\\cos C-\\cos B$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "কোসাইন সূত্রের প্রক্ষেপ রূপ থেকে $a\\cos C=b-c\\cos A$ এবং $a\\cos B=c-b\\cos A$। তাই $a(\\cos C-\\cos B)=a\\cos C-a\\cos B=(b-c\\cos A)-(c-b\\cos A)$। সরল করলে $=b-c+b\\cos A-c\\cos A=(b-c)(1+\\cos A)$। এখন $1+\\cos A=2\\cos^2\\frac{A}{2}$। সুতরাং $a(\\cos C-\\cos B)=2(b-c)\\cos^2\\frac{A}{2}$। অতএব, $\\cos C-\\cos B=\\frac{2(b-c)}{a}\\cos^2\\frac{A}{2}$।",
     "FinalAnswer": "$\\frac{2(b-c)}{a}\\cos^2\\frac{A}{2}$",
     "Source": "aks"
@@ -6682,7 +6682,7 @@
   {
     "id": "836",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$AC\\sin(\\frac{B}{2}+C)$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $AC\\sin(\\frac{B}{2}+C)$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "$\\frac{AB+BC}{AC}=\\frac{2R\\sin C+2R\\sin A}{2R\\sin B}=\\frac{\\sin C+\\sin A}{\\sin B}=\\frac{2\\sin\\frac{B+2C}{2}\\cos\\frac{B-C}{2}}{2\\sin\\frac{B}{2}\\cos\\frac{B}{2}}$। সরলীকরণে $AC\\sin(\\frac{B}{2}+C)=(AB+BC)\\sin\\frac{B}{2}$।",
     "FinalAnswer": "$(AB+BC)\\sin\\frac{B}{2}$",
     "Source": "aks"
@@ -6690,7 +6690,7 @@
   {
     "id": "837",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$(c-b)\\sec(\\frac{A}{2}+B)$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $(c-b)\\sec(\\frac{A}{2}+B)$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "সাইন সূত্রে $\\frac{c-b}{a}=\\frac{\\sin C-\\sin B}{\\sin A}=\\frac{\\sin(A+B)-\\sin B}{\\sin A}=\\frac{2\\cos(\\frac{A}{2}+B)\\sin\\frac{A}{2}}{2\\sin\\frac{A}{2}\\cos\\frac{A}{2}}=\\frac{\\cos(\\frac{A}{2}+B)}{\\cos\\frac{A}{2}}$। তাই $(c-b)\\sec(\\frac{A}{2}+B)=a\\sec\\frac{A}{2}$।",
     "FinalAnswer": "$a\\sec\\frac{A}{2}$",
     "Source": "aks"
@@ -6698,7 +6698,7 @@
   {
     "id": "838",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$(b-c)\\sin A+(c-a)\\sin B+(a-b)\\sin C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $(b-c)\\sin A+(c-a)\\sin B+(a-b)\\sin C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=(b-c)\\sin A+(c-a)\\sin B+(a-b)\\sin C=(b-c)\\frac{a}{2R}+(c-a)\\frac{b}{2R}+(a-b)\\frac{c}{2R}=\\frac{ab-ac+bc-ab+ac-bc}{2R}=0$।",
     "FinalAnswer": "$0$",
     "Source": "aks"
@@ -6706,7 +6706,7 @@
   {
     "id": "839",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$a(\\sin B-\\sin C)+b(\\sin C-\\sin A)+c(\\sin A-\\sin B)$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $a(\\sin B-\\sin C)+b(\\sin C-\\sin A)+c(\\sin A-\\sin B)$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=a(\\sin B-\\sin C)+b(\\sin C-\\sin A)+c(\\sin A-\\sin B)=a(\\frac{b}{2R}-\\frac{c}{2R})+b(\\frac{c}{2R}-\\frac{a}{2R})+c(\\frac{a}{2R}-\\frac{b}{2R})=0$।",
     "FinalAnswer": "$0$",
     "Source": "aks"
@@ -6714,7 +6714,7 @@
   {
     "id": "840",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$a^2(\\sin^2B-\\sin^2C)+b^2(\\sin^2C-\\sin^2A)+c^2(\\sin^2A-\\sin^2B)$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $a^2(\\sin^2B-\\sin^2C)+b^2(\\sin^2C-\\sin^2A)+c^2(\\sin^2A-\\sin^2B)$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=a^2(\\frac{b^2}{4R^2}-\\frac{c^2}{4R^2})+b^2(\\frac{c^2}{4R^2}-\\frac{a^2}{4R^2})+c^2(\\frac{a^2}{4R^2}-\\frac{b^2}{4R^2})=\\frac{1}{4R^2}(a^2b^2-a^2c^2+b^2c^2-a^2b^2+a^2c^2-b^2c^2)=0$।",
     "FinalAnswer": "$0$",
     "Source": "aks"
@@ -6722,7 +6722,7 @@
   {
     "id": "841",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$a^2(\\cos^2B-\\cos^2C)+b^2(\\cos^2C-\\cos^2A)+c^2(\\cos^2A-\\cos^2B)$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $a^2(\\cos^2B-\\cos^2C)+b^2(\\cos^2C-\\cos^2A)+c^2(\\cos^2A-\\cos^2B)$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "$\\cos^2B-\\cos^2C=(1-\\sin^2B)-(1-\\sin^2C)=\\sin^2C-\\sin^2B$। একইভাবে অন্য পদগুলো রূপান্তর করলে বামপক্ষ $=a^2(\\sin^2C-\\sin^2B)+b^2(\\sin^2A-\\sin^2C)+c^2(\\sin^2B-\\sin^2A)$। সাইন সূত্রে $\\frac{a}{\\sin A}=\\frac{b}{\\sin B}=\\frac{c}{\\sin C}=2R$, তাই $a^2=4R^2\\sin^2A$ ইত্যাদি। বসালে সব পদ যুগলভাবে কেটে যায় এবং মান $0$ হয়।",
     "FinalAnswer": "$0$",
     "Source": "aks"
@@ -6730,7 +6730,7 @@
   {
     "id": "842",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$(b^2-c^2)\\sin^2A+(c^2-a^2)\\sin^2B+(a^2-b^2)\\sin^2C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $(b^2-c^2)\\sin^2A+(c^2-a^2)\\sin^2B+(a^2-b^2)\\sin^2C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "সাইন সূত্রে $\\sin A=\\frac{a}{2R}$, $\\sin B=\\frac{b}{2R}$ এবং $\\sin C=\\frac{c}{2R}$। তাই বামপক্ষ $=(b^2-c^2)\\frac{a^2}{4R^2}+(c^2-a^2)\\frac{b^2}{4R^2}+(a^2-b^2)\\frac{c^2}{4R^2}$। লব একত্র করলে $a^2b^2-a^2c^2+b^2c^2-a^2b^2+a^2c^2-b^2c^2=0$। অতএব পুরো রাশি $0$।",
     "FinalAnswer": "$0$",
     "Source": "aks"
@@ -6738,7 +6738,7 @@
   {
     "id": "843",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$a\\sin(B-C)+b\\sin(C-A)+c\\sin(A-B)$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $a\\sin(B-C)+b\\sin(C-A)+c\\sin(A-B)$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "সাইন সূত্রে $a=2R\\sin A$, $b=2R\\sin B$, $c=2R\\sin C$। তাই বামপক্ষ $=2R[\\sin A\\sin(B-C)+\\sin B\\sin(C-A)+\\sin C\\sin(A-B)]$। বন্ধনীর ভিতরে $\\sin(B-C)=\\sin B\\cos C-\\cos B\\sin C$ ইত্যাদি বিস্তার করলে সব পদ যুগলভাবে কেটে যায়। তাই বন্ধনীর মান $0$ এবং বামপক্ষ $=0$।",
     "FinalAnswer": "$0$",
     "Source": "aks"
@@ -6746,7 +6746,7 @@
   {
     "id": "844",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$a^3\\cos(B-C)+b^3\\cos(C-A)+c^3\\cos(A-B)$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $a^3\\cos(B-C)+b^3\\cos(C-A)+c^3\\cos(A-B)$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "ধরি, $S=a^3\\cos(B-C)+b^3\\cos(C-A)+c^3\\cos(A-B)$। প্রথমে $\\cos(B-C)=\\cos B\\cos C+\\sin B\\sin C$। কোসাইন সূত্রে $\\cos B=\\frac{a^2+c^2-b^2}{2ac},\\ \\cos C=\\frac{a^2+b^2-c^2}{2ab}$ এবং ক্ষেত্রফল সূত্রে $\\sin B\\sin C=\\frac{4\\Delta^2}{a^2bc}$। তাই $\\cos(B-C)=\\frac{(a^2+c^2-b^2)(a^2+b^2-c^2)+16\\Delta^2}{4a^2bc}$। আবার $16\\Delta^2=2a^2b^2+2b^2c^2+2c^2a^2-a^4-b^4-c^4$। বসিয়ে সরল করলে $\\cos(B-C)=\\frac{a^2(b^2+c^2)-(b^2-c^2)^2}{2a^2bc}$। সুতরাং $a^3\\cos(B-C)=\\frac{a}{2bc}\\{a^2(b^2+c^2)-(b^2-c^2)^2\\}$। একইভাবে বাকি দুই পদ লিখে যোগ করলে $S=\\frac{1}{2abc}[a^2\\{a^2(b^2+c^2)-(b^2-c^2)^2\\}+b^2\\{b^2(c^2+a^2)-(c^2-a^2)^2\\}+c^2\\{c^2(a^2+b^2)-(a^2-b^2)^2\\}]$। বন্ধনীগুলো বিস্তার করলে বিপরীত পদগুলো কেটে যায় এবং অবশিষ্ট থাকে $6a^2b^2c^2$। তাই $S=\\frac{6a^2b^2c^2}{2abc}=3abc$।",
     "FinalAnswer": "$3abc$",
     "Source": "aks"
@@ -6754,7 +6754,7 @@
   {
     "id": "845",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\frac{a^2}{bc}\\sin(B-C)+\\frac{b^2}{ca}\\sin(C-A)+\\frac{c^2}{ab}\\sin(A-B)$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $\\frac{a^2}{bc}\\sin(B-C)+\\frac{b^2}{ca}\\sin(C-A)+\\frac{c^2}{ab}\\sin(A-B)$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রথম পদ $=\\frac{a^2}{bc}\\sin(B-C)=\\frac{a}{bc}\\cdot2R\\sin A\\sin(B-C)$। যেহেতু $A=\\pi-(B+C)$, তাই $\\sin A=\\sin(B+C)$। সুতরাং প্রথম পদ $=\\frac{a}{bc}\\cdot2R\\sin(B+C)\\sin(B-C)=\\frac{a}{bc}\\cdot2R(\\sin^2B-\\sin^2C)$। সাইন সূত্রে $\\sin B=\\frac{b}{2R},\\ \\sin C=\\frac{c}{2R}$ বসালে প্রথম পদ $=\\frac{1}{2R}\\left(\\frac{ab}{c}-\\frac{ac}{b}\\right)$। একইভাবে দ্বিতীয় পদ $=\\frac{1}{2R}\\left(\\frac{bc}{a}-\\frac{ab}{c}\\right)$ এবং তৃতীয় পদ $=\\frac{1}{2R}\\left(\\frac{ca}{b}-\\frac{bc}{a}\\right)$। তিনটি যোগ করলে প্রতিটি ধনাত্মক পদ তার সমান ঋণাত্মক পদের সঙ্গে কেটে যায়। তাই যোগফল $0$।",
     "FinalAnswer": "$0$",
     "Source": "aks"
@@ -6762,7 +6762,7 @@
   {
     "id": "846",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\frac{a\\sin(B-C)}{b^2-c^2}$ এর সমতুল্য রূপ নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $\\frac{a\\sin(B-C)}{b^2-c^2}$ এর সমতুল্য রূপ নির্ণয় কর।",
     "DetailedAnswer": "সাইন সূত্রে $a=2R\\sin A,\\ b=2R\\sin B,\\ c=2R\\sin C$। তাই $\\frac{a\\sin(B-C)}{b^2-c^2}=\\frac{2R\\sin A\\sin(B-C)}{4R^2(\\sin^2B-\\sin^2C)}$। আবার $\\sin^2B-\\sin^2C=\\sin(B+C)\\sin(B-C)=\\sin A\\sin(B-C)$। সুতরাং $\\frac{a\\sin(B-C)}{b^2-c^2}=\\frac{2R\\sin A\\sin(B-C)}{4R^2\\sin A\\sin(B-C)}=\\frac{1}{2R}$। একই যুক্তিতে $\\frac{b\\sin(C-A)}{c^2-a^2}=\\frac{1}{2R}$ এবং $\\frac{c\\sin(A-B)}{a^2-b^2}=\\frac{1}{2R}$। অতএব তিনটি রাশি পরস্পর সমান।",
     "FinalAnswer": "$\\frac{b\\sin(C-A)}{c^2-a^2}=\\frac{c\\sin(A-B)}{a^2-b^2}=\\frac{1}{2R}$",
     "Source": "aks"
@@ -6770,7 +6770,7 @@
   {
     "id": "847",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$a\\sin\\frac{A}{2}\\sin\\frac{B-C}{2}+b\\sin\\frac{B}{2}\\sin\\frac{C-A}{2}+c\\sin\\frac{C}{2}\\sin\\frac{A-B}{2}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $a\\sin\\frac{A}{2}\\sin\\frac{B-C}{2}+b\\sin\\frac{B}{2}\\sin\\frac{C-A}{2}+c\\sin\\frac{C}{2}\\sin\\frac{A-B}{2}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রথম পদ $=a\\sin\\frac{A}{2}\\sin\\frac{B-C}{2}$। সাইন সূত্রে $b-c=2R(\\sin B-\\sin C)$। আবার $\\sin B-\\sin C=2\\cos\\frac{B+C}{2}\\sin\\frac{B-C}{2}$ এবং $B+C=\\pi-A$ হওয়ায় $\\cos\\frac{B+C}{2}=\\cos(\\frac{\\pi}{2}-\\frac{A}{2})=\\sin\\frac{A}{2}$। তাই $b-c=4R\\sin\\frac{A}{2}\\sin\\frac{B-C}{2}$। অতএব প্রথম পদ $=\\frac{a(b-c)}{4R}$। একইভাবে দ্বিতীয় পদ $=\\frac{b(c-a)}{4R}$ এবং তৃতীয় পদ $=\\frac{c(a-b)}{4R}$। সুতরাং যোগফল $=\\frac{1}{4R}\\{a(b-c)+b(c-a)+c(a-b)\\}$। বিস্তার করলে $=\\frac{1}{4R}(ab-ac+bc-ab+ca-bc)=0$।",
     "FinalAnswer": "$0$",
     "Source": "aks"
@@ -6778,7 +6778,7 @@
   {
     "id": "848",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\frac{a^2\\sin(B-C)}{\\sin A}+\\frac{b^2\\sin(C-A)}{\\sin B}+\\frac{c^2\\sin(A-B)}{\\sin C}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $\\frac{a^2\\sin(B-C)}{\\sin A}+\\frac{b^2\\sin(C-A)}{\\sin B}+\\frac{c^2\\sin(A-B)}{\\sin C}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রথম পদ $=\\frac{a^2\\sin(B-C)}{\\sin A}$। সাইন সূত্রে $a=2R\\sin A$ বসালে প্রথম পদ $=4R^2\\sin A\\sin(B-C)$। যেহেতু $\\sin A=\\sin(B+C)$, তাই $=4R^2\\sin(B+C)\\sin(B-C)=4R^2(\\sin^2B-\\sin^2C)$। একইভাবে দ্বিতীয় পদ $=4R^2(\\sin^2C-\\sin^2A)$ এবং তৃতীয় পদ $=4R^2(\\sin^2A-\\sin^2B)$। তিনটি যোগ করলে সব পদ কেটে যায়; তাই যোগফল $0$।",
     "FinalAnswer": "$0$",
     "Source": "aks"
@@ -6786,7 +6786,7 @@
   {
     "id": "849",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\frac{b^2-c^2}{\\cos B+\\cos C}+\\frac{c^2-a^2}{\\cos C+\\cos A}+\\frac{a^2-b^2}{\\cos A+\\cos B}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $\\frac{b^2-c^2}{\\cos B+\\cos C}+\\frac{c^2-a^2}{\\cos C+\\cos A}+\\frac{a^2-b^2}{\\cos A+\\cos B}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "সাইন সূত্রে $b^2-c^2=4R^2(\\sin^2B-\\sin^2C)$। তাই প্রথম পদ $=\\frac{b^2-c^2}{\\cos B+\\cos C}=\\frac{4R^2(\\sin^2B-\\sin^2C)}{\\cos B+\\cos C}$। এখন $\\sin^2B-\\sin^2C=(1-\\cos^2B)-(1-\\cos^2C)=\\cos^2C-\\cos^2B=(\\cos C-\\cos B)(\\cos C+\\cos B)$। ফলে প্রথম পদ $=4R^2(\\cos C-\\cos B)$। একইভাবে দ্বিতীয় পদ $=4R^2(\\cos A-\\cos C)$ এবং তৃতীয় পদ $=4R^2(\\cos B-\\cos A)$। তিনটি যোগ করলে $4R^2[(\\cos C-\\cos B)+(\\cos A-\\cos C)+(\\cos B-\\cos A)]=0$।",
     "FinalAnswer": "$0$",
     "Source": "aks"
@@ -6794,7 +6794,7 @@
   {
     "id": "850",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\frac{b^2-c^2}{a^2}\\sin2A+\\frac{c^2-a^2}{b^2}\\sin2B+\\frac{a^2-b^2}{c^2}\\sin2C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $\\frac{b^2-c^2}{a^2}\\sin2A+\\frac{c^2-a^2}{b^2}\\sin2B+\\frac{a^2-b^2}{c^2}\\sin2C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "সাইন সূত্রে $b^2-c^2=4R^2(\\sin^2B-\\sin^2C)$ এবং $a^2=4R^2\\sin^2A$। তাই প্রথম পদ $=\\frac{b^2-c^2}{a^2}\\sin2A=\\frac{\\sin^2B-\\sin^2C}{\\sin^2A}\\cdot2\\sin A\\cos A$। এখন $\\sin^2B-\\sin^2C=\\sin(B+C)\\sin(B-C)=\\sin A\\sin(B-C)$। সুতরাং প্রথম পদ $=2\\cos A\\sin(B-C)$। একইভাবে দ্বিতীয় পদ $=2\\cos B\\sin(C-A)$ এবং তৃতীয় পদ $=2\\cos C\\sin(A-B)$। যোগফল $=2[\\cos A\\sin(B-C)+\\cos B\\sin(C-A)+\\cos C\\sin(A-B)]$। প্রতিটি $\\sin$ বিস্তার করলে বিপরীত পদগুলো জোড়ায় জোড়ায় কেটে যায়, তাই যোগফল $0$।",
     "FinalAnswer": "$0$",
     "Source": "aks"
@@ -6802,7 +6802,7 @@
   {
     "id": "851",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$c^2$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $c^2$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=(a-b)^2\\cos^2\\frac{C}{2}+(a+b)^2\\sin^2\\frac{C}{2}=\\frac{1}{2}(a-b)^2(1+\\cos C)+\\frac{1}{2}(a+b)^2(1-\\cos C)=a^2+b^2-2ab\\cos C=c^2$।",
     "FinalAnswer": "$(a-b)^2\\cos^2\\frac{C}{2}+(a+b)^2\\sin^2\\frac{C}{2}$",
     "Source": "aks"
@@ -6810,7 +6810,7 @@
   {
     "id": "852",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$b^2\\sin2C+c^2\\sin2B$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $b^2\\sin2C+c^2\\sin2B$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "$b^2\\sin2C+c^2\\sin2B=4R^2\\sin^2B\\cdot2\\sin C\\cos C+4R^2\\sin^2C\\cdot2\\sin B\\cos B=8R^2\\sin B\\sin C\\sin(B+C)=2bc\\sin A$।",
     "FinalAnswer": "$2bc\\sin A$",
     "Source": "aks"
@@ -6818,7 +6818,7 @@
   {
     "id": "853",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\frac{a^2-b^2}{2}\\cdot\\frac{\\sin A\\sin B}{\\sin(A-B)}$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $\\frac{a^2-b^2}{2}\\cdot\\frac{\\sin A\\sin B}{\\sin(A-B)}$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "সাইন সূত্র বসিয়ে রাশি $=\\frac{4R^2\\sin^2A-4R^2\\sin^2B}{2}\\cdot\\frac{\\sin A\\sin B}{\\sin(A-B)}=2R^2\\sin(A+B)\\sin(A-B)\\frac{\\sin A\\sin B}{\\sin(A-B)}=\\frac{ab}{2}\\sin C=\\Delta$।",
     "FinalAnswer": "$\\Delta$",
     "Source": "aks"
@@ -6826,7 +6826,7 @@
   {
     "id": "854",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$\\sin A+\\sin B+\\sin C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $\\sin A+\\sin B+\\sin C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "সাইন সূত্রে $\\sin A=\\frac{a}{2R}$, $\\sin B=\\frac{b}{2R}$ এবং $\\sin C=\\frac{c}{2R}$। তাই $\\sin A+\\sin B+\\sin C=\\frac{a}{2R}+\\frac{b}{2R}+\\frac{c}{2R}=\\frac{a+b+c}{2R}$। যেহেতু $s=\\frac{a+b+c}{2}$, তাই মান $=\\frac{s}{R}$।",
     "FinalAnswer": "$\\frac{s}{R}$",
     "Source": "aks"
@@ -6834,7 +6834,7 @@
   {
     "id": "855",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$4\\Delta(\\cot A+\\cot B+\\cot C)$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $4\\Delta(\\cot A+\\cot B+\\cot C)$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "$\\Delta=\\frac{1}{2}bc\\sin A$। তাই $4\\Delta\\cot A=4\\cdot\\frac{1}{2}bc\\sin A\\cdot\\frac{\\cos A}{\\sin A}=2bc\\cos A$। কোসাইন সূত্রে $a^2=b^2+c^2-2bc\\cos A$, অর্থাৎ $2bc\\cos A=b^2+c^2-a^2$। তাই $4\\Delta\\cot A=b^2+c^2-a^2$। একইভাবে $4\\Delta\\cot B=c^2+a^2-b^2$ এবং $4\\Delta\\cot C=a^2+b^2-c^2$। অতএব $4\\Delta(\\cot A+\\cot B+\\cot C)=(b^2+c^2-a^2)+(c^2+a^2-b^2)+(a^2+b^2-c^2)=a^2+b^2+c^2$।",
     "FinalAnswer": "$a^2+b^2+c^2$",
     "Source": "aks"
@@ -6842,7 +6842,7 @@
   {
     "id": "856",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$a^2+b^2+c^2$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $a^2+b^2+c^2$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "সাইন সূত্রে $a=2R\\sin A$, $b=2R\\sin B$, $c=2R\\sin C$। তাই $a^2+b^2+c^2=4R^2(\\sin^2A+\\sin^2B+\\sin^2C)$। ত্রিভুজের জন্য পরিচিত পরিচয় $\\sin^2A+\\sin^2B+\\sin^2C=2(1+\\cos A\\cos B\\cos C)$। অতএব $a^2+b^2+c^2=8R^2(1+\\cos A\\cos B\\cos C)$।",
     "FinalAnswer": "$8R^2(1+\\cos A\\cos B\\cos C)$",
     "Source": "aks"
@@ -6850,7 +6850,7 @@
   {
     "id": "857",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$a\\sin B\\sin C+b\\sin C\\sin A+c\\sin A\\sin B$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $a\\sin B\\sin C+b\\sin C\\sin A+c\\sin A\\sin B$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "সাইন সূত্রে $\\sin A=\\frac{a}{2R}$, $\\sin B=\\frac{b}{2R}$, $\\sin C=\\frac{c}{2R}$। তাই $a\\sin B\\sin C=\\frac{abc}{4R^2}$। একইভাবে $b\\sin C\\sin A=\\frac{abc}{4R^2}$ এবং $c\\sin A\\sin B=\\frac{abc}{4R^2}$। যোগফল $=\\frac{3abc}{4R^2}$। আবার $\\Delta=\\frac{abc}{4R}$, তাই মান $=\\frac{3\\Delta}{R}$।",
     "FinalAnswer": "$\\frac{3\\Delta}{R}$",
     "Source": "aks"
@@ -6858,7 +6858,7 @@
   {
     "id": "858",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$(b^2-c^2)\\cot A+(c^2-a^2)\\cot B+(a^2-b^2)\\cot C$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $(b^2-c^2)\\cot A+(c^2-a^2)\\cot B+(a^2-b^2)\\cot C$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "সাইন সূত্রে $a=2R\\sin A$, $b=2R\\sin B$, $c=2R\\sin C$ এবং $\\cot A=\\frac{\\cos A}{\\sin A}$। এগুলো বসালে প্রতিটি পদে সাধারণ গুণক $4R^2$ নেওয়া যায়। তখন রাশি $\\sin^2B\\frac{\\cos A}{\\sin A}-\\sin^2C\\frac{\\cos A}{\\sin A}+\\cdots$ আকারে আসে। $A+B+C=\\pi$ সম্পর্ক ব্যবহার করে যুগল পদগুলো কাটাকাটি হয়। তাই পুরো যোগফল $0$।",
     "FinalAnswer": "$0$",
     "Source": "aks"
@@ -6866,7 +6866,7 @@
   {
     "id": "859",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$(s-a)\\tan\\frac{A}{2}$ এর সমতুল্য রূপ নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $(s-a)\\tan\\frac{A}{2}$ এর সমতুল্য রূপ নির্ণয় কর।",
     "DetailedAnswer": "অর্ধকোণ সূত্রে $\\tan\\frac{A}{2}=\\sqrt{\\frac{(s-b)(s-c)}{s(s-a)}}$। তাই $(s-a)\\tan\\frac{A}{2}=(s-a)\\sqrt{\\frac{(s-b)(s-c)}{s(s-a)}}=\\sqrt{\\frac{(s-a)^2(s-b)(s-c)}{s(s-a)}}=\\sqrt{\\frac{(s-a)(s-b)(s-c)}{s}}$। একইভাবে $(s-b)\\tan\\frac{B}{2}=\\sqrt{\\frac{(s-a)(s-b)(s-c)}{s}}$ এবং $(s-c)\\tan\\frac{C}{2}=\\sqrt{\\frac{(s-a)(s-b)(s-c)}{s}}$। অতএব তিনটি রাশি সমান।",
     "FinalAnswer": "$(s-b)\\tan\\frac{B}{2}=(s-c)\\tan\\frac{C}{2}$",
     "Source": "aks"
@@ -6874,7 +6874,7 @@
   {
     "id": "860",
     "ChapterName": "সংযুক্ত কোণের ত্রিকোণমিতিক অনুপাত",
-    "Question": "$(a+b+c)(\\tan^2\\frac{A}{2}+\\tan^2\\frac{B}{2})$ এর মান নির্ণয় কর।",
+    "Question": "যদি $ABC$ ত্রিভুজ হয়, $(a+b+c)(\\tan^2\\frac{A}{2}+\\tan^2\\frac{B}{2})$ এর মান নির্ণয় কর।",
     "DetailedAnswer": "প্রদত্ত রাশি $=(a+b+c)(\\tan^2\\frac{A}{2}+\\tan^2\\frac{B}{2})=2s\\left(\\frac{(s-b)(s-c)}{s(s-a)}+\\frac{(s-c)(s-a)}{s(s-b)}\\right)=2c\\cot\\frac{C}{2}$।",
     "FinalAnswer": "$2c\\cot\\frac{C}{2}$",
     "Source": "aks"
@@ -10306,7 +10306,7 @@
   {
     "id": "1289",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x^4+x^2y^2+y^4=0$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x^4+x^2y^2+y^4=0$",
     "DetailedAnswer": "$1.(i)$ দেওয়া আছে, $x^4+x^2y^2+y^4=0$\\\\$x-\\text{এর সাপেক্ষে অন্তরীকরণ করে পাই,}$\\\\$\\therefore 4x^3+2xy^2+2x^2y\\frac{dy}{dx}+4y^3\\frac{dy}{dx}=0$\\\\$\\therefore 2y(x^2+2y^2)\\frac{dy}{dx}=-(4x^3+2xy^2)=-2x(2x^2+y^2)$\\\\$\\therefore\\frac{dy}{dx}=-\\frac{x(2x^2+y^2)}{y(x^2+2y^2)}\\ (Ans.)$",
     "FinalAnswer": "$-\\frac{x(2x^2+y^2)}{y(x^2+2y^2)}$",
     "Source": "aks"
@@ -10314,7 +10314,7 @@
   {
     "id": "1290",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x^3y+xy^3=2$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x^3y+xy^3=2$",
     "DetailedAnswer": "$(ii)$ দেওয়া আছে, $x^3y+xy^3=2$\\\\$x-\\text{এর সাপেক্ষে অন্তরীকরণ করে পাই,}$\\\\$\\therefore 3x^2y+x^3\\frac{dy}{dx}+y^3+3xy^2\\frac{dy}{dx}=0$\\\\$\\therefore (x^3+3xy^2)\\frac{dy}{dx}=-(3x^2y+y^3)$\\\\$\\therefore\\frac{dy}{dx}=-\\frac{(3x^2y+y^3)}{x^3+3xy^2}=-\\frac{y(3x^2+y^2)}{x(x^2+3y^2)}\\ (Ans.)$",
     "FinalAnswer": "$-\\frac{y(3x^2+y^2)}{x(x^2+3y^2)}$",
     "Source": "aks"
@@ -10322,7 +10322,7 @@
   {
     "id": "1291",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$y=\\tan(x+y)$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $y=\\tan(x+y)$",
     "DetailedAnswer": "$2.(i)$ দেওয়া আছে, $y=\\tan(x+y)$\\\\$x-\\text{এর সাপেক্ষে অন্তরীকরণ করে পাই,}$\\\\$\\frac{dy}{dx}=\\sec^2(x+y)\\frac{d}{dx}(x+y)=\\sec^2(x+y)\\left(1+\\frac{dy}{dx}\\right)$\\\\$\\therefore \\frac{dy}{dx}-\\sec^2(x+y)\\frac{dy}{dx}=\\sec^2(x+y)$\\\\$\\therefore \\{1-\\sec^2(x+y)\\}\\frac{dy}{dx}=1+\\tan^2(x+y)$\\\\$\\therefore -\\tan^2(x+y)\\frac{dy}{dx}=1+y^2$\\\\$\\therefore -y^2\\frac{dy}{dx}=1+y^2$\\\\$\\therefore\\frac{dy}{dx}=-\\left(1+\\frac{1}{y^2}\\right)\\ (Ans.)$",
     "FinalAnswer": "$-\\left(1+\\frac{1}{y^2}\\right)$",
     "Source": "aks"
@@ -10330,7 +10330,7 @@
   {
     "id": "1292",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$y=\\sin(x+y)^2$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $y=\\sin(x+y)^2$",
     "DetailedAnswer": "$(ii)$ যদি, $y=\\sin(x+y)^2$\\\\$x-\\text{এর সাপেক্ষে অন্তরীকরণ করে পাই,}$\\\\$\\frac{dy}{dx}=\\cos(x+y)^2\\cdot2(x+y)\\left(1+\\frac{dy}{dx}\\right)$\\\\$=2(x+y)\\cos(x+y)^2+2(x+y)\\cos(x+y)^2\\frac{dy}{dx}$\\\\$\\therefore \\{1-2(x+y)\\cos(x+y)^2\\}\\frac{dy}{dx}=2(x+y)\\cos(x+y)^2$\\\\$\\therefore\\frac{dy}{dx}=\\frac{2(x+y)\\cos(x+y)^2}{1-2(x+y)\\cos(x+y)^2}$\\\\$=\\frac{2(x+y)\\sqrt{1-y^2}}{1-2(x+y)\\sqrt{1-y^2}}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{2(x+y)\\sqrt{1-y^2}}{1-2(x+y)\\sqrt{1-y^2}}$",
     "Source": "aks"
@@ -10338,7 +10338,7 @@
   {
     "id": "1293",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x\\cos y=\\sin(x+y)$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x\\cos y=\\sin(x+y)$",
     "DetailedAnswer": "$(iii)$ দেওয়া আছে, $x\\cos y=\\sin(x+y)$\\\\$x-\\text{এর সাপেক্ষে অন্তরীকরণ করে পাই,}$\\\\$\\cos y-x\\sin y\\frac{dy}{dx}=\\cos(x+y)\\frac{d}{dx}(x+y)$\\\\$\\cos y-x\\sin y\\frac{dy}{dx}=\\cos(x+y)\\left(1+\\frac{dy}{dx}\\right)$\\\\$\\therefore -\\{x\\sin y+\\cos(x+y)\\}\\frac{dy}{dx}=\\cos(x+y)-\\cos y$\\\\$\\therefore\\frac{dy}{dx}=\\frac{\\cos y-\\cos(x+y)}{x\\sin y+\\cos(x+y)}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{\\cos y-\\cos(x+y)}{x\\sin y+\\cos(x+y)}$",
     "Source": "aks"
@@ -10346,7 +10346,7 @@
   {
     "id": "1294",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x^2+y^2=\\sin(xy)$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x^2+y^2=\\sin(xy)$",
     "DetailedAnswer": "$(iv)\\ x^2+y^2=\\sin(xy)$\\\\$x-\\text{এর সাপেক্ষে অন্তরীকরণ করে পাই,}$\\\\$2x+2y\\frac{dy}{dx}=\\cos(xy)\\frac{d}{dx}(xy)$\\\\$2x+2y\\frac{dy}{dx}=\\cos(xy)\\left(x\\frac{dy}{dx}+y\\right)$\\\\$\\therefore \\{2y-x\\cos(xy)\\}\\frac{dy}{dx}=-2x+y\\cos(xy)$\\\\$\\therefore\\frac{dy}{dx}=\\frac{y\\cos(xy)-2x}{2y-x\\cos(xy)}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{y\\cos(xy)-2x}{2y-x\\cos(xy)}$",
     "Source": "aks"
@@ -10354,7 +10354,7 @@
   {
     "id": "1295",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x=y\\ln(xy)$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x=y\\ln(xy)$",
     "DetailedAnswer": "$(v)$ দেওয়া আছে, $x=y\\ln(xy)$\\\\$1=\\frac{y}{x}+\\ln x\\frac{dy}{dx}+\\frac{y}{y}\\frac{dy}{dx}+\\ln y\\frac{dy}{dx}$\\\\$\\therefore 1-\\frac{y}{x}=(\\ln xy+1)\\frac{dy}{dx}$\\\\$\\therefore \\frac{x-y}{x}=\\left(\\frac{x}{y}+1\\right)\\frac{dy}{dx}$\\\\$\\therefore\\frac{dy}{dx}=\\frac{y(x-y)}{x(x+y)}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{y(x-y)}{x(x+y)}$",
     "Source": "aks"
@@ -10362,7 +10362,7 @@
   {
     "id": "1296",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$\\ln(xy)=x+y$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $\\ln(xy)=x+y$",
     "DetailedAnswer": "$(vi)$ দেওয়া আছে, $\\ln(xy)=x+y$\\\\$\\therefore \\ln x+\\ln y-x-y=0$\\\\$x-\\text{এর সাপেক্ষে অন্তরীকরণ করে পাই,}$\\\\$\\frac{1}{x}+\\frac{1}{y}\\frac{dy}{dx}-1-\\frac{dy}{dx}=0$\\\\$\\therefore \\left(\\frac{1}{y}-1\\right)\\frac{dy}{dx}=1-\\frac{1}{x}$\\\\$\\therefore\\frac{dy}{dx}=\\frac{y(x-1)}{x(1-y)}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{y(x-1)}{x(1-y)}$",
     "Source": "aks"
@@ -10370,7 +10370,7 @@
   {
     "id": "1297",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$e^{xy}-4xy=2$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $e^{xy}-4xy=2$",
     "DetailedAnswer": "$(vii)$ দেওয়া আছে, $e^{xy}-4xy=2$\\\\$x-\\text{এর সাপেক্ষে অন্তরীকরণ করে পাই,}$\\\\$e^{xy}\\frac{d}{dx}(xy)-4y-4x\\frac{dy}{dx}=0$\\\\$e^{xy}\\left(x\\frac{dy}{dx}+y\\right)-4y-4x\\frac{dy}{dx}=0$\\\\$x(e^{xy}-4)\\frac{dy}{dx}=4y-ye^{xy}$\\\\$\\therefore\\frac{dy}{dx}=-\\frac{y}{x}\\ (Ans.)$",
     "FinalAnswer": "$-\\frac{y}{x}$",
     "Source": "aks"
@@ -10378,7 +10378,7 @@
   {
     "id": "1298",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x^2=5y^2+\\sin y$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x^2=5y^2+\\sin y$",
     "DetailedAnswer": "$(viii)\\ x^2=5y^2+\\sin y$\\\\$x-\\text{এর সাপেক্ষে অন্তরীকরণ করে পাই,}$\\\\$2x=10y\\frac{dy}{dx}+\\cos y\\frac{dy}{dx}$\\\\$\\therefore\\frac{dy}{dx}=\\frac{2x}{10y+\\cos y}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{2x}{10y+\\cos y}$",
     "Source": "aks"
@@ -10386,7 +10386,7 @@
   {
     "id": "1299",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$\\tan y=\\sin x$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $\\tan y=\\sin x$",
     "DetailedAnswer": "$(ix)$ দেওয়া আছে, $\\tan y=\\sin x$\\\\$\\therefore y=\\tan^{-1}\\sin x$\\\\$\\therefore\\frac{dy}{dx}=\\frac{1}{1+\\sin^2x}\\cos x=\\frac{\\cos x}{1+\\sin^2x}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{\\cos x}{1+\\sin^2x}$",
     "Source": "aks"
@@ -10394,7 +10394,7 @@
   {
     "id": "1300",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$(\\cos x)^y=(\\sin y)^x$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $(\\cos x)^y=(\\sin y)^x$",
     "DetailedAnswer": "$3.(i)\\ (\\cos x)^y=(\\sin y)^x$\\\\$\\therefore \\ln(\\cos x)^y=\\ln(\\sin y)^x$ [উভয় পাশে ln নিয়ে]\\\\$y\\ln(\\cos x)=x\\ln(\\sin y)$\\\\$\\frac{dy}{dx}\\ln(\\cos x)+y(-\\tan x)=\\ln(\\sin y)+x\\cot y\\frac{dy}{dx}$\\\\$\\therefore\\frac{dy}{dx}\\{\\ln(\\cos x)-x\\cot y\\}=\\ln(\\sin y)+y\\tan x$\\\\$\\therefore\\frac{dy}{dx}=\\frac{\\ln(\\sin y)+y\\tan x}{\\ln(\\cos x)-x\\cot y}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{\\ln(\\sin y)+y\\tan x}{\\ln(\\cos x)-x\\cot y}$",
     "Source": "aks"
@@ -10402,7 +10402,7 @@
   {
     "id": "1301",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$(\\sec x)^y=(\\tan y)^x$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $(\\sec x)^y=(\\tan y)^x$",
     "DetailedAnswer": "$(ii)$ দেওয়া আছে, $(\\sec x)^y=(\\tan y)^x$\\\\$\\therefore \\ln(\\sec x)^y=\\ln(\\tan y)^x$ [উভয় পাশে ln নিয়ে]\\\\$y\\ln(\\sec x)=x\\ln(\\tan y)$\\\\$\\frac{dy}{dx}\\ln(\\sec x)+y\\tan x=\\ln(\\tan y)+x\\cot y\\sec^2y\\frac{dy}{dx}$\\\\$\\therefore \\{\\ln(\\sec x)-x\\cot y\\sec^2y\\}\\frac{dy}{dx}=\\ln(\\tan y)-y\\tan x$\\\\$\\therefore\\frac{dy}{dx}=\\frac{\\ln(\\tan y)-y\\tan x}{\\ln(\\sec x)-x\\cot y\\sec^2y}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{\\ln(\\tan y)-y\\tan x}{\\ln(\\sec x)-x\\cot y\\sec^2y}$",
     "Source": "aks"
@@ -10410,7 +10410,7 @@
   {
     "id": "1302",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x^yy^x=1$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x^yy^x=1$",
     "DetailedAnswer": "$(iii)$ দেওয়া আছে, $x^yy^x=1$\\\\$\\therefore \\ln(x^yy^x)=\\ln1$ [উভয় পাশে ln নিয়ে]\\\\$y\\ln x+x\\ln y=0$\\\\$\\frac{dy}{dx}\\ln x+\\frac{y}{x}+\\ln y+\\frac{x}{y}\\frac{dy}{dx}=0$\\\\$\\therefore\\frac{dy}{dx}=-\\frac{\\ln y+\\frac{y}{x}}{\\ln x+\\frac{x}{y}}=-\\frac{y(x\\ln y+y)}{x(y\\ln x+x)}\\ (Ans.)$",
     "FinalAnswer": "$-\\frac{y(x\\ln y+y)}{x(y\\ln x+x)}$",
     "Source": "aks"
@@ -10418,7 +10418,7 @@
   {
     "id": "1303",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x^my^n=(x-y)^{m+n}$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x^my^n=(x-y)^{m+n}$",
     "DetailedAnswer": "$(iv)$ দেওয়া আছে, $x^my^n=(x-y)^{m+n}$\\\\$m\\ln x+n\\ln y=(m+n)\\ln(x-y)$\\\\$\\frac{m}{x}+\\frac{n}{y}\\frac{dy}{dx}=\\frac{m+n}{x-y}\\left(1-\\frac{dy}{dx}\\right)$\\\\$\\therefore\\frac{dy}{dx}=\\frac{y}{x}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{y}{x}$",
     "Source": "aks"
@@ -10426,7 +10426,7 @@
   {
     "id": "1304",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x^y=e^{x-y}$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x^y=e^{x-y}$",
     "DetailedAnswer": "$(v)$ দেওয়া আছে, $x^y=e^{x-y}$\\\\$\\therefore \\ln x^y=\\ln e^{x-y}$ [উভয় পাশে ln নিয়ে]\\\\$y\\ln x=x-y$\\\\$\\therefore y(1+\\ln x)=x$\\\\$\\therefore y=\\frac{x}{1+\\ln x}$\\\\$\\therefore\\frac{dy}{dx}=\\frac{\\ln x}{(1+\\ln x)^2}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{\\ln x}{(1+\\ln x)^2}$",
     "Source": "aks"
@@ -10434,7 +10434,7 @@
   {
     "id": "1305",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$y+x=x^{-y}$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $y+x=x^{-y}$",
     "DetailedAnswer": "$(vi)\\ y+x=x^{-y}$\\\\$\\therefore y+x=e^{-y\\ln x}$\\\\$x-\\text{এর সাপেক্ষে অন্তরীকরণ করে পাই,}$\\\\$\\frac{dy}{dx}+1=x^{-y}\\left[-\\frac{y}{x}-\\ln x\\frac{dy}{dx}\\right]$\\\\$\\Rightarrow (1+x^{-y}\\ln x)\\frac{dy}{dx}=-1-yx^{-y-1}$\\\\$\\therefore\\frac{dy}{dx}=\\frac{-1-yx^{-y-1}}{1+x^{-y}\\ln x}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{-1-yx^{-y-1}}{1+x^{-y}\\ln x}$",
     "Source": "aks"
@@ -10442,7 +10442,7 @@
   {
     "id": "1306",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$e^y=x^{x-y}$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $e^y=x^{x-y}$",
     "DetailedAnswer": "$(vii)\\ e^y=x^{x-y}\\Rightarrow y=\\ln x^{x-y}=(x-y)\\ln x$\\\\$x-\\text{এর সাপেক্ষে অন্তরীকরণ করে পাই,}$\\\\$\\frac{dy}{dx}=(x-y)\\frac{1}{x}+\\left(1-\\frac{dy}{dx}\\right)\\ln x$\\\\$\\Rightarrow (1+\\ln x)\\frac{dy}{dx}=1-\\frac{y}{x}+\\ln x$\\\\$\\therefore\\frac{dy}{dx}=1-\\frac{y}{x(1+\\ln x)}\\ (Ans.)$",
     "FinalAnswer": "$1-\\frac{y}{x(1+\\ln x)}$",
     "Source": "aks"
@@ -10450,7 +10450,7 @@
   {
     "id": "1307",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$xy+y=\\sin^{-1}\\frac{y}{x}$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $xy+y=\\sin^{-1}\\frac{y}{x}$",
     "DetailedAnswer": "$4.(i)$ দেওয়া আছে, $xy+y=\\sin^{-1}\\frac{y}{x}$\\\\$\\therefore \\sin(xy+y)=\\frac{y}{x}$\\\\$x-\\text{এর সাপেক্ষে অন্তরীকরণ করে পাই,}$\\\\$\\cos(xy+y)\\left(x\\frac{dy}{dx}+y+\\frac{dy}{dx}\\right)=\\frac{x\\frac{dy}{dx}-y}{x^2}$\\\\$x^2\\cos(xy+y)\\{(1+x)\\frac{dy}{dx}+y\\}=x\\frac{dy}{dx}-y$\\\\$\\therefore \\{(x^2+x^3)\\cos(xy+y)-x\\}\\frac{dy}{dx}=-x^2y\\cos(xy+y)-y$\\\\$\\therefore\\frac{dy}{dx}=\\frac{-x^2y\\cos(xy+y)-y}{(x^2+x^3)\\cos(xy+y)-x}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{-x^2y\\cos(xy+y)-y}{(x^2+x^3)\\cos(xy+y)-x}$",
     "Source": "aks"
@@ -10458,7 +10458,7 @@
   {
     "id": "1308",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x^y+y^x=a^b$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x^y+y^x=a^b$",
     "DetailedAnswer": "$(ii)$ দেওয়া আছে, $x^y+y^x=a^b$\\\\$\\text{ধরি,} u=x^y\\ \\text{ও}\\ v=y^x$\\\\$u=x^y\\Rightarrow \\ln u=y\\ln x\\Rightarrow \\frac{du}{dx}=x^y\\left(\\frac{y}{x}+\\ln x\\frac{dy}{dx}\\right)$\\\\$v=y^x\\Rightarrow \\ln v=x\\ln y\\Rightarrow \\frac{dv}{dx}=y^x\\left(\\frac{x}{y}\\frac{dy}{dx}+\\ln y\\right)$\\\\$\\frac{du}{dx}+\\frac{dv}{dx}=0$\\\\$\\therefore\\frac{dy}{dx}=\\frac{-yx^{y-1}-y^x\\ln y}{x^y\\ln x+xy^{x-1}}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{-yx^{y-1}-y^x\\ln y}{x^y\\ln x+xy^{x-1}}$",
     "Source": "aks"
@@ -10466,7 +10466,7 @@
   {
     "id": "1309",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x=a\\cos\\theta,\\ y=a\\sin\\theta$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x=a\\cos\\theta,\\ y=a\\sin\\theta$",
     "DetailedAnswer": "$5.(i)\\ x=a\\cos\\theta\\quad\\therefore\\frac{dx}{d\\theta}=-a\\sin\\theta$\\\\$y=a\\sin\\theta\\quad\\therefore\\frac{dy}{d\\theta}=a\\cos\\theta$\\\\$\\therefore\\frac{dy}{dx}=\\frac{a\\cos\\theta}{-a\\sin\\theta}=-\\cot\\theta\\ (Ans.)$",
     "FinalAnswer": "$-\\cot\\theta$",
     "Source": "aks"
@@ -10474,7 +10474,7 @@
   {
     "id": "1310",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x=at^2,\\ y=2at$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x=at^2,\\ y=2at$",
     "DetailedAnswer": "$(ii)\\ x=at^2\\quad\\therefore\\frac{dx}{dt}=2at$\\\\$y=2at\\quad\\therefore\\frac{dy}{dt}=2a$\\\\$\\therefore\\frac{dy}{dx}=\\frac{2a}{2at}=\\frac{1}{t}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{1}{t}$",
     "Source": "aks"
@@ -10482,7 +10482,7 @@
   {
     "id": "1311",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x=e^t\\cos t,\\ y=e^t\\sin t$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x=e^t\\cos t,\\ y=e^t\\sin t$",
     "DetailedAnswer": "$(iii)\\ x=e^t\\cos t\\quad\\therefore\\frac{dx}{dt}=e^t(-\\sin t)+e^t\\cos t$\\\\$y=e^t\\sin t\\quad\\therefore\\frac{dy}{dt}=e^t\\cos t+e^t\\sin t$\\\\$\\therefore\\frac{dy}{dx}=\\frac{e^t(\\cos t+\\sin t)}{e^t(\\cos t-\\sin t)}=\\frac{\\cos t+\\sin t}{\\cos t-\\sin t}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{\\cos t+\\sin t}{\\cos t-\\sin t}$",
     "Source": "aks"
@@ -10490,7 +10490,7 @@
   {
     "id": "1312",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x=a(\\theta-\\sin\\theta),\\ y=a(1-\\cos\\theta)$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x=a(\\theta-\\sin\\theta),\\ y=a(1-\\cos\\theta)$",
     "DetailedAnswer": "$(iv)\\ x=a(\\theta-\\sin\\theta)\\quad\\therefore\\frac{dx}{d\\theta}=a(1-\\cos\\theta)$\\\\$y=a(1-\\cos\\theta)\\quad\\therefore\\frac{dy}{d\\theta}=a\\sin\\theta$\\\\$\\therefore\\frac{dy}{dx}=\\frac{\\sin\\theta}{1-\\cos\\theta}=\\cot\\frac{\\theta}{2}\\ (Ans.)$",
     "FinalAnswer": "$\\cot\\frac{\\theta}{2}$",
     "Source": "aks"
@@ -10498,7 +10498,7 @@
   {
     "id": "1313",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x=\\frac{3at}{1+t^3},\\ y=\\frac{3at^2}{1+t^3}$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x=\\frac{3at}{1+t^3},\\ y=\\frac{3at^2}{1+t^3}$",
     "DetailedAnswer": "$(v)\\ x=\\frac{3at}{1+t^3}$\\\\$\\frac{dx}{dt}=\\frac{(1+t^3)3a-3at\\cdot3t^2}{(1+t^3)^2}=\\frac{3a(1-2t^3)}{(1+t^3)^2}$\\\\$y=\\frac{3at^2}{1+t^3}$\\\\$\\frac{dy}{dt}=\\frac{(1+t^3)6at-3at^2\\cdot3t^2}{(1+t^3)^2}=\\frac{3at(2-t^3)}{(1+t^3)^2}$\\\\$\\therefore\\frac{dy}{dx}=\\frac{3at(2-t^3)}{(1+t^3)^2}\\cdot\\frac{(1+t^3)^2}{3a(1-2t^3)}=\\frac{t(2-t^3)}{1-2t^3}\\ (Ans.)$\\\\$\\text{বিকল্প সমাধান:}\\ x^2+y^2=3axy$\\\\$\\therefore\\frac{dy}{dx}=\\frac{ay-x^2}{xy-ax}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{t(2-t^3)}{1-2t^3}$",
     "Source": "aks"
@@ -10506,7 +10506,7 @@
   {
     "id": "1314",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x=\\frac{a\\cos t}{t},\\ y=\\frac{a\\sin t}{t}$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x=\\frac{a\\cos t}{t},\\ y=\\frac{a\\sin t}{t}$",
     "DetailedAnswer": "$(vi)\\ x=\\frac{a\\cos t}{t}\\quad\\therefore\\frac{dx}{dt}=\\frac{-at\\sin t-a\\cos t}{t^2}$\\\\$y=\\frac{a\\sin t}{t}\\quad\\therefore\\frac{dy}{dt}=\\frac{at\\cos t-a\\sin t}{t^2}$\\\\$\\therefore\\frac{dy}{dx}=\\frac{at\\cos t-a\\sin t}{-at\\sin t-a\\cos t}=\\frac{\\sin t-t\\cos t}{t\\sin t+\\cos t}\\ (Ans.)$",
     "FinalAnswer": "$\\frac{\\sin t-t\\cos t}{t\\sin t+\\cos t}$",
     "Source": "aks"
@@ -10514,7 +10514,7 @@
   {
     "id": "1315",
     "ChapterName": "অন্তরীকরণ",
-    "Question": "$x=a(\\cos t+t\\sin t),\\ y=a(\\sin t-t\\cos t)$",
+    "Question": "অব্যক্ত ফাংশনের $dy/dx$ নির্ণয় করো। $x=a(\\cos t+t\\sin t),\\ y=a(\\sin t-t\\cos t)$",
     "DetailedAnswer": "$(vii)\\ x=a(\\cos t+t\\sin t)$\\\\$\\therefore\\frac{dx}{dt}=a(-\\sin t+\\sin t+t\\cos t)=at\\cos t$\\\\$y=a(\\sin t-t\\cos t)$\\\\$\\therefore\\frac{dy}{dt}=a(\\cos t-\\cos t+t\\sin t)=at\\sin t$\\\\$\\therefore\\frac{dy}{dx}=\\frac{at\\sin t}{at\\cos t}=\\tan t\\ (Ans.)$",
     "FinalAnswer": "$\\tan t$",
     "Source": "aks"
